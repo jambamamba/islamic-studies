@@ -1,22 +1,45 @@
 # The Hadith Controversy: Quran-Alone vs. Mainstream Islam
 
-> **About this document.** Part One reproduces an AI-assisted conversation on the
-> authority of hadith. Part Two is separate verification research, which corrects several
-> claims in Part One, adds the academic scholarship on hadith transmission, and supplies
-> the mainstream replies the original conversation left out. Part Three is a technical
-> reference on how the collections were compiled, how chains are authenticated, and how
-> each tradition grades what it holds — Sunni, Twelver Shia, Zaydi, Ismaili, and Ibadi.
-> Part Four is source criticism: what genre each cited work belongs to and what a citation
-> to it can actually support. Parts Two through Four were researched on Aug. 21, 2026;
-> where they conflict with Part One, they are the later and better sourced. The Conclusion,
-> added Aug. 23, 2026, argues a position from the Quran itself — reading the story of the cow
-> in Surah al-Baqarah as a diagnosis of the impulse that produces reliance on hadith — and
-> states plainly what that position must concede. None of it substitutes for the primary
-> texts.
+> **About this document.** It opens with **why** the question matters — the practical harm
+> done when a newcomer to Islam is handed contradictory reports instead of the Quran — then
+> states **the core argument** it defends, then explains the **date systems** and gives a
+> **chronology** of the collections. Only after that comes the history. Part One reproduces an
+> AI-assisted conversation on the authority of hadith. Part Two is separate verification
+> research, which corrects several claims in Part One, adds the academic scholarship on hadith
+> transmission, and supplies the mainstream replies the original conversation left out. Part
+> Three is a technical reference on how the collections were compiled, how chains are
+> authenticated, and how each tradition grades what it holds — Sunni, Twelver Shia, Zaydi,
+> Ismaili, and Ibadi. Part Four is source criticism: what genre each cited work belongs to and
+> what a citation to it can actually support. Parts Two through Four were researched on Aug. 21,
+> 2026; the opening sections and the chronology on Aug. 23, 2026. Where later material conflicts
+> with Part One, it is the better sourced. The argument stated up front is a position, and the
+> sections that state it also state what they must concede. None of it substitutes for the
+> primary texts.
 
 ## Contents
 
-**Part One: The Original Conversation**
+**[Why This Question Matters](#why-this-question-matters)**
+
+- [1. The Problem This Document Exists to Address](#1-the-problem-this-document-exists-to-address)
+- [2. What the Quran Says About Itself](#2-what-the-quran-says-about-itself)
+- [3. Where the Reports Contradict the Text](#3-where-the-reports-contradict-the-text)
+- [4. Where the Reports Make the Religion Harder Than the Quran Made It](#4-where-the-reports-make-the-religion-harder-than-the-quran-made-it)
+- [5. What Follows From This, and What Does Not](#5-what-follows-from-this-and-what-does-not)
+
+**[The Core Argument: The Cow, the Question, and the Room God Left](#the-core-argument-the-cow-the-question-and-the-room-god-left)**
+
+- [1. The Book Announces Itself as Guidance](#1-the-book-announces-itself-as-guidance)
+- [2. The Story of the Cow](#2-the-story-of-the-cow)
+- [3. What the Story Diagnoses](#3-what-the-story-diagnoses)
+- [4. Silence as Mercy](#4-silence-as-mercy)
+- [5. The Position](#5-the-position)
+- [6. What This Position Must Accept](#6-what-this-position-must-accept)
+
+**[A Note on Dates: C.E., B.C.E., and A.H.](#a-note-on-dates-ce-bce-and-ah)**
+
+**[Chronology of the Collections](#chronology-of-the-collections)**
+
+**Part One: [The Original Conversation](#part-one-the-original-conversation)**
 
 - [What the Quran Says About Following Other Books](#what-the-quran-says-about-following-other-books)
 - [Does This Mean Muslims Should Reject the Books of Hadith?](#does-this-mean-muslims-should-reject-the-books-of-hadith)
@@ -56,16 +79,463 @@
 - [2. The Genres, and What Each Can Support](#2-the-genres-and-what-each-can-support)
 - [3. What This Does to the Arguments in Parts One and Two](#3-what-this-does-to-the-arguments-in-parts-one-and-two)
 
-**Conclusion: [The Cow, the Question, and the Room God Left](#conclusion-the-cow-the-question-and-the-room-god-left)**
-
-- [1. The Book Announces Itself as Guidance](#1-the-book-announces-itself-as-guidance)
-- [2. The Story of the Cow](#2-the-story-of-the-cow)
-- [3. What the Story Diagnoses](#3-what-the-story-diagnoses)
-- [4. Silence as Mercy](#4-silence-as-mercy)
-- [5. The Position](#5-the-position)
-- [6. What This Position Must Accept](#6-what-this-position-must-accept)
-
 **[Sources Referenced](#sources-referenced)**
+
+---
+
+# Why This Question Matters
+
+This document is long and technical. The reason for it is not.
+
+## 1. The Problem This Document Exists to Address
+
+Someone comes to Islam — new to it, considering it, or born into it and asking a real question
+for the first time. They ask something simple. *What does Islam say about this?*
+
+They are very often not handed the Quran. They are handed a hadith. Frequently several, drawn
+from different collections, carrying different gradings, sometimes disagreeing with each other,
+and occasionally saying the opposite of what the Quran says. The enquirer, reasonably, draws one
+of two conclusions. Either the religion is a thicket of rulings no ordinary person could
+navigate without a specialist, or it asks them to believe things the Quran itself denies.
+
+Both conclusions are avoidable. Both follow from the same mistake — going first to a secondary,
+humanly transmitted body of reports rather than to the book the religion claims as its
+criterion.
+
+## 2. What the Quran Says About Itself
+
+Before weighing what the reports say, it is worth registering the claims the Quran makes about
+its own sufficiency, clarity, and lightness.
+
+> **(2:2)** This is the Book! There is no doubt about it — a guide for those mindful ˹of
+> Allah˺,
+
+> **(6:114)** Should I seek a judge other than Allah while He is the One Who has revealed for
+> you the Book with the truth perfectly explained?
+
+> **(2:185)** ...Allah intends ease for you, not hardship...
+
+> **(5:87)** O believers! Do not forbid the good things which Allah has made lawful for you,
+> and do not transgress. Indeed, Allah does not like transgressors.
+
+> **(7:32)** Ask, ˹O Prophet,˺ "Who has forbidden the adornments and lawful provisions Allah
+> has brought forth for His servants?"
+
+Read together these establish a posture rather than a rulebook. The Book is *guidance*
+(*hudan*), it is *perfectly explained* (*mufassalan*), it intends *ease* not hardship, and it
+warns believers specifically against **adding prohibitions of their own**. That last point is
+the one most relevant to what follows, because 5:87 and 7:32 are not neutral on the question of
+a growing body of restrictions. They are hostile to it.
+
+## 3. Where the Reports Contradict the Text
+
+The examples below are the ones most often put to newcomers, and they are the sharpest cases
+where a report in the canonical collections says something the Quran appears to rule out. Each
+is given with its location and the verse that stands against it.
+
+| The report | Where | What the Quran says |
+| --- | --- | --- |
+| God created Adam **in His image** | Bukhari 6227, Muslim 2612, via Abu Hurayra | 112:4 "there is none comparable to Him"; 42:11 "there is nothing like Him" |
+| Gold and silk are **forbidden to men** | Abu Dawud 4057, al-Nasa'i 5144, Ibn Majah 3595, via Ali | 7:32 "who has forbidden the adornments...?"; 5:87 "do not forbid the good things"; and 18:31, 22:23, 35:33 promise gold bracelets to believers with no gender attached |
+| Married adulterers are **stoned to death** | Bukhari, Muslim | 24:2 prescribes one hundred lashes, with no distinction by marital status and no mention of stoning anywhere in the text |
+| Whoever **changes his religion, kill him** | Bukhari 6922, via Ikrima from Ibn Abbas | 2:256 "there is no compulsion in religion"; 18:29 "whoever wills, let him believe; whoever wills, let him disbelieve" |
+| Prayer is annulled by **a woman, a donkey and a dog** passing | Abu Dawud, Muslim, via Abu Hurayra | Nowhere in the Quran. Aisha is reported to have answered it directly: "You have compared us to donkeys and dogs" |
+| Woman was **created from a crooked rib** | Bukhari, Muslim | 4:1 and 7:189 have God create humanity from a single soul and its mate from it — a common origin, not a defective derivative |
+| The sun **prostrates beneath God's throne** at night | Bukhari | 36:38-40 describes the sun running a course, each body swimming in its own orbit |
+| Dip a **fly** fully into your drink, one wing carries disease and the other cure | Bukhari 5782 | No Quranic basis; the Quran attributes no medical instruction to the Prophet |
+
+Two of these are worth dwelling on, because they show two different kinds of failure.
+
+**The image hadith is a theological failure.** Surah al-Ikhlas is four verses long and exists to
+foreclose exactly this. It says God is One, self-sufficient, unbegotten and unbegetting, and
+that *there is none comparable to Him*. Surah 42:11 repeats it in five words. A report that
+God made Adam in His image invites the one comparison the Quran spends whole chapters
+excluding. The tradition is aware of the difficulty and has answers — read the pronoun as
+referring to Adam rather than God, or read the resemblance as partial and non-physical, on the
+analogy of a report describing the first group in Paradise as being "in the image of the moon."
+Those answers may work. But note what has happened: the enquirer now needs a specialist to
+explain why a canonical report does not mean what it says, in order to protect a doctrine the
+Quran had already stated plainly and without help.
+
+**The gold prohibition is a legal failure.** There is no verse forbidding gold to anyone. What
+the Quran does contain is 7:32, which asks who presumed to forbid the adornments God provided,
+and 5:87, which instructs believers not to forbid the good things God made lawful. It also
+promises gold bracelets to the people of Paradise three separate times — at 18:31, 22:23 and
+35:33 — without once specifying that only women will wear them. A prohibition on half the
+community wearing a particular metal rests entirely on solitary reports, and it runs against
+the grain of the verses that speak to the subject. Whatever its status in *fiqh*, it cannot be
+presented to a newcomer as something *the Quran* asks of them, because it is not.
+
+**In fairness.** Mainstream scholarship has developed answers to every item in that table, and
+several are more substantial than a newcomer would guess. [Part Two, section 4](#4-the-mainstream-replies-the-document-omits)
+sets those answers out at length, including cases where the objection is shared by classical
+jurists rather than being a modern invention. Nothing here claims these are knock-down cases.
+The claim is narrower and harder to dispute: **a person cannot be handed this material first
+and be expected to make sense of it.**
+
+## 4. Where the Reports Make the Religion Harder Than the Quran Made It
+
+Contradiction is the loud problem. Accumulation is the bigger one.
+
+The Quran forbids a short list of foods. The developed law runs to volumes. The Quran commands
+modest dress; the tradition specifies garments. The Quran commands prayer; the manuals specify
+which foot enters the mosque first, and how far the fingers spread. None of that detail is
+illegitimate as jurisprudence. All of it becomes a problem the moment it is presented as the
+entry requirement for belief.
+
+The Quran anticipates this directly.
+
+> **(5:101)** O believers! Do not ask about any matter which, if made clear to you, may
+> disturb you...
+
+And the hadith corpus preserves the same warning against itself. The Prophet is reported in
+Sahih Muslim to have announced the obligation of hajj, and a man asked whether it was due every
+year. The Prophet stayed silent. The man asked three times. The answer, when it came, was that
+had he said yes it would have become a yearly obligation and would have been beyond the
+people's capacity — followed by the instruction to leave him alone as long as he left them
+alone, and the warning that earlier communities were ruined because they put too many questions
+to their prophets and then disagreed about the answers.
+
+That is a hadith arguing against the over-extension of hadith, and it is worth more than any
+argument this document could construct.
+
+## 5. What Follows From This, and What Does Not
+
+**What follows.** The Quran comes first, and everything else is measured against it. Where a
+report clarifies the Quran and the community has carried its practice continuously — the form
+of the prayer being the clearest case — it is a genuine inheritance and should be received as
+one. Where a report contradicts the Quran's own moral or theological framework, the Quran
+governs. Where a report adds a prohibition the Quran does not contain, the burden of proof sits
+with the prohibition, not with the person declining it. A newcomer should be handed the Quran,
+and should be told plainly that it is enough to begin.
+
+**What does not follow.** That the corpus is worthless, that the scholars who built it were
+dishonest, or that fourteen centuries of jurisprudence can be waved away. The apparatus
+described in Part Three below is one of the most serious intellectual achievements of the premodern
+world, and the men who built it were trying to solve a real problem honestly. The argument here
+is about **order and weight**, not about worth.
+
+The rest of this document is the history, told straight — where the collections came from, how
+they were vetted, what the grading actually certifies, and what each kind of source can and
+cannot support.
+
+---
+
+# The Core Argument: The Cow, the Question, and the Room God Left
+
+This section states the position the document defends. It was drafted as the conclusion and
+sits here instead, because a reader deserves the argument before the apparatus rather than
+after it. Everything from Part One onward is the evidence the argument is answerable to.
+
+The case is made from the Quran itself rather than from the historical and academic material,
+which is why it can be read before any of it.
+
+## 1. The Book Announces Itself as Guidance
+
+Surah al-Baqarah opens with three letters and then a claim about the nature of what follows.
+
+> **(2:1)** Alif-Lãm-Mĩm.
+
+> **(2:2)** This is the Book! There is no doubt about it — a guide for those mindful ˹of
+> Allah˺,
+
+The opening is worth reading slowly, because it makes a specific claim and not a general one.
+The Book is *hudan*, guidance. It is not announced as a code, a manual, or a register of
+particulars. And the guidance is qualified by its audience — *lil-muttaqin*, for those mindful
+of God. Guidance presumes someone who receives it and then acts, exercising judgment in
+conditions the text does not enumerate. A code does the deciding for its reader. Guidance
+requires the reader to decide.
+
+The three letters that precede the claim are themselves instructive. The tradition has never
+established what *Alif Lam Mim* means, and the standard exegetical position is that its meaning
+rests with God. The Book therefore begins by declining to explain something, and immediately
+declares itself free of doubt. Clarity of purpose and completeness of detail are not the same
+property, and the first two verses of the longest surah demonstrate the difference before any
+ruling is given.
+
+## 2. The Story of the Cow
+
+The same surah, named after this episode, records what happens when a community meets a divine
+command and asks for particulars instead of obeying it.
+
+> **(2:67)** And ˹remember˺ when Moses said to his people, "Allah commands you to sacrifice a
+> cow." They replied, "Are you mocking us?" Moses responded, "I seek refuge in Allah from
+> acting foolishly!"
+
+> **(2:68)** They said, "Call upon your Lord to clarify for us what type ˹of cow˺ it should
+> be!" He replied, "Allah says, 'The cow should neither be old nor young but in between. So do
+> as you are commanded!'"
+
+> **(2:69)** They said, "Call upon your Lord to specify for us its colour." He replied, "Allah
+> says, 'It should be a bright yellow cow — pleasant to see.'"
+
+> **(2:70)** Again they said, "Call upon your Lord so that He may make clear to us which cow,
+> for all cows look the same to us. Then, Allah willing, we will be guided ˹to the right one˺."
+
+> **(2:71)** He replied, "Allah says, 'It should have been used neither to till the soil nor
+> water the fields; wholesome and without blemish.'" They said, "Now you have come with the
+> truth." Yet they still slaughtered it hesitantly!
+
+> **(2:72)** ˹This is˺ when a man was killed and you disputed who the killer was, but Allah
+> revealed what you concealed.
+
+> **(2:73)** So We instructed, "Strike the dead body with a piece of the cow." This is how
+> ˹easily˺ Allah brings the dead to life, showing you His signs so that you may understand.
+
+Read the sequence as a sequence. The original command is four words long and any cow in Israel
+would have satisfied it. Then comes the first question, and with it the first restriction —
+neither old nor young. Then the second question, and a colour requirement. Then a third
+question, and the animal must never have been worked and must be without blemish. By the end
+the community has talked itself from *any cow* into a single animal of a specified age, colour,
+and history, which the classical commentaries describe them as having to search for and buy at
+great expense. And when they finally have their answer, the verse does not record relief. It
+records that they slaughtered it hesitantly.
+
+Every added specification came from asking rather than from the original command. Nothing was
+withheld from them at the outset; the narrowing was self-inflicted, and each answer they
+extracted made obedience harder than it had been before they asked.
+
+## 3. What the Story Diagnoses
+
+The episode is not a story about cows. It is a diagnosis of a permanent human disposition, and
+the Quran preserves it as such — giving the longest surah in the Book its name from a single
+animal that was never specified until a community insisted on specifying it.
+
+The disposition is the demand for detail. It presents itself as scrupulousness and often is
+sincere. Its practical effect is to convert a command a person could have carried out
+immediately into a research problem requiring an authority to resolve. And it has one further
+effect the story makes explicit at 2:70, where the questioners frame their third demand as a
+condition of being guided at all. They will be guided, God willing, *once they know which cow*.
+Guidance has quietly been made contingent on information rather than on obedience.
+
+This is the mechanism, stated in the Quran's own terms, that produces the reliance on hadith
+this document has spent four parts examining. The Quran commands prayer without enumerating
+units, commands charity without stating a percentage, commands modest dress without specifying
+a garment. Faced with that, the same disposition asks the same question the Israelites asked —
+*which cow?* — and it must then go somewhere for an answer. The corpus described in Parts Two
+and Three is where it went: a vast, serious, sophisticated apparatus assembled by honest people
+to supply particulars the Quran did not supply. Parts Three and Four also established what that
+apparatus can and cannot deliver. It authenticates transmission, not occurrence. Its grading
+vocabulary postdates the collections by four centuries. Almost no ruling in it rests on a
+mass-transmitted report. And by its own account it contains material its own critics judged
+defective.
+
+None of that makes the corpus worthless. It makes it a human answer to a human question — and
+the question, on the evidence of 2:67-71, was one the Book did not ask its readers to raise.
+
+## 4. Silence as Mercy
+
+The natural reading of an undetailed command is that something is missing from it. Al-Baqarah
+suggests the opposite, and two further passages make the point directly.
+
+> **(5:101)** O believers! Do not ask about any matter which, if made clear to you, may disturb
+> you. But if you inquire about what is being revealed in the Quran, it will be made clear to
+> you. Allah has forgiven what was done ˹in the past˺. And Allah is All-Forgiving, Most
+> Forbearing.
+
+The verse does not merely discourage certain questions. It states that some answers would harm
+the questioner, which means the absence of the answer is a benefit rather than a gap. Silence
+is being described as protection.
+
+The tradition preserves the same principle in a report whose irony is worth noting, since it is
+a hadith arguing against the over-extension of hadith. The Prophet is reported in Sahih Muslim
+to have announced the obligation of hajj, and a man asked whether it was due every year. The
+Prophet stayed silent. The man asked three times. The answer, when it came, was that had he
+said yes it would have become a yearly obligation and would have been beyond the people's
+capacity — followed by the instruction to leave him alone as long as he left them alone, and
+the warning that earlier communities were ruined because they put too many questions to their
+prophets and then disagreed about the answers.
+
+Take those two together and the structure of the mercy is visible. A detailed command binds
+every case identically, including the cases it fits badly. A general command binds the purpose
+and leaves the application to the person, the place, and the circumstance. The undetailed
+command is therefore the more generous of the two. It carries latitude that a specified one
+could not carry, and the latitude is not an oversight to be repaired but a provision to be
+used. The Israelites were given a command with enormous latitude — any cow — and spent that
+latitude on questions until nothing was left of it.
+
+## 5. The Position
+
+The Quran calls itself guidance for those mindful of God, and guidance is addressed to a
+faculty. God gave human beings reason, conscience, moral perception, and the capacity to weigh
+a situation, and the Book repeatedly directs them to use these — to reflect, to consider, to
+understand, as 2:73 itself concludes. A revelation that intended to remove the need for
+judgment would have been written as a code, and it was not.
+
+What follows for the question this document has examined is a position rather than a proof.
+
+Muslims are not obliged to make the hadith corpus the sole route to a decision. The Quran is
+sufficient as guidance because it is guidance and does not claim to be an exhaustive rulebook,
+and a believer who reads it carefully and acts on it with sincerity, reason, and attention to
+circumstance is doing what the Book asks. Where the corpus preserves what is plainly the
+Prophet's practice, and where the community has carried that practice continuously, it is a
+genuine and valuable inheritance — the manner of the prayer being the clearest case. Where it
+supplies particulars the Quran declined to supply, and does so on the strength of a solitary
+report transmitted for two centuries and graded four centuries later, it is human testimony
+about the past and should be weighed as such rather than treated as beyond examination. And
+where a report contradicts the Quran's own moral and theological framework, the Quran governs.
+That is not a rejection of the tradition. It is the ordering the tradition itself claims to
+observe, applied consistently.
+
+The mistake the cow story identifies is not asking questions. Inquiry is honourable, and the
+scholars who built the apparatus described in Part Three were engaged in inquiry of a high order. The
+mistake is making obedience wait on a level of detail that was never required, and then
+treating the answers so obtained as though they carried the authority of the command itself.
+The Israelites did receive their specifications. They received them because they insisted, and
+the specifications cost them their freedom of action and left them slaughtering the animal
+reluctantly. The command they had at the beginning was easier, wider, and entirely sufficient.
+
+## 6. What This Position Must Accept
+
+Stated honestly, in keeping with the rest of this document, the position above carries three
+liabilities and should not be advanced without them.
+
+- **It grants interpretive weight to the individual reader.** Part Two, section 5 observes that
+  relocating authority to the reader is why Quran-centred positions fragment in practice, and
+  the objection holds here. Latitude used carelessly becomes licence, and the discipline that
+  guidance requires is harder to sustain alone than within a scholarly tradition
+- **It cannot do without transmitted practice entirely.** The form of the prayer is not
+  derivable from the Quran, and it reaches every Muslim through the community's continuous
+  practice. A position that leans on that inheritance for the pillars while discounting it
+  elsewhere owes an account of where the line falls and why
+- **The mainstream reply is not answered by this argument.** As Part One and Part Two,
+  section 4 both set out below, mainstream scholarship holds that the
+  Prophet's role was precisely to clarify what was revealed, on the authority of 16:44, and
+  that the community that received the Quran understood it that way. This conclusion argues
+  that the clarification was narrower and the latitude wider than the corpus later became. It
+  does not establish that the corpus should be set aside, and it is not offered as establishing
+  it
+
+What it does establish, on the Quran's own testimony in al-Baqarah, is that a command left
+general is not a command left incomplete, and that a believer standing before such a command is
+not required to find out which cow before obeying.
+
+---
+
+# A Note on Dates: C.E., B.C.E., and A.H.
+
+Every date in this document is given in **C.E.** Since the sources it draws on use two
+different calendars, and readers arrive with different assumptions about both, the systems are
+worth stating once.
+
+## The three notations
+
+**C.E. — Common Era.** Numerically identical to **A.D.** (*Anno Domini*, "in the year of the
+Lord"). 870 C.E. and A.D. 870 are the same year. The only difference is the label: C.E. carries
+no theological assertion in the numbering itself, which is why academic and interfaith
+scholarship prefers it. Nothing about the count changes.
+
+**B.C.E. — Before Common Era.** Identical to **B.C.**, counting backwards. There is no year
+zero: 1 B.C.E. is followed directly by 1 C.E.
+
+**A.H. — *Anno Hegirae*,** "in the year of the Hijra." The Islamic calendar, counting from the
+Prophet's migration from Mecca to Medina, which began on 16 July 622 C.E. Classical Islamic
+sources use A.H. almost exclusively, so a scholar's death date will normally appear as an A.H.
+figure in the primary literature and a C.E. figure in modern secondary work.
+
+## Why the two cannot simply be subtracted
+
+The Islamic calendar is **purely lunar**. Twelve lunar months come to about 354 days, roughly
+eleven days shorter than the 365.24-day solar year. A.H. years therefore drift steadily against
+C.E. years rather than tracking them, and the gap between the two numbers narrows as the count
+rises.
+
+An approximate conversion, good to within a year:
+
+```
+C.E.  ≈  622 + (A.H. × 0.97)
+A.H.  ≈  (C.E. − 622) ÷ 0.97
+```
+
+The 0.97 is the ratio of the lunar year to the solar year, 354.37 ÷ 365.24. Worked against
+dates used later in this document:
+
+| Figure | A.H. death date | Converted | Date used here |
+| --- | --- | --- | --- |
+| Al-Bukhari | 256 | 622 + 248.3 = 870.3 | 870 C.E. |
+| Al-Kulayni | 329 | 622 + 319.1 = 941.1 | 941 C.E. |
+| Ibn al-Salah | 643 | 622 + 623.7 = 1245.7 | 1245 C.E. |
+
+Because a lunar year can straddle two solar years, conversions are frequently cited with a
+one-year spread — "d. 256/870" is the standard scholarly notation, giving both.
+
+## The trap worth knowing
+
+**Islamic centuries and Christian centuries do not line up, and confusing them shifts the whole
+story by two hundred years.** The "golden age of hadith compilation" is conventionally placed
+in the **third century A.H.**, which is the **ninth century C.E.** A reader who takes "third
+century" to mean the 200s C.E. has put the six books three hundred years before the Prophet.
+
+For this document the rule of thumb is that the Islamic century is roughly the Christian century
+plus six: 1st A.H. ≈ 7th C.E., 3rd A.H. ≈ 9th C.E., 7th A.H. ≈ 13th C.E.
+
+---
+
+# Chronology of the Collections
+
+The flowchart below sets out the sequence in one view — how transmission moved from memory to
+personal notebooks to topically arranged books to screened collections, and only then to a
+canon and a grading vocabulary. Two facts stand out from the shape of it. The **screening came
+before the grading system** by roughly four centuries. And the **canon came after the books**,
+not with them.
+
+```mermaid
+flowchart TD
+    A["610 to 632 CE<br/>Revelation and the Prophet's lifetime<br/>Transmission mainly oral<br/>A few personal sahifa notebooks"]
+    B["632 to 700 CE<br/>Companions teach in Medina, Kufa and Basra<br/>Caliphal discouragement of writing<br/>Umar's reported ban and burning"]
+    C["717 to 720 CE<br/>Caliph Umar II decrees that hadith be written down<br/>al-Zuhri, d. 742, compiles for the state"]
+    D["c. 745 to 849 CE<br/>MUSANNAF era, arranged by legal topic<br/>Muwatta of Malik, d. 795<br/>Musannaf of Abd al-Razzaq, d. 827<br/>Musannaf of Ibn Abi Shayba, d. 849"]
+    E["c. 818 to 855 CE<br/>MUSNAD era, arranged by Companion<br/>Musnad of al-Tayalisi, d. 818<br/>Musnad of Ahmad ibn Hanbal, d. 855"]
+    F["c. 840 to 912 CE<br/>THE SIX BOOKS<br/>The new move: an admission standard<br/>applied before writing"]
+
+    G1["Sahih al-Bukhari<br/>compiler d. 870"]
+    G2["Sahih Muslim<br/>compiler d. 875"]
+    G3["Sunan Abi Dawud<br/>compiler d. 889"]
+    G4["Jami al-Tirmidhi<br/>compiler d. 892"]
+    G5["Sunan Ibn Majah<br/>compiler d. 887"]
+    G6["Sunan al-Nasa'i<br/>compiler d. 915"]
+
+    H["900 to 1000 CE<br/>Canonization of the two Sahihs begins<br/>al-Daraqutni, d. 995, critiques them"]
+    I["c. 1113 CE<br/>Ibn Tahir al-Maqdisi popularises<br/>the phrase Kutub al-Sittah<br/>Ibn Majah's place stays disputed"]
+    J["c. 1245 CE<br/>Ibn al-Salah's Muqaddima fixes<br/>the grading vocabulary for all later work"]
+    K["1300 to 1450 CE<br/>al-Mizzi, al-Dhahabi, then Ibn Hajar<br/>codify and adjudicate the rijal verdicts"]
+
+    S1["c. 700 to 765 CE<br/>SHIA TRACK<br/>Imams al-Baqir, d. 733, and al-Sadiq, d. 765<br/>teach large circles in Medina and Kufa"]
+    S2["c. 750 to 800 CE<br/>The four hundred usul<br/>students' notebooks, now lost as books"]
+    S3["941 to 1067 CE<br/>THE FOUR BOOKS<br/>al-Kafi, al-Kulayni d. 941<br/>Man La Yahduruhu al-Faqih, al-Saduq d. 991<br/>Tahdhib al-Ahkam and al-Istibsar, al-Tusi d. 1067"]
+    S4["c. 1300 to 1325 CE<br/>Ibn Tawus and al-Allama al-Hilli, d. 1325<br/>introduce the five-grade scheme"]
+    S5["1600 to 1700 CE<br/>The three great secondary collections<br/>al-Wafi, Wasa'il al-Shia d. 1693<br/>Bihar al-Anwar, al-Majlisi d. 1698"]
+
+    A --> B
+    B --> C
+    B --> S1
+    C --> D
+    D --> E
+    E --> F
+    F --> G1
+    F --> G2
+    F --> G3
+    F --> G4
+    F --> G5
+    F --> G6
+    G1 --> H
+    G2 --> H
+    H --> I
+    I --> J
+    J --> K
+    S1 --> S2
+    S2 --> S3
+    S3 --> S4
+    S4 --> S5
+```
+
+Read against the timeline in [Part Three, section 5](#5-timeline), the pattern is the same on
+both tracks. In Sunni Islam the books were compiled between roughly 840 and 912 and the
+terminology that grades them was fixed around 1245 — a gap of about four centuries. In Twelver
+Shiism al-Kulayni compiled *al-Kafi* by 941 and the five-grade scheme arrived around 1300 — the
+same four-century gap. In both traditions **the formal apparatus of authentication postdates the
+collections it is applied to**, which is why a report can be graded sound by one authority's
+standards and not another's without either being wrong on its own terms.
 
 ---
 
@@ -1531,195 +2001,6 @@ bookshelf.
 
 ---
 
-# Conclusion: The Cow, the Question, and the Room God Left
-
-Parts One through Four set out what the hadith corpus is, how it was assembled, how it is
-graded, and what each kind of source can carry. This closing part states a position on the
-question the whole document circles, and it takes its argument from the Quran itself rather
-than from the historical and academic material above.
-
-## 1. The Book Announces Itself as Guidance
-
-Surah al-Baqarah opens with three letters and then a claim about the nature of what follows.
-
-> **(2:1)** Alif-Lãm-Mĩm.
-
-> **(2:2)** This is the Book! There is no doubt about it — a guide for those mindful ˹of
-> Allah˺,
-
-The opening is worth reading slowly, because it makes a specific claim and not a general one.
-The Book is *hudan*, guidance. It is not announced as a code, a manual, or a register of
-particulars. And the guidance is qualified by its audience — *lil-muttaqin*, for those mindful
-of God. Guidance presumes someone who receives it and then acts, exercising judgment in
-conditions the text does not enumerate. A code does the deciding for its reader. Guidance
-requires the reader to decide.
-
-The three letters that precede the claim are themselves instructive. The tradition has never
-established what *Alif Lam Mim* means, and the standard exegetical position is that its meaning
-rests with God. The Book therefore begins by declining to explain something, and immediately
-declares itself free of doubt. Clarity of purpose and completeness of detail are not the same
-property, and the first two verses of the longest surah demonstrate the difference before any
-ruling is given.
-
-## 2. The Story of the Cow
-
-The same surah, named after this episode, records what happens when a community meets a divine
-command and asks for particulars instead of obeying it.
-
-> **(2:67)** And ˹remember˺ when Moses said to his people, "Allah commands you to sacrifice a
-> cow." They replied, "Are you mocking us?" Moses responded, "I seek refuge in Allah from
-> acting foolishly!"
-
-> **(2:68)** They said, "Call upon your Lord to clarify for us what type ˹of cow˺ it should
-> be!" He replied, "Allah says, 'The cow should neither be old nor young but in between. So do
-> as you are commanded!'"
-
-> **(2:69)** They said, "Call upon your Lord to specify for us its colour." He replied, "Allah
-> says, 'It should be a bright yellow cow — pleasant to see.'"
-
-> **(2:70)** Again they said, "Call upon your Lord so that He may make clear to us which cow,
-> for all cows look the same to us. Then, Allah willing, we will be guided ˹to the right one˺."
-
-> **(2:71)** He replied, "Allah says, 'It should have been used neither to till the soil nor
-> water the fields; wholesome and without blemish.'" They said, "Now you have come with the
-> truth." Yet they still slaughtered it hesitantly!
-
-> **(2:72)** ˹This is˺ when a man was killed and you disputed who the killer was, but Allah
-> revealed what you concealed.
-
-> **(2:73)** So We instructed, "Strike the dead body with a piece of the cow." This is how
-> ˹easily˺ Allah brings the dead to life, showing you His signs so that you may understand.
-
-Read the sequence as a sequence. The original command is four words long and any cow in Israel
-would have satisfied it. Then comes the first question, and with it the first restriction —
-neither old nor young. Then the second question, and a colour requirement. Then a third
-question, and the animal must never have been worked and must be without blemish. By the end
-the community has talked itself from *any cow* into a single animal of a specified age, colour,
-and history, which the classical commentaries describe them as having to search for and buy at
-great expense. And when they finally have their answer, the verse does not record relief. It
-records that they slaughtered it hesitantly.
-
-Every added specification came from asking rather than from the original command. Nothing was
-withheld from them at the outset; the narrowing was self-inflicted, and each answer they
-extracted made obedience harder than it had been before they asked.
-
-## 3. What the Story Diagnoses
-
-The episode is not a story about cows. It is a diagnosis of a permanent human disposition, and
-the Quran preserves it as such — giving the longest surah in the Book its name from a single
-animal that was never specified until a community insisted on specifying it.
-
-The disposition is the demand for detail. It presents itself as scrupulousness and often is
-sincere. Its practical effect is to convert a command a person could have carried out
-immediately into a research problem requiring an authority to resolve. And it has one further
-effect the story makes explicit at 2:70, where the questioners frame their third demand as a
-condition of being guided at all. They will be guided, God willing, *once they know which cow*.
-Guidance has quietly been made contingent on information rather than on obedience.
-
-This is the mechanism, stated in the Quran's own terms, that produces the reliance on hadith
-this document has spent four parts examining. The Quran commands prayer without enumerating
-units, commands charity without stating a percentage, commands modest dress without specifying
-a garment. Faced with that, the same disposition asks the same question the Israelites asked —
-*which cow?* — and it must then go somewhere for an answer. The corpus described in Parts Two
-and Three is where it went: a vast, serious, sophisticated apparatus assembled by honest people
-to supply particulars the Quran did not supply. Parts Three and Four also established what that
-apparatus can and cannot deliver. It authenticates transmission, not occurrence. Its grading
-vocabulary postdates the collections by four centuries. Almost no ruling in it rests on a
-mass-transmitted report. And by its own account it contains material its own critics judged
-defective.
-
-None of that makes the corpus worthless. It makes it a human answer to a human question — and
-the question, on the evidence of 2:67-71, was one the Book did not ask its readers to raise.
-
-## 4. Silence as Mercy
-
-The natural reading of an undetailed command is that something is missing from it. Al-Baqarah
-suggests the opposite, and two further passages make the point directly.
-
-> **(5:101)** O believers! Do not ask about any matter which, if made clear to you, may disturb
-> you. But if you inquire about what is being revealed in the Quran, it will be made clear to
-> you. Allah has forgiven what was done ˹in the past˺. And Allah is All-Forgiving, Most
-> Forbearing.
-
-The verse does not merely discourage certain questions. It states that some answers would harm
-the questioner, which means the absence of the answer is a benefit rather than a gap. Silence
-is being described as protection.
-
-The tradition preserves the same principle in a report whose irony is worth noting, since it is
-a hadith arguing against the over-extension of hadith. The Prophet is reported in Sahih Muslim
-to have announced the obligation of hajj, and a man asked whether it was due every year. The
-Prophet stayed silent. The man asked three times. The answer, when it came, was that had he
-said yes it would have become a yearly obligation and would have been beyond the people's
-capacity — followed by the instruction to leave him alone as long as he left them alone, and
-the warning that earlier communities were ruined because they put too many questions to their
-prophets and then disagreed about the answers.
-
-Take those two together and the structure of the mercy is visible. A detailed command binds
-every case identically, including the cases it fits badly. A general command binds the purpose
-and leaves the application to the person, the place, and the circumstance. The undetailed
-command is therefore the more generous of the two. It carries latitude that a specified one
-could not carry, and the latitude is not an oversight to be repaired but a provision to be
-used. The Israelites were given a command with enormous latitude — any cow — and spent that
-latitude on questions until nothing was left of it.
-
-## 5. The Position
-
-The Quran calls itself guidance for those mindful of God, and guidance is addressed to a
-faculty. God gave human beings reason, conscience, moral perception, and the capacity to weigh
-a situation, and the Book repeatedly directs them to use these — to reflect, to consider, to
-understand, as 2:73 itself concludes. A revelation that intended to remove the need for
-judgment would have been written as a code, and it was not.
-
-What follows for the question this document has examined is a position rather than a proof.
-
-Muslims are not obliged to make the hadith corpus the sole route to a decision. The Quran is
-sufficient as guidance because it is guidance and does not claim to be an exhaustive rulebook,
-and a believer who reads it carefully and acts on it with sincerity, reason, and attention to
-circumstance is doing what the Book asks. Where the corpus preserves what is plainly the
-Prophet's practice, and where the community has carried that practice continuously, it is a
-genuine and valuable inheritance — the manner of the prayer being the clearest case. Where it
-supplies particulars the Quran declined to supply, and does so on the strength of a solitary
-report transmitted for two centuries and graded four centuries later, it is human testimony
-about the past and should be weighed as such rather than treated as beyond examination. And
-where a report contradicts the Quran's own moral and theological framework, the Quran governs.
-That is not a rejection of the tradition. It is the ordering the tradition itself claims to
-observe, applied consistently.
-
-The mistake the cow story identifies is not asking questions. Inquiry is honourable, and the
-scholars who built the apparatus in Part Three were engaged in inquiry of a high order. The
-mistake is making obedience wait on a level of detail that was never required, and then
-treating the answers so obtained as though they carried the authority of the command itself.
-The Israelites did receive their specifications. They received them because they insisted, and
-the specifications cost them their freedom of action and left them slaughtering the animal
-reluctantly. The command they had at the beginning was easier, wider, and entirely sufficient.
-
-## 6. What This Position Must Accept
-
-Stated honestly, in keeping with the rest of this document, the position above carries three
-liabilities and should not be advanced without them.
-
-- **It grants interpretive weight to the individual reader.** Part Two, section 5 noted that
-  relocating authority to the reader is why Quran-centred positions fragment in practice, and
-  the objection holds here. Latitude used carelessly becomes licence, and the discipline that
-  guidance requires is harder to sustain alone than within a scholarly tradition
-- **It cannot do without transmitted practice entirely.** The form of the prayer is not
-  derivable from the Quran, and it reaches every Muslim through the community's continuous
-  practice. A position that leans on that inheritance for the pillars while discounting it
-  elsewhere owes an account of where the line falls and why
-- **The mainstream reply is not answered by this argument.** As Part Four of the conversation
-  in Part One and section 4 of Part Two both record, mainstream scholarship holds that the
-  Prophet's role was precisely to clarify what was revealed, on the authority of 16:44, and
-  that the community that received the Quran understood it that way. This conclusion argues
-  that the clarification was narrower and the latitude wider than the corpus later became. It
-  does not establish that the corpus should be set aside, and it is not offered as establishing
-  it
-
-What it does establish, on the Quran's own testimony in al-Baqarah, is that a command left
-general is not a command left incomplete, and that a believer standing before such a command is
-not required to find out which cow before obeying.
-
----
-
 # Sources Referenced
 
 ## Cited in the Original Conversation
@@ -1862,3 +2143,23 @@ Sources surfaced during the original session, grouped by the topic they were cit
 - [Umar ibn Abd al-Aziz](https://en.wikipedia.org/wiki/Umar_ibn_Abd_al-Aziz) and
   [al-Tabari vol. 24, *Empire in Transition*](https://www.scribd.com/document/320990682/Tabari-Volume-24) — coverage of the reign of 717-720
 - [Islamweb on why Umar temporarily restricted narration](https://www.islamweb.net/en/fatwa/237223/why-%E2%80%98umar-may-allaah-be-pleased-with-him-temporarily-restricted-narration-of-hadeeth) — the Kufa instruction, cited from Ibn Sa'd rather than al-Tabari
+
+## Added by the Opening Sections (Aug. 23, 2026)
+
+**Quranic verses cited in "Why This Question Matters" and the core argument**
+
+- Quran.com, Mustafa Khattab's *The Clear Quran* — [2:1-2](https://quran.com/2/2), [2:67-73](https://quran.com/2/71) (the cow), [2:185](https://quran.com/2/185), [5:87](https://quran.com/5/87), [5:101](https://quran.com/5/101), [6:114](https://quran.com/6/114), [7:32](https://quran.com/7/32), [18:31](https://quran.com/18/31), [42:11](https://quran.com/42/11), [112:1-4](https://quran.com/112)
+
+**The contradiction examples**
+
+- ["Allah created Adam in His image"](https://islamqa.info/en/answers/21949) and [the SeekersGuidance treatment](https://seekersguidance.org/answers/islamic-belief/what-does-the-narration-allah-created-adam-in-hishis-image-mean/) — the report from Abu Hurayra in Bukhari and Muslim, and the interpretive answers offered; see also [Islamweb](https://islamweb.net/en/fatwa/2359/the-hadeeth-that-allaah-created-aadam-in-his-image)
+- ["Women can wear gold and silk, not men"](https://www.abuaminaelias.com/dailyhadithonline/2013/03/24/women-gold-silk-halal/) and [Sunan an-Nasa'i 5148](https://sunnah.com/nasai:5148) — the Ali and Abu Musa reports, and the claim of scholarly consensus; the mainstream reasoning is set out at [IslamOnline](https://fiqh.islamonline.net/en/gold-and-pure-silk-are-forbidden-for-men-why/)
+- ["Does prayer get interrupted by a woman, a donkey and a dog?"](https://islamqa.info/en/answers/214748) — the Abu Hurayra report and Aisha's recorded objection to it
+- ["The hadith of woman being created from a bent rib"](https://qurananswers.me/2014/12/03/the-hadith-of-woman-being-created-from-a-bent-rib/) — the report and the figurative readings offered for it
+- [Sahih al-Bukhari 6922](https://sunnah.com/bukhari:6922) (apostasy), [5782](https://sunnah.com/bukhari:5782) (the fly) — as in Part Two
+- ["Asking too many questions"](https://islamqa.org/hanafi/daruliftaa-birmingham/19421/asking-too-many-questions/) and [Nawawi's Hadith 9](https://40hadithnawawi.com/hadith/9-obligations-are-according-to-ability/) — the hajj exchange in Sahih Muslim and the warning about earlier communities
+
+**Calendars and conversion**
+
+- The lunar-to-solar ratio used for the A.H. to C.E. conversion is 354.37 ÷ 365.24 = 0.970; the Hijra epoch is 16 July 622 C.E. Conversions in this document were checked against the death dates already established in Parts Two and Three
+
