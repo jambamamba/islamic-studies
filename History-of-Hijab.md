@@ -1,45 +1,73 @@
 # The Hijab: Scripture, History, and the Modern Debate
 
-> **About this document.** Part One sets out what the Quran actually says, verse by verse,
-> and why the vocabulary matters before anything else does. Part Two traces how the
-> practice formed — what veiling meant before Islam, what the Medinan reports describe, and
-> how a handful of verses became a settled juristic rule. Part Three is the legal reference:
-> what each school requires, where they differ, and what the claim of consensus rests on.
-> Part Four is the debate itself, giving each position its strongest form, with Fatima
-> Mernissi's *The Veil and the Male Elite* treated at length alongside the traditionalist
-> case it argues against and the criticisms made of Mernissi in turn. Part Five is the
-> political history from 1899 to the present, where both forced unveiling and forced veiling
-> appear. Part Six is source criticism: what genre each cited work belongs to and what a
-> citation to it can support. Researched Aug. 22, 2026, from academic and confessional
-> secondary literature; primary Arabic texts were not consulted directly, and claims are
-> attributed to the scholars and studies that make them. None of it substitutes for the
-> primary texts.
+> **About this document.** The document runs in chronological order. The
+> [Chronological Spine](#the-chronological-spine) gives the whole sequence in one table and
+> three flowcharts before anything is argued. Part One is the background: the vocabulary that
+> every later argument turns on, and what veiling meant in the two millennia before Islam.
+> Part Two is the revelation and the Medinan moment — the verses, the dress they were
+> correcting, and the reports on how they were received. Part Three traces how a handful of
+> verses became a settled juristic rule, including the free and enslaved distinction and the
+> two breastfeeding reports that complicate it. Part Four is the legal reference: what each
+> school requires, where they differ, and what the claim of consensus rests on. Part Five is
+> the political history from 1899 to the present, where both forced unveiling and forced
+> veiling appear. Part Six is the modern scholarly debate, which responds to that political
+> history, giving each position its strongest form, with Fatima Mernissi's *The Veil and the
+> Male Elite* treated at length alongside the traditionalist case it argues against and the
+> criticisms made of Mernissi in turn. Part Seven is source criticism: what genre each cited
+> work belongs to and what a citation to it can support.
+>
+> Researched Aug. 22, 2026, and extended Aug. 26, 2026, from academic and confessional
+> secondary literature. Primary Arabic texts were not consulted directly; the *tafsir*
+> material in Part Two §2 and the hadith texts in Part Three §3 were read in English
+> translation and through the secondary literature reporting them, and claims are attributed
+> to the scholars and studies that make them. None of it substitutes for the primary texts.
 
 ## Contents
 
-**Part One: [What the Quran Says](#part-one-what-the-quran-says)**
+**[The Chronological Spine](#the-chronological-spine)** — c. 14th c. BCE to 2026
+
+- [1. Master Timeline](#1-master-timeline)
+- [2. Flowchart: From Garment to Rule](#2-flowchart-from-garment-to-rule)
+- [3. Flowchart: The Status Fork](#3-flowchart-the-status-fork)
+- [4. Flowchart: The Political Cycle](#4-flowchart-the-political-cycle)
+
+**Part One: [Before Islam](#part-one-before-islam)** — c. 14th c. BCE to c. 610 CE
 
 - [1. The Vocabulary Comes First](#1-the-vocabulary-comes-first)
-- [2. The Verses](#2-the-verses)
-- [3. What the Verses Settle, and What They Leave Open](#3-what-the-verses-settle-and-what-they-leave-open)
+- [2. Veiling Before Islam](#2-veiling-before-islam)
 
-**Part Two: [How the Practice Formed](#part-two-how-the-practice-formed)**
+**Part Two: [The Quran and the Medinan Moment](#part-two-the-quran-and-the-medinan-moment)** — c. 622 to 632
 
-- [1. Veiling Before Islam](#1-veiling-before-islam)
-- [2. The Medinan Context](#2-the-medinan-context)
-- [3. From Report to Rule](#3-from-report-to-rule)
-- [4. The Free and Enslaved Distinction](#4-the-free-and-enslaved-distinction)
-- [5. Seclusion, Class, and the City](#5-seclusion-class-and-the-city)
-- [6. Timeline](#6-timeline)
+- [1. The Verses](#1-the-verses)
+- [2. What Women Wore, and What Changed](#2-what-women-wore-and-what-changed)
+- [3. The Medinan Context](#3-the-medinan-context)
+- [4. What the Verses Settle, and What They Leave Open](#4-what-the-verses-settle-and-what-they-leave-open)
 
-**Part Three: [The Legal Rulings](#part-three-the-legal-rulings)**
+**Part Three: [From Report to Rule](#part-three-from-report-to-rule)** — 632 to 1258
+
+- [1. The Four Moves](#1-the-four-moves)
+- [2. The Free and Enslaved Distinction](#2-the-free-and-enslaved-distinction)
+- [3. The Breastfeeding Reports](#3-the-breastfeeding-reports)
+- [4. Seclusion, Class, and the City](#4-seclusion-class-and-the-city)
+
+**Part Four: [The Legal Rulings](#part-four-the-legal-rulings)** — 8th century onward
 
 - [1. The Sunni Schools](#1-the-sunni-schools)
 - [2. Twelver Shia and Others](#2-twelver-shia-and-others)
 - [3. The Face Veil](#3-the-face-veil)
 - [4. What the Consensus Claim Rests On](#4-what-the-consensus-claim-rests-on)
 
-**Part Four: [The Debate](#part-four-the-debate)**
+**Part Five: [The Politics, 1899 to the Present](#part-five-the-politics-1899-to-the-present)** — 1899 to 2026
+
+- [1. 1899: The Debate Begins Under Occupation](#1-1899-the-debate-begins-under-occupation)
+- [2. Forced Unveiling](#2-forced-unveiling)
+- [3. The Veil as Anticolonial Weapon](#3-the-veil-as-anticolonial-weapon)
+- [4. The Revival](#4-the-revival)
+- [5. Forced Veiling](#5-forced-veiling)
+- [6. Bans in the West and in India](#6-bans-in-the-west-and-in-india)
+- [7. What Survey Data Shows](#7-what-survey-data-shows)
+
+**Part Six: [The Modern Debate](#part-six-the-modern-debate)** — 1987 to the present
 
 - [1. The Traditionalist Case](#1-the-traditionalist-case)
 - [2. Mernissi and *The Veil and the Male Elite*](#2-mernissi-and-the-veil-and-the-male-elite)
@@ -51,17 +79,7 @@
 - [8. The Spectrum Is Wider Than Two Camps](#8-the-spectrum-is-wider-than-two-camps)
 - [9. Where the Disagreement Actually Sits](#9-where-the-disagreement-actually-sits)
 
-**Part Five: [The Politics, 1899 to the Present](#part-five-the-politics-1899-to-the-present)**
-
-- [1. 1899: The Debate Begins Under Occupation](#1-1899-the-debate-begins-under-occupation)
-- [2. Forced Unveiling](#2-forced-unveiling)
-- [3. The Veil as Anticolonial Weapon](#3-the-veil-as-anticolonial-weapon)
-- [4. The Revival](#4-the-revival)
-- [5. Forced Veiling](#5-forced-veiling)
-- [6. Bans in the West and in India](#6-bans-in-the-west-and-in-india)
-- [7. What Survey Data Shows](#7-what-survey-data-shows)
-
-**Part Six: [Source Criticism — Genre Determines What a Citation Proves](#part-six-source-criticism--genre-determines-what-a-citation-proves)**
+**Part Seven: [Source Criticism — Genre Determines What a Citation Proves](#part-seven-source-criticism--genre-determines-what-a-citation-proves)**
 
 - [1. The Genres, and What Each Can Support](#1-the-genres-and-what-each-can-support)
 - [2. What This Does to the Arguments](#2-what-this-does-to-the-arguments)
@@ -70,7 +88,133 @@
 
 ---
 
-# Part One: What the Quran Says
+# The Chronological Spine
+
+Everything in this document sits somewhere on the sequence below. The table is the record;
+the three flowcharts that follow it are the same record read as three separate chains of
+causation — how a garment became a rule, how legal status forked the rule in two, and how the
+modern politics cycled between compelled unveiling and compelled veiling. Each later part
+argues over one stretch of this spine.
+
+## 1. Master Timeline
+
+| Period | Development |
+| --- | --- |
+| c. 14th-11th c. BCE | Middle Assyrian law requires veiling of women of status and forbids it to enslaved women and prostitutes |
+| c. 5th c. BCE-6th c. CE | Veiling and seclusion of upper-class women in Greek, Roman, Byzantine, Jewish, and Sasanian contexts |
+| c. 625-632 | The Medinan verses: 24:30-31, 33:53, 33:59, 33:32-33, 24:60 |
+| c. 626-627 | 33:4-5 abolishes adoption as a source of lineage; the dispensation for Salim, freedman of Abu Hudhayfa, follows |
+| c. 630 | War captives brought to the Prophet; the report of a captive nursing children, transmitted by Umar |
+| 632-750 | Companion-era disputes over *illa ma zahara minha*, reported from Ibn Abbas and Ibn Mas'ud |
+| 634-644 | Umar's caliphate; the reports that enslaved women served bare-headed, and that Umar struck one for wearing a *jilbab* |
+| 8th-11th c. | The schools define *awrah* by school, audience, and legal status, exempting enslaved women |
+| 749-1258 | Abbasid institutionalization of the harem; the practice spreads with urbanization |
+| 1899-1900 | Qasim Amin's *Tahrir al-Mar'a* and *al-Mar'a al-Jadida* open the modern debate under British occupation |
+| 1923 | Huda Sha'arawi and Saiza Nabarawi unveil publicly at Cairo railway station; Egyptian Feminist Union founded |
+| 1936-1941 | Reza Shah's *kashf-e hijab* bans the veil in Iran |
+| 1957-1959 | Bourguiba removes the *safsari* in Tunis; French unveiling ceremonies in Algeria; Fanon's "Algeria Unveiled" |
+| 1970s-1990s | The Islamic revival; voluntary re-veiling spreads through universities and cities |
+| 1979-1983 | Iranian revolution; March 1979 Tehran protests; hijab made compulsory from April 1983 |
+| 1987-1991 | Mernissi's *Le harem politique*; English translation as *The Veil and the Male Elite* |
+| 2004-2014 | France bans conspicuous religious symbols in schools, then face concealment in public; upheld in *S.A.S. v. France* |
+| 2007 | Al-Azhar suspends Ezzat Atiyya over a fatwa applying the Salim dispensation to workplace seclusion; he retracts, and the courts later reinstate him |
+| 2016-2017 | Abou El Fadl's fatwas holding hair covering non-obligatory |
+| 2021-2024 | Taliban decrees and the morality law in Afghanistan |
+| 2022-2026 | Mahsa Amini's death and the Woman, Life, Freedom protests; Iran's Hijab and Chastity law passed and then stalled |
+
+## 2. Flowchart: From Garment to Rule
+
+The derivation chain from an existing Arabian garment to a settled juristic obligation. Each
+arrow is a step some party to the debate disputes; the steps are set out in full in Part Three
+§1.
+
+```mermaid
+flowchart TD
+    A["Pre-Islamic Arabia<br/>khimar worn thrown back over the shoulders<br/>tunic open wide at the jayb"]
+    B["c. 625-632 Medina<br/>24:31 redirects the khimar over the juyub<br/>33:59 adds the jilbab, with a stated purpose"]
+    C["Reception<br/>compliance reports in Bukhari and Abi Dawud<br/>sheets cut up; crows over their heads"]
+    D["632-750 Companion-era dispute<br/>illa ma zahara minha<br/>Ibn Abbas: face and palms<br/>Ibn Mas'ud: the outer clothing only"]
+    E["8th-11th c. Systematization<br/>zinah, a social category, replaced by awrah<br/>an anatomical body map keyed to status"]
+    F["Classical ijma'<br/>hair is awrah for a free woman<br/>and is not for an enslaved woman"]
+    G["Mainstream position today<br/>hair obligatory, face a custom"]
+    H["Reformist dissent<br/>a rule that tracked status tracked custom<br/>so it was never a fixed anatomical standard"]
+    A --> B --> C --> D --> E --> F
+    F --> G
+    F --> H
+```
+
+## 3. Flowchart: The Status Fork
+
+The single most consequential structure in the record, and the one no side disputes as fact.
+The reports on the branch to the right are set out in Part Three §2 and §3.
+
+```mermaid
+flowchart TD
+    Q["24:31 and 33:59<br/>addressed to believing women"]
+    FREE["Free woman<br/>hair and body are awrah<br/>agreed by every school"]
+    SLAVE["Enslaved woman<br/>substantially reduced awrah<br/>jurists disputed even the breasts"]
+    R1["Anas ibn Malik on Umar's household<br/>they used to serve us bare-headed"]
+    R2["Umar strikes an enslaved woman for wearing a jilbab<br/>the jilbab is only for free women<br/>Musannaf Ibn Abi Shayba 6382-6383"]
+    R3["Bukhari 5999 and Muslim 2754<br/>a captive nurses children before the Prophet<br/>no objection to her exposure recorded"]
+    ASSYR["The same structure as Middle Assyrian law 40<br/>the veil as a badge of protected status<br/>denied to the enslaved on penalty"]
+    INF1["Reformist inference<br/>a status marker cannot be transposed unchanged<br/>into a society without the status"]
+    INF2["Traditionalist reply<br/>an exemption on grounds of hardship<br/>presupposes the obligation it exempts from"]
+    Q --> FREE
+    Q --> SLAVE
+    SLAVE --> R1
+    SLAVE --> R2
+    SLAVE --> R3
+    R1 --> ASSYR
+    R2 --> ASSYR
+    R3 --> ASSYR
+    ASSYR --> INF1
+    ASSYR --> INF2
+```
+
+## 4. Flowchart: The Political Cycle
+
+The modern history, 1899 to 2026, read as cause and reaction rather than as a list. Part Five
+supplies the detail.
+
+```mermaid
+flowchart TD
+    A["1899-1900 Cairo under British occupation<br/>Qasim Amin, Tahrir al-Mar'a"]
+    C["The colonial framing<br/>Cromer makes unveiling the test of civilization"]
+    B["1923 Cairo railway station<br/>Sha'arawi and Nabarawi unveil<br/>indigenous, not colonial"]
+    D["1936-1941 Iran<br/>kashf-e hijab; unveiling enforced by police"]
+    E["1957-1959<br/>Bourguiba removes the safsari in Tunis<br/>French unveiling ceremonies in Algeria"]
+    F["Fanon 1959, Algeria Unveiled<br/>the veil becomes a weapon because<br/>unveiling became the colonizer's project"]
+    G["1970s-1990s the revival<br/>voluntary re-veiling through universities and cities<br/>no state compulsion where it spread most"]
+    H["1979-1983 Iran<br/>March 1979 protests; compulsory from April 1983"]
+    I["2004-2014 France<br/>school ban, face-covering ban, S.A.S. v. France"]
+    J["2022-2026 Iran<br/>Amini; Woman, Life, Freedom; law passed then stalled"]
+    K["2021-2024 Afghanistan<br/>Taliban decrees and the morality law"]
+    L["2022 India<br/>Karnataka order; High Court; Supreme Court split"]
+    M["The constant<br/>compulsion has run in both directions<br/>what does not change is state power over dress"]
+    A --> B
+    A --> C
+    C --> D
+    C --> E
+    E --> F
+    D --> G
+    F --> G
+    G --> H
+    G --> I
+    H --> J
+    H --> K
+    I --> L
+    B --> M
+    J --> M
+    K --> M
+    L --> M
+```
+
+---
+
+# Part One: Before Islam
+
+Two things have to be in place before the verses can be read: the words they use, and the
+practice they were addressing. Neither is neutral ground, and both are contested.
 
 ## 1. The Vocabulary Comes First
 
@@ -86,7 +230,7 @@ pedantry — it is the whole disagreement in miniature.
 | *Zinah* | زينة | Adornment, finery, or ornament — what is displayed, as distinct from what is private | 24:31 |
 | *Awrah* | عورة | Nakedness, that which must not be exposed; the juristic term of art | 24:31, 33:13 |
 
-Two facts about this table drive much of Part Four.
+Two facts about this table drive much of Part Six.
 
 **The Quran never calls a woman's garment a *hijab*.** The noun occurs at 7:46, 17:45,
 19:17, 33:53, 38:32, 41:5, and 42:51. In 7:46 it is the barrier dividing Paradise from the
@@ -105,7 +249,52 @@ regulates two existing garments and states purposes. It gives no measurements, n
 hair as such, and no penalty. That silence is read by traditionalists as a gap the Prophet's
 practice fills, and by reformists as evidence that no fixed uniform was intended.
 
-## 2. The Verses
+## 2. Veiling Before Islam
+
+Veiling is older than Islam by roughly two millennia, and in its earliest documented form it
+was a marker of rank enforced by the state.
+
+**The Middle Assyrian law.** The earliest surviving legislation on veiling is a Middle
+Assyrian law collection, its material dated to roughly the 14th to 11th centuries BCE. The
+provision usually numbered §40 is a sumptuary law of remarkable specificity. Married women,
+widows, and Assyrian women were required to cover their heads in the street, and daughters
+of status were to be veiled. Enslaved women and prostitutes were forbidden to veil, on pain
+of severe penalty: an enslaved woman found veiled had her ears cut off, and a man who saw a
+veiled prostitute and failed to report her was himself caned fifty times, given hard labor
+for a month, and had his ears pierced and corded.
+
+The logic is worth stating plainly, because it recurs. The veil was not a modesty
+requirement applied to women as such. It was a badge of protected status, and its function
+depended on other women being denied it.
+
+**Mediterranean and Near Eastern antiquity.** Veiling and the seclusion of upper-class women
+were practiced in Mesopotamia, in the Greek and Roman worlds, in Christian Byzantium, and
+among the Sasanians, where head covering also carried Zoroastrian associations of ritual
+purity. In the Roman convention that Paul addresses in 1 Corinthians 11, women covered their
+heads in public and men did not; a doctoral study of that passage places it squarely in the
+sumptuary politics of classical antiquity, where the contested question was which women were
+entitled to cover. Jewish practice ran parallel, with a married woman's uncovered hair in
+public read as a sign of mourning or of public shaming.
+
+**What this establishes, and what it does not.** It establishes that the Quran addressed a
+society in which head covering was an existing, class-inflected practice with deep regional
+roots — which is why 24:31 can assume the *khimar* rather than introduce it. It does not by
+itself show that Islamic veiling is "merely cultural," because a revelation that regulates an
+existing custom is not thereby reduced to that custom. Leila Ahmed's tracing of the veil back
+to Sumerian and Assyrian class markers and the Yaqeen Institute's argument that revelation
+"affirmed and elevated" a pre-existing practice are drawing opposite conclusions from the same
+uncontested history.
+
+---
+
+# Part Two: The Quran and the Medinan Moment
+
+The verses are Medinan, which places them in the last decade of the Prophet's life, in a city
+under military and political pressure. This part sets out what the text says, the dress it was
+addressing, how the reports describe its reception, and what the passages do and do not settle
+on their own.
+
+## 1. The Verses
 
 Translations below are from Mustafa Khattab, *The Clear Quran*, as published on Quran.com.
 Bracketed Arabic marks the terms at issue.
@@ -209,68 +398,80 @@ the rule tracks a social purpose rather than an absolute standard of bodily conc
 Cited by all sides. It establishes clothing as both covering and adornment, and subordinates
 both to conduct.
 
-## 3. What the Verses Settle, and What They Leave Open
+## 2. What Women Wore, and What Changed
 
-Reading the passages together, a short list of each is possible.
+The previous section established that 24:31 does not introduce the *khimar*; it redirects one
+already being worn. That raises the obvious question the verse leaves unanswered — redirected
+from where, and covering what instead? — and the classical exegetical tradition answers it
+directly. Without the answer, "draw your *khimar* over your *juyub*" reads as an arbitrary
+instruction. With it, the verse is a correction of a specific fashion.
 
-**Settled on the text alone.** The Quran commands modesty of dress and of gaze, and it
-commands it of men and women in parallel construction. It regulates two named garments
-already in use. It states a protective purpose for the outer wrap. It bars the display of
-*zinah* to men outside a defined list of relatives.
+**The dress the verse was correcting.** The *khimar* was worn as much an ornament as a
+covering, let down loosely behind the wearer's back and over the shoulders. The tunic beneath
+it had a wide opening at the front — the *jayb*, plural *juyub*, the word the verse uses — so
+the neck and the upper chest were left bare. Muhammad Asad states this in his note on the
+verse, and the classical *mufassirun* read the passage against the same picture: al-Tabari,
+al-Qurtubi, and Ibn Kathir all treat the command as directing the existing cloth across the
+opening, and the reading ascribed to Sa'id ibn Jubayr glosses "over their *juyub*" as over the
+necks and chests so that nothing of them shows.
 
-**Not settled on the text alone.** Whether hair is included; what "what normally appears"
-covers; whether the *khimar* command presupposes head covering or merely redirects an
-existing garment; whether 33:33's instruction to remain at home binds anyone beyond the
-Prophet's wives; whether a command with a stated rationale remains binding where the
-rationale fails; and what, if anything, follows for a woman who does not comply, since the
-Quran attaches no penalty.
+**Why this matters to both cases, not one.** The detail is often deployed as though it settled
+the argument. It does not, and it gives each side something.
 
-Every position in Part Four is a way of closing that second list. The traditionalist closes
-it with prophetic practice and the unbroken agreement of the schools. The reformist closes it
-by holding the text to its stated purposes. The historian closes it by asking what people
-actually wore, and when, and who was exempt.
+- **It strengthens the traditionalist reading** in one respect. A garment worn on the head,
+  named from a root meaning to conceal, and already in general use is a real garment with a
+  real head function. The verse's silence on hair is then the silence of a text addressing
+  people who could see what a *khimar* was, which is exactly the gap the Yaqeen Institute
+  argues prophetic practice fills
+- **It strengthens the reformist reading** in another. The operative change the verse commands
+  is located at the chest, not the head. If the *khimar* was already on the head and the verse
+  moved its ends to cover the *juyub*, then the head covering is a presupposition of the
+  command rather than its content — and a presupposition is a description of seventh-century
+  Arabian dress, not a legislated requirement
+- **It is *tafsir*, and *tafsir* has limits.** Reports about the circumstances a verse
+  addressed are reconstructions by scholars writing generations later, and they establish how
+  the early exegetes understood the dress rather than independently attesting what women wore.
+  Part Seven §1 sets out what a citation of this genre can carry
 
----
+**The change was experienced as a change.** This is the strongest evidence that the verse
+altered something rather than ratifying existing practice, and it comes from the compliance
+reports treated in the next section. Women who already wore their *khumur* across the chest
+would have had nothing to do when the verse came down. Instead Aisha is reported to have
+described the emigrant women cutting up their sheets to veil themselves with them, and Umm
+Salama the women of the Ansar emerging "as if they had crows over their heads." Whatever those
+reports have gathered in transmission, they describe a community doing something new.
 
-# Part Two: How the Practice Formed
+**On objection: who complained, and about what.** The record here is asymmetrical, and the
+asymmetry is routinely missed in both directions.
 
-## 1. Veiling Before Islam
+The Quran itself supplies criticism of the pre-Islamic norm. 33:33 tells the Prophet's wives
+not to display themselves "as women did in the days of ˹pre-Islamic˺ ignorance" — *tabarruj
+al-jahiliyya* — and 24:31 redirects the *khimar*, which is itself a correction. So the text
+objects.
 
-Veiling is older than Islam by roughly two millennia, and in its earliest documented form it
-was a marker of rank enforced by the state.
+What the narrative sources do not contain is a report of the community objecting to women's
+dress on its own, before or apart from revelation. The recorded grievance that drives the
+outer-garment verse runs the other way: 33:59 states its own rationale as recognition and
+protection from harassment, which locates the problem in the conduct of men in the street
+rather than in the clothing of women. Mernissi's reconstruction, treated at length in Part Six
+§2, builds on the same material — she reads the Hypocrites' targeting of the Prophet's wives in
+public as the pressure that produced the *hijab*. The two readings of 33:59 divide on what
+follows from a stated purpose, not on what the grievance was.
 
-**The Middle Assyrian law.** The earliest surviving legislation on veiling is a Middle
-Assyrian law collection, its material dated to roughly the 14th to 11th centuries BCE. The
-provision usually numbered §40 is a sumptuary law of remarkable specificity. Married women,
-widows, and Assyrian women were required to cover their heads in the street, and daughters
-of status were to be veiled. Enslaved women and prostitutes were forbidden to veil, on pain
-of severe penalty: an enslaved woman found veiled had her ears cut off, and a man who saw a
-veiled prostitute and failed to report her was himself caned fifty times, given hard labor
-for a month, and had his ears pierced and corded.
+Two consequences follow. An argument that veiling was imposed on unwilling women against
+community sentiment has no support in the narrative record, which describes enthusiastic
+compliance. And an argument that the verses merely codified what pious women were already
+doing has the same problem in reverse, since the reports describe a change and the *tafsir*
+describes what was being changed.
 
-The logic is worth stating plainly, because it recurs. The veil was not a modesty
-requirement applied to women as such. It was a badge of protected status, and its function
-depended on other women being denied it.
+**The control case.** The most direct evidence of what Arabian women actually wore, as opposed
+to what they were told to wear, is the dress of women to whom the rule did not apply. Anas ibn
+Malik's report that the enslaved women of Umar's household "used to serve us bare-headed"
+describes ordinary practice in the household of the second caliph, who ruled from 634 to 644.
+That evidence, and the reports that sit alongside it, are treated in Part Three §2 and §3,
+because what they bear on is not the verse but the rule the jurists built from it.
 
-**Mediterranean and Near Eastern antiquity.** Veiling and the seclusion of upper-class women
-were practiced in Mesopotamia, in the Greek and Roman worlds, in Christian Byzantium, and
-among the Sasanians, where head covering also carried Zoroastrian associations of ritual
-purity. In the Roman convention that Paul addresses in 1 Corinthians 11, women covered their
-heads in public and men did not; a doctoral study of that passage places it squarely in the
-sumptuary politics of classical antiquity, where the contested question was which women were
-entitled to cover. Jewish practice ran parallel, with a married woman's uncovered hair in
-public read as a sign of mourning or of public shaming.
-
-**What this establishes, and what it does not.** It establishes that the Quran addressed a
-society in which head covering was an existing, class-inflected practice with deep regional
-roots — which is why 24:31 can assume the *khimar* rather than introduce it. It does not by
-itself show that Islamic veiling is "merely cultural," because a revelation that regulates an
-existing custom is not thereby reduced to that custom. Leila Ahmed's tracing of the veil back
-to Sumerian and Assyrian class markers and the Yaqeen Institute's argument that revelation
-"affirmed and elevated" a pre-existing practice are drawing opposite conclusions from the same
-uncontested history.
-
-## 2. The Medinan Context
+## 3. The Medinan Context
 
 The narrative sources place the relevant revelations late in the Prophet's life, in a Medina
 under military and political pressure.
@@ -299,10 +500,41 @@ growth. What they support securely is that head covering was normal among the wo
 Prophet's community and was understood by them as commanded. What they cannot establish on
 their own is a determinate garment specification for all times.
 
-## 3. From Report to Rule
+## 4. What the Verses Settle, and What They Leave Open
+
+Reading the passages together, a short list of each is possible.
+
+**Settled on the text alone.** The Quran commands modesty of dress and of gaze, and it
+commands it of men and women in parallel construction. It regulates two named garments
+already in use. It states a protective purpose for the outer wrap. It bars the display of
+*zinah* to men outside a defined list of relatives.
+
+**Not settled on the text alone.** Whether hair is included; what "what normally appears"
+covers; whether the *khimar* command presupposes head covering or merely redirects an
+existing garment; whether 33:33's instruction to remain at home binds anyone beyond the
+Prophet's wives; whether a command with a stated rationale remains binding where the
+rationale fails; and what, if anything, follows for a woman who does not comply, since the
+Quran attaches no penalty.
+
+Every position in Part Six is a way of closing that second list. The traditionalist closes
+it with prophetic practice and the unbroken agreement of the schools. The reformist closes it
+by holding the text to its stated purposes. The historian closes it by asking what people
+actually wore, and when, and who was exempt.
+
+---
+
+# Part Three: From Report to Rule
+
+Between the Prophet's death and the mature legal manuals lie six centuries in which a handful of
+verses and a body of reports became a determinate body map. This part traces that conversion, and
+then the two features of it that the modern debate keeps returning to: the exemption of enslaved
+women, and the reports that show the boundary being negotiated case by case.
+
+## 1. The Four Moves
 
 The path from these verses and reports to the rule stated in a fiqh manual runs through four
-moves, and each is a place where the reformist and traditionalist accounts diverge.
+moves, and each is a place where the reformist and traditionalist accounts diverge. The chain
+is drawn in full in the second flowchart of the Chronological Spine.
 
 - **Lexical.** The root of *khimar* means to conceal, and the garment was in fact a head
   cloth. Traditionalists take this as settling that the verse concerns the head; reformists
@@ -322,7 +554,7 @@ purposes. The jurists produced a body map. Abou El Fadl's dissent is aimed at pr
 substitution, and the strongest historical evidence for it is the subject of the next
 section.
 
-## 4. The Free and Enslaved Distinction
+## 2. The Free and Enslaved Distinction
 
 This is the single most consequential fact in the historical record for the modern debate,
 and it is not disputed by any side.
@@ -335,19 +567,134 @@ women in Umar's household that "they used to serve us bare-headed." Traditional 
 explain the distinction by the practical realities of enslaved labor, which involved constant
 movement in and out of households and would have made an identical rule a hardship.
 
+**The distinction was enforced, not merely permitted.** This is the part of the record that
+turns the Assyrian parallel from an analogy into an argument, and it is usually left out. The
+*Musannaf* of Ibn Abi Shayba carries two reports, numbered 6382 and 6383 and graded sound by
+al-Albani and by Sa'd al-Shathri, in which Umar sees an enslaved woman wearing a *jilbab* that
+veiled her, tells her the *jilbab* is only for free women among the believing women, and strikes
+her with a whip until she removes it. Traditional commentary explains the prohibition by the
+deception involved: a society that read a covered woman as free would apply the wrong rules to
+her.
+
+Set that beside Middle Assyrian law §40 from Part One §2 and the structure is the same in every
+element — covering reserved to women of protected status, denied to the enslaved, and the denial
+backed by corporal penalty imposed on the woman who covers above her station.
+
+Note what the two traditional explanations do here. Hardship accounts for an exemption; it
+cannot account for a prohibition, and a prohibition is what these reports describe. The
+explanation that does account for it — that a covered woman would be read as free, and the
+wrong rules applied to her — is a sumptuary rationale, which is to say it concedes the point
+the reformist is making. The covering marked status. That is why enforcing the mark mattered.
+
 Both sides accept the fact and draw opposite conclusions.
 
 - **The reformist inference,** made most directly by Abou El Fadl, is that the distinction
   proves custom and social function shaped the ruling. If the amount of a woman's body that
   must be covered varied with her legal status, then the rule was never a fixed anatomical
   standard revealed once for all women; it was a status marker, continuous with the Assyrian
-  logic of Part Two. And a status marker cannot be transposed unchanged into a society without
+  logic of Part One §2. And a status marker cannot be transposed unchanged into a society without
   the status
 - **The traditionalist reply** is that a concession granted to one class on grounds of
   hardship does not unsettle the baseline rule for everyone else, and that the exemption's
   existence presupposes the obligation it exempts from
 
-## 5. Seclusion, Class, and the City
+## 3. The Breastfeeding Reports
+
+Two reports in the canonical collections turn on a woman's breast, and both bear on the
+boundary the previous section describes. Neither is about dress, which is precisely why they
+are useful: they show what the boundary looked like when nobody was arguing about it. They also
+show how easily a report of this kind is asked to carry more than it can.
+
+**The captive who nursed the children.** Sahih al-Bukhari 5999 and Sahih Muslim 2754, on the
+authority of Umar ibn al-Khattab: war captives were brought to the Prophet, and a woman among
+them whose breasts were full of milk went among the captive children, taking up any child she
+found and nursing it while she searched for her own. The Prophet asked the companions whether
+they thought she would throw her child into a fire. They said no. He said that Allah is more
+merciful to His servants than that woman is to her son.
+
+The report belongs here for three reasons, and each carries a different weight.
+
+- **She was a captive.** The previous section establishes as a matter of law that an enslaved
+  woman's *awrah* was substantially smaller, and that jurists disagreed over whether her breasts
+  counted at all. This is the narrative counterpart of that legal fact — a woman nursing in the
+  presence of the Prophet and his companions, with nothing in the report treating it as a
+  scandal, and the Prophet drawing the community's attention to her as the positive term in a
+  parable about God. A *fiqh* citation states the rule; this shows the world the rule described
+- **The transmitter is Umar.** The same Companion whom Mernissi casts as the conservative
+  pressure behind the *hijab*, treated in Part Six §2, is the man who preserved this scene. That
+  is worth a sentence and not a thesis, but it does complicate any account in which Umar's
+  interest in women's exposure was uniform
+- **It proves considerably less than it is asked to.** The report is a parable about divine
+  mercy; dress is not its subject, and the text does not say that the breast was visible to
+  onlookers. Any argument from it is an argument from silence, which is the error Part Seven
+  §1 exists to name. It belongs in this document as illustration, labeled as such, and not as
+  evidence
+
+**Sahla, Salim, and the objection everyone raises.** Sahih Muslim 1453 and the *Muwatta* of
+Malik carry a harder case. Sahla bint Suhayl came to the Prophet about Salim, the freedman of
+her husband Abu Hudhayfa: they had called Salim their son, Allah had revealed what He revealed,
+Salim still entered upon her, and Abu Hudhayfa was uncomfortable. The Prophet told her to nurse
+Salim, which would make him *mahram* and settle her husband's mind. Sahla objected that Salim
+had a beard. The Prophet repeated the instruction.
+
+The modern reader's first reaction to this — that it does not make sense — is the oldest
+reaction on record, and it is internal to the tradition rather than an objection brought to it
+from outside. Sahla raised it herself. So did the Prophet's other wives, who refused to accept
+the case as a precedent; al-Qurtubi reports that all of them except Aisha treated it as a
+*rukhsa*, a dispensation for Salim alone, and that this became the position of the majority of
+scholars early and late. Umm Salama is reported objecting specifically to fosterage arranged
+after infancy.
+
+Four things make the case intelligible, and one of them is the piece usually missing.
+
+- **The abolition of adoption created the problem.** 33:4-5 removed adoption as a source of
+  lineage — the same verses that returned Zayd ibn Muhammad to the name Zayd ibn Harithah. Salim
+  had been raised in Abu Hudhayfa's household as his son, did not know his father's name, and
+  stayed on as *mawla*. The legal effect was abrupt: a young man raised as a child of the house
+  became, overnight, an unrelated adult male in a home with one room, at the moment the veiling
+  and seclusion rules landed on him. The instruction was a fix for a collision the revelation
+  had just produced
+- **The mechanism is genuinely unsettled.** The variants specify five feedings and use
+  *ardi'ihi*, nurse him. One narration has the milk placed in a vessel for Salim to drink over
+  five days, and Ibn Qutayba read the command that way — expressed milk, no contact. That reading
+  is widely repeated and may well be right, but it is an interpretation supplied later to resolve
+  the difficulty, and Sahla's own objection about the beard reads more naturally against direct
+  nursing than against a cup. The text is silent, the tradition is divided, and anyone who
+  presents either reading as settled is arguing rather than reporting
+- **The law closed the door.** The schools hold that suckling creates milk-kinship only within
+  roughly the first two years, on the basis of 2:233 and the report that no suckling counts
+  except what strengthens bone and grows flesh. Jordan's official *iftaa* department states
+  flatly that suckling past that period affects neither marriage nor the rules of *hijab*
+- **Aisha's practice is narrower than it is reported to be.** Aisha had female relatives nurse
+  male *infants* so that those boys would be *mahram* to her once grown. That is not the nursing
+  of an adult, and the distinction is why her position is less of an outlier than the polemical
+  literature on both sides makes it
+
+**It surfaced again in 2007.** Ezzat Atiyya, then head of the hadith department at Al-Azhar,
+issued a fatwa applying the Salim case to workplace seclusion: a woman could nurse a male
+colleague five times, after which the two could be alone and she could remove her headscarf.
+Al-Azhar suspended him, he signed a written retraction, a disciplinary council moved to remove
+him from his post, and the administrative courts later reinstated him on the ground that the
+fatwa was an opinion. The episode is a clean measure of how much weight the report cannot bear
+inside the tradition that transmits it.
+
+**What the two reports establish together.** Neither settles anything about the obligation, and
+neither should be cited as though it did. What they show is structural, and it survives however
+the mechanism question in the second case resolves.
+
+- **The operative category was kinship, not cloth.** Sahla's problem was solved by changing
+  Salim's relationship to her, not her clothing. That is direct evidence for the reformist point
+  in Part Two §1 that the Quran's category is *zinah*, a social and relational thing, and that
+  the jurists' anatomical body map is a later substitution
+- **The boundary was contested from the first day.** A dispensation issued by the Prophet was
+  refused as precedent by his own wives within his lifetime, and the refusal became the majority
+  position. That is a harder fact for the consensus claim examined in Part Four §4 than anything
+  in the modern literature, because it is internal, early, and undisputed
+- **Legal status governed what could be seen.** The captive nursing before the community and the
+  free woman needing a milk-kinship to be seen by one man are the same rule read from its two
+  ends
+
+## 4. Seclusion, Class, and the City
 
 Two developments after the conquests turned a Medinan practice into an imperial institution.
 
@@ -371,33 +718,11 @@ The upshot is that for most of Islamic history, full veiling with seclusion was 
 elite practice, not a universal one, and its diffusion downward through society is a modern
 phenomenon rather than a medieval one.
 
-## 6. Timeline
-
-| Period | Development |
-| --- | --- |
-| c. 14th-11th c. BCE | Middle Assyrian law requires veiling of women of status and forbids it to enslaved women and prostitutes |
-| c. 5th c. BCE-6th c. CE | Veiling and seclusion of upper-class women in Greek, Roman, Byzantine, Jewish, and Sasanian contexts |
-| c. 625-632 | The Medinan verses: 24:30-31, 33:53, 33:59, 33:32-33, 24:60 |
-| 632-750 | Companion-era disputes over *illa ma zahara minha*, reported from Ibn Abbas and Ibn Mas'ud |
-| 749-1258 | Abbasid institutionalization of the harem; the practice spreads with urbanization |
-| 8th-11th c. | The schools define *awrah* by school, audience, and legal status, exempting enslaved women |
-| 1899-1900 | Qasim Amin's *Tahrir al-Mar'a* and *al-Mar'a al-Jadida* open the modern debate under British occupation |
-| 1923 | Huda Sha'arawi and Saiza Nabarawi unveil publicly at Cairo railway station; Egyptian Feminist Union founded |
-| 1936-1941 | Reza Shah's *kashf-e hijab* bans the veil in Iran |
-| 1957-1959 | Bourguiba removes the *safsari* in Tunis; French unveiling ceremonies in Algeria; Fanon's "Algeria Unveiled" |
-| 1970s-1990s | The Islamic revival; voluntary re-veiling spreads through universities and cities |
-| 1979-1983 | Iranian revolution; March 1979 Tehran protests; hijab made compulsory from April 1983 |
-| 1987-1991 | Mernissi's *Le harem politique*; English translation as *The Veil and the Male Elite* |
-| 2004-2014 | France bans conspicuous religious symbols in schools, then face concealment in public; upheld in *S.A.S. v. France* |
-| 2016-2017 | Abou El Fadl's fatwas holding hair covering non-obligatory |
-| 2021-2024 | Taliban decrees and the morality law in Afghanistan |
-| 2022-2026 | Mahsa Amini's death and the Woman, Life, Freedom protests; Iran's Hijab and Chastity law passed and then stalled |
-
 ---
 
-# Part Three: The Legal Rulings
+# Part Four: The Legal Rulings
 
-This part states what the schools actually hold, because the debate in Part Four is
+This part states what the schools actually hold, because the debate in Part Six is
 frequently conducted against a caricature of it in both directions. Technical terms are
 given in transliterated Arabic, since that is how the material is indexed in every reference
 work.
@@ -457,7 +782,7 @@ feared arrives at obligation by another road.
 Institutionally, the most consequential modern statement is Egypt's Dar al-Ifta, which holds
 that the *niqab* is a custom rather than a part of religion — while holding, in the same
 breath, that the *hijab* is obligatory. That pairing is the mainstream institutional position
-across much of the Sunni world, and it matters for Part Four: the same authority that
+across much of the Sunni world, and it matters for Part Six: the same authority that
 declares the hair obligation closed declares the face obligation open, which concedes that
 the boundary between religion and custom in dress is a question the tradition itself asks.
 
@@ -497,7 +822,199 @@ history.
 
 ---
 
-# Part Four: The Debate
+# Part Five: The Politics, 1899 to the Present
+
+The modern history of the hijab is not primarily a history of theology. It is a history of
+states — colonial and postcolonial, secular and Islamist — using women's clothing to make
+claims about civilization, sovereignty, and legitimacy. The pattern that emerges is that
+compulsion has run in both directions, and roughly as often.
+
+## 1. 1899: The Debate Begins Under Occupation
+
+Qasim Amin published *Tahrir al-Mar'a* (*The Liberation of Woman*) in Cairo in 1899, followed
+by *al-Mar'a al-Jadida* in 1900. Amin argued from Islamic premises that improving women's
+status was a precondition for Egypt's liberation from foreign domination, and in doing so
+moved the question of women from a marginal concern to a national one. The book was
+immediately controversial and has remained so for opposite reasons in different generations.
+
+The critique that has stuck is Leila Ahmed's. Amin wrote under a British occupation whose
+consul-general, Lord Cromer, made the veil the emblem of Egyptian backwardness — and who on
+returning to Britain founded the Men's League for Opposing Woman Suffrage. Ahmed's charge
+that Amin was a "son of Cromer and colonialism" is that his argument adopted the colonizer's
+framing wholesale, and a substantial body of scholarship reads *Tahrir al-Mar'a* as
+substituting Western-style male dominance for Islamic-style male dominance rather than
+displacing dominance. Against this, other scholars have argued the reception history is more
+complicated than the "colonial feminism" verdict allows.
+
+**1923.** Returning from the International Woman Suffrage Alliance congress in Rome, Huda
+Sha'arawi and Saiza Nabarawi removed their face veils at the Cairo railway station in a
+public act that drew wide press attention. Sha'arawi founded the Egyptian Feminist Union the
+same year, campaigning for suffrage, personal status reform, and women's education. The act
+was indigenous, not colonial — which is the standing complication for any account that treats
+unveiling as purely an imposition from outside.
+
+## 2. Forced Unveiling
+
+Three states banned the veil, and the manner of the banning shaped the reaction for
+generations.
+
+- **Iran, 1936.** Reza Shah issued the *kashf-e hijab* decree on Jan. 8, 1936, banning all
+  Islamic veils including the chador, and enforced it aggressively. He regarded traditional
+  dress as a mark of backwardness and also compelled men into Western clothing and hats.
+  Enforcement lasted from 1936 to 1941, after which women dressed as they chose for four
+  decades. Scholars attribute the decree variously to the Shah's personal convictions,
+  Ataturk's influence, and calculations about clerical power
+- **Turkey.** The Turkish transition was gradual and largely optional rather than a single
+  prohibition, which is the standard contrast drawn with Iran; the Hat Law of 1925 targeted
+  men's headgear, and restrictions on women's headscarves developed later through
+  institutional rules governing schools, universities, and public employment
+- **Tunisia, 1957.** Habib Bourguiba removed the *safsari* from the heads of women before a
+  large crowd on Aug. 3, 1957, framing it as liberation on the eve of independence. Islamic
+  dress was restricted under Bourguiba and Ben Ali and permitted again after 2011; in 2019
+  Tunisia banned the face veil in government offices as a security measure
+
+The Iranian case is the one that mattered most, because the bitterness it created was
+available for mobilization in 1979.
+
+## 3. The Veil as Anticolonial Weapon
+
+The French campaign in Algeria produced the clearest demonstration that the veil's political
+meaning is set by whoever attacks it. French authorities staged public unveiling ceremonies as
+emblems of a benevolent emancipation, indicting Algerian society as medieval in the same
+gesture.
+
+Frantz Fanon's chapter "Algeria Unveiled," in *A Dying Colonialism* (1959), analyzes the
+result. Because the colonizer fixed on the veil's removal, the liberation front made the veil
+a weapon — and then, tactically, made its absence one. Women carrying messages, money, and
+arms removed the *haik* precisely because an unveiled woman read as pro-French and therefore
+harmless, moving freely through European districts of the cities. Fanon's general point is
+that the method of aggression determines the method of resistance: the veil's significance
+was not intrinsic but assigned, and the assignment could be reversed by either party.
+
+This episode is the reason arguments about the veil so rarely stay about the veil. Once
+unveiling became the colonizer's project, veiling became available as sovereignty — which is
+a political fact with no theological content, and which cuts against both the claim that
+modern veiling is simple piety and the claim that it is simple submission.
+
+## 4. The Revival
+
+From the 1970s the veil returned, and it returned without state compulsion in most places
+where it returned most decisively. The Egyptian figures are the ones usually cited: veiling
+was close to absent among Cairo's urban women in 1969, and by 2000 a large majority of
+Cairene women wore some form of it.
+
+The scholarship identifies several drivers, and no single one carries the case.
+
+- **Movements rather than states.** In Egypt the spread ran through universities, grassroots
+  networks, and Islamist organizations. Young, educated women adopted it as a deliberate
+  choice, framing it as a way to reconcile education and public participation with religious
+  commitment
+- **A broader religious resurgence.** The revival aimed to restore Islam to prominence, and
+  produced legal, cultural, and devotional changes far beyond dress
+- **Political failure.** The collapse of secular Arab nationalist credibility after 1967
+  removed the main competitor, and the Iranian revolution's success in 1979 supplied a
+  demonstration effect
+- **Economic and demographic pressure.** Delayed development, rising inequality, reduced
+  social mobility, and a large educated youth cohort with frustrated expectations are the
+  structural conditions economists have modeled as conducive to revival
+
+The revival is the single hardest fact for the argument that veiling is imposed, and the
+reason the anthropological literature of Part Six §6 exists. It is also, as Lazreg notes, not
+evidence of spontaneity by itself, since promotional infrastructure accompanied it.
+
+## 5. Forced Veiling
+
+The second half of the pattern begins with the Iranian revolution.
+
+**Iran.** Iranian women marched in Tehran on International Women's Day in March 1979 against
+compulsory veiling, in one of the first mass protests against the new order. Hijab was made
+obligatory for all women from April 1983, and the Islamic Penal Code of July 12, 1983
+provided up to 74 lashes for appearing in public without it. The obligation applies to
+non-Muslims and foreign visitors as well.
+
+Mahsa (Jina) Amini died in the custody of the morality police in September 2022, setting off
+the nationwide Woman, Life, Freedom protests and a durable collapse in compliance across parts
+of Iranian society. The state's legislative answer, the Law to Support the Family by
+Promoting Chastity and Hijab, passed parliament and was finalized in 2024, adding fines,
+surveillance provisions, and escalating penalties. Its enforcement has been stalled since the
+Supreme National Security Council formally asked parliament to suspend it on Dec. 14, 2024;
+President Masoud Pezeshkian, elected in July 2024 partly on social freedoms, has said his
+administration cannot implement it. Authorities have meanwhile pursued enforcement by other
+means, and women in Tehran, Shiraz, and Isfahan have reported text-message warnings generated
+from surveillance footage, which digital rights researchers attribute to facial recognition
+cross-referenced against ID and mobile databases. As of 2025 officials maintained the hijab
+laws remained in force while the new law stayed unenforced.
+
+**Afghanistan.** In May 2022 the Taliban's supreme leader, Hibatullah Akhundzada, decreed the
+burqa the preferred form of covering and made male relatives responsible for women's
+compliance. The Law on Propagation of Virtue and Prevention of Vice, published in 2024,
+requires women to cover face and body in public, bans transparent, tight, or short clothing,
+and directs that women conceal their voices. A sweeping enforcement operation ran in Kabul
+from late December 2023 into January 2024, with checkpoints and detentions; women described
+detention lasting days or weeks with physical abuse. UN bodies raised concerns again in 2024
+and 2025, and reporting through early 2026 describes an intensified crackdown, including
+women barred from hospitals without a burqa.
+
+**Turkey, in the other direction.** Turkey lifted its long-standing ban on headscarves in
+most state institutions on Sept. 30, 2013, as part of a package presented as
+democratization, initially excluding the military and judiciary; those exclusions were
+subsequently relaxed. The Turkish sequence is the clearest single illustration that the
+politics are about state power over women's dress rather than about the garment, since the
+same state has compelled both directions within living memory.
+
+## 6. Bans in the West and in India
+
+- **France, 2004.** Law 2004-228 of March 15, 2004, effective that September, barred
+  conspicuous religious symbols in public primary and secondary schools, framed as an
+  application of *laïcité*. It applies to large crosses and *kippot* as well as headscarves,
+  and Sikh students were also affected, but the debate was overwhelmingly about Muslim girls
+- **France, 2010.** A law of October 2010 prohibited concealing the face in public space,
+  directed in practice at the *niqab* and *burqa*
+- **Strasbourg, 2014.** In *S.A.S. v. France*, decided July 1, 2014, the Grand Chamber of the
+  European Court of Human Rights upheld the face-covering ban. The Court accepted that the
+  prohibition interfered with freedom of religion and private life, but held France entitled
+  to impose it to protect the rights and freedoms of others — the "living together"
+  rationale, which has drawn sustained academic criticism as an elastic ground
+- **India, 2022.** Karnataka's government order of Feb. 5, 2022, barred the hijab in state
+  educational institutions with prescribed dress codes. The Karnataka High Court upheld it on
+  March 15, 2022, holding that wearing the hijab is not an essential religious practice and
+  so attracts no constitutional protection. On Oct. 13, 2022, a two-judge bench of the
+  Supreme Court split: Justice Hemant Gupta dismissed the appeals, Justice Sudhanshu Dhulia
+  allowed them and would have set the High Court judgment aside. The matter went to the Chief
+  Justice for assignment to a larger bench, and the High Court ruling stands in the interim
+
+The doctrinal move in the Karnataka judgment is worth noting, because a secular court decided
+a question of Islamic law — whether the practice is essential to the religion — in order to
+decide a question of constitutional law. That is the same question Part Four examines, asked
+by a body with no standing in the tradition and every power over its adherents.
+
+## 7. What Survey Data Shows
+
+The best comparative data remains the University of Michigan Middle Eastern Values Survey,
+fielded 2011 to 2013 and published by the Pew Research Center in January 2014. Respondents in
+seven countries — Tunisia, Egypt, Iraq, Lebanon, Pakistan, Saudi Arabia, and Turkey — chose
+from a card showing six styles of women's head covering.
+
+Two findings, and they pull in different directions. In every country surveyed, the most
+chosen option was full hair and ear covering without face covering — the middle position
+described in Part Four, not either extreme. And substantial minorities to near-majorities
+said women should decide for themselves, highest in Tunisia at 56 percent, Turkey at 52
+percent, and Lebanon at 49 percent.
+
+The instrument drew methodological criticism at the time for asking about "appropriate"
+attire for women in a format that presumed the question was a public one. That criticism is
+itself a datum: whether a woman's clothing is a matter for collective judgment is the
+question underneath the whole debate, and a survey cannot ask it neutrally.
+
+---
+
+# Part Six: The Modern Debate
+
+The scholarly argument as it now stands postdates the political history in Part Five and in
+large part responds to it. Mernissi's *Le harem politique* appeared in 1987, Leila Ahmed's
+first book in 1992, and Abou El Fadl's fatwas in 2016 and 2017 — which is to say the whole
+of the modern literature arrives after forced unveiling, after the anticolonial reversal, and
+in the middle of the revival.
 
 Each position is given below in the form its own proponents would recognize, followed by the
 strongest objection to it. Nothing here settles the question.
@@ -531,7 +1048,9 @@ The evidence, as the Yaqeen Institute paper assembles it:
 
 **The strongest objection.** The argument's weakest joint is the free and enslaved
 distinction, because it shows the classical rule was calibrated to social status and
-therefore was not the timeless anatomical standard the modern statement of it implies. The
+therefore was not the timeless anatomical standard the modern statement of it implies. Part
+Three §2 presses the point further: Umar is reported not merely excusing enslaved women from
+covering but whipping one for covering, which an argument from hardship does not explain. The
 analogy to prayer also cuts both ways: prayer's details are transmitted as *mutawatir*
 communal practice, whereas the specification of a woman's dress rests on solitary reports
 and juristic reasoning. Traditionalist authorities also concede, through the *niqab* ruling,
@@ -707,7 +1226,7 @@ allows that a scarf or *niqab* may be the better option where a woman's safety r
 which locates him close to Abou El Fadl on rationale though he reaches it from a different
 hermeneutic.
 
-**Asma Lamrabet** argues the semantic case set out in Part One: that *hijab* in the Quran is
+**Asma Lamrabet** argues the semantic case set out in Part One §1: that *hijab* in the Quran is
 a curtain and concerns the Prophet's household, that *khimar* in 24:31 refines an existing
 Arabian garment for modesty, and that the later substitution of the first term for the second
 served political interests in excluding women from public life. She adds a theological
@@ -845,200 +1364,15 @@ revived from the 1970s. The disagreements are of four other kinds.
   threat rather than an error
 - **Symmetrical difficulty.** The traditionalist has to explain why a rule with a stated
   protective purpose binds where it demonstrably increases harm, and has to live with the
-  free and enslaved distinction inside the consensus being invoked. The critic has to explain
-  the millions of women who adopted the practice without compulsion, and has to avoid the
-  position that those women are simply mistaken about their own lives — which is the charge
-  the anthropological literature exists to press
+  free and enslaved distinction inside the consensus being invoked — together with the reports
+  in Part Three §3 showing the Prophet's own wives refusing a dispensation he had issued.
+  The critic has to explain the millions of women who adopted the practice without
+  compulsion, and has to avoid the position that those women are simply mistaken about their
+  own lives — which is the charge the anthropological literature exists to press
 
 ---
 
-# Part Five: The Politics, 1899 to the Present
-
-The modern history of the hijab is not primarily a history of theology. It is a history of
-states — colonial and postcolonial, secular and Islamist — using women's clothing to make
-claims about civilization, sovereignty, and legitimacy. The pattern that emerges is that
-compulsion has run in both directions, and roughly as often.
-
-## 1. 1899: The Debate Begins Under Occupation
-
-Qasim Amin published *Tahrir al-Mar'a* (*The Liberation of Woman*) in Cairo in 1899, followed
-by *al-Mar'a al-Jadida* in 1900. Amin argued from Islamic premises that improving women's
-status was a precondition for Egypt's liberation from foreign domination, and in doing so
-moved the question of women from a marginal concern to a national one. The book was
-immediately controversial and has remained so for opposite reasons in different generations.
-
-The critique that has stuck is Leila Ahmed's. Amin wrote under a British occupation whose
-consul-general, Lord Cromer, made the veil the emblem of Egyptian backwardness — and who on
-returning to Britain founded the Men's League for Opposing Woman Suffrage. Ahmed's charge
-that Amin was a "son of Cromer and colonialism" is that his argument adopted the colonizer's
-framing wholesale, and a substantial body of scholarship reads *Tahrir al-Mar'a* as
-substituting Western-style male dominance for Islamic-style male dominance rather than
-displacing dominance. Against this, other scholars have argued the reception history is more
-complicated than the "colonial feminism" verdict allows.
-
-**1923.** Returning from the International Woman Suffrage Alliance congress in Rome, Huda
-Sha'arawi and Saiza Nabarawi removed their face veils at the Cairo railway station in a
-public act that drew wide press attention. Sha'arawi founded the Egyptian Feminist Union the
-same year, campaigning for suffrage, personal status reform, and women's education. The act
-was indigenous, not colonial — which is the standing complication for any account that treats
-unveiling as purely an imposition from outside.
-
-## 2. Forced Unveiling
-
-Three states banned the veil, and the manner of the banning shaped the reaction for
-generations.
-
-- **Iran, 1936.** Reza Shah issued the *kashf-e hijab* decree on Jan. 8, 1936, banning all
-  Islamic veils including the chador, and enforced it aggressively. He regarded traditional
-  dress as a mark of backwardness and also compelled men into Western clothing and hats.
-  Enforcement lasted from 1936 to 1941, after which women dressed as they chose for four
-  decades. Scholars attribute the decree variously to the Shah's personal convictions,
-  Ataturk's influence, and calculations about clerical power
-- **Turkey.** The Turkish transition was gradual and largely optional rather than a single
-  prohibition, which is the standard contrast drawn with Iran; the Hat Law of 1925 targeted
-  men's headgear, and restrictions on women's headscarves developed later through
-  institutional rules governing schools, universities, and public employment
-- **Tunisia, 1957.** Habib Bourguiba removed the *safsari* from the heads of women before a
-  large crowd on Aug. 3, 1957, framing it as liberation on the eve of independence. Islamic
-  dress was restricted under Bourguiba and Ben Ali and permitted again after 2011; in 2019
-  Tunisia banned the face veil in government offices as a security measure
-
-The Iranian case is the one that mattered most, because the bitterness it created was
-available for mobilization in 1979.
-
-## 3. The Veil as Anticolonial Weapon
-
-The French campaign in Algeria produced the clearest demonstration that the veil's political
-meaning is set by whoever attacks it. French authorities staged public unveiling ceremonies as
-emblems of a benevolent emancipation, indicting Algerian society as medieval in the same
-gesture.
-
-Frantz Fanon's chapter "Algeria Unveiled," in *A Dying Colonialism* (1959), analyzes the
-result. Because the colonizer fixed on the veil's removal, the liberation front made the veil
-a weapon — and then, tactically, made its absence one. Women carrying messages, money, and
-arms removed the *haik* precisely because an unveiled woman read as pro-French and therefore
-harmless, moving freely through European districts of the cities. Fanon's general point is
-that the method of aggression determines the method of resistance: the veil's significance
-was not intrinsic but assigned, and the assignment could be reversed by either party.
-
-This episode is the reason arguments about the veil so rarely stay about the veil. Once
-unveiling became the colonizer's project, veiling became available as sovereignty — which is
-a political fact with no theological content, and which cuts against both the claim that
-modern veiling is simple piety and the claim that it is simple submission.
-
-## 4. The Revival
-
-From the 1970s the veil returned, and it returned without state compulsion in most places
-where it returned most decisively. The Egyptian figures are the ones usually cited: veiling
-was close to absent among Cairo's urban women in 1969, and by 2000 a large majority of
-Cairene women wore some form of it.
-
-The scholarship identifies several drivers, and no single one carries the case.
-
-- **Movements rather than states.** In Egypt the spread ran through universities, grassroots
-  networks, and Islamist organizations. Young, educated women adopted it as a deliberate
-  choice, framing it as a way to reconcile education and public participation with religious
-  commitment
-- **A broader religious resurgence.** The revival aimed to restore Islam to prominence, and
-  produced legal, cultural, and devotional changes far beyond dress
-- **Political failure.** The collapse of secular Arab nationalist credibility after 1967
-  removed the main competitor, and the Iranian revolution's success in 1979 supplied a
-  demonstration effect
-- **Economic and demographic pressure.** Delayed development, rising inequality, reduced
-  social mobility, and a large educated youth cohort with frustrated expectations are the
-  structural conditions economists have modeled as conducive to revival
-
-The revival is the single hardest fact for the argument that veiling is imposed, and the
-reason the anthropological literature of section 6 exists. It is also, as Lazreg notes, not
-evidence of spontaneity by itself, since promotional infrastructure accompanied it.
-
-## 5. Forced Veiling
-
-The second half of the pattern begins with the Iranian revolution.
-
-**Iran.** Iranian women marched in Tehran on International Women's Day in March 1979 against
-compulsory veiling, in one of the first mass protests against the new order. Hijab was made
-obligatory for all women from April 1983, and the Islamic Penal Code of July 12, 1983
-provided up to 74 lashes for appearing in public without it. The obligation applies to
-non-Muslims and foreign visitors as well.
-
-Mahsa (Jina) Amini died in the custody of the morality police in September 2022, setting off
-the nationwide Woman, Life, Freedom protests and a durable collapse in compliance across parts
-of Iranian society. The state's legislative answer, the Law to Support the Family by
-Promoting Chastity and Hijab, passed parliament and was finalized in 2024, adding fines,
-surveillance provisions, and escalating penalties. Its enforcement has been stalled since the
-Supreme National Security Council formally asked parliament to suspend it on Dec. 14, 2024;
-President Masoud Pezeshkian, elected in July 2024 partly on social freedoms, has said his
-administration cannot implement it. Authorities have meanwhile pursued enforcement by other
-means, and women in Tehran, Shiraz, and Isfahan have reported text-message warnings generated
-from surveillance footage, which digital rights researchers attribute to facial recognition
-cross-referenced against ID and mobile databases. As of 2025 officials maintained the hijab
-laws remained in force while the new law stayed unenforced.
-
-**Afghanistan.** In May 2022 the Taliban's supreme leader, Hibatullah Akhundzada, decreed the
-burqa the preferred form of covering and made male relatives responsible for women's
-compliance. The Law on Propagation of Virtue and Prevention of Vice, published in 2024,
-requires women to cover face and body in public, bans transparent, tight, or short clothing,
-and directs that women conceal their voices. A sweeping enforcement operation ran in Kabul
-from late December 2023 into January 2024, with checkpoints and detentions; women described
-detention lasting days or weeks with physical abuse. UN bodies raised concerns again in 2024
-and 2025, and reporting through early 2026 describes an intensified crackdown, including
-women barred from hospitals without a burqa.
-
-**Turkey, in the other direction.** Turkey lifted its long-standing ban on headscarves in
-most state institutions on Sept. 30, 2013, as part of a package presented as
-democratization, initially excluding the military and judiciary; those exclusions were
-subsequently relaxed. The Turkish sequence is the clearest single illustration that the
-politics are about state power over women's dress rather than about the garment, since the
-same state has compelled both directions within living memory.
-
-## 6. Bans in the West and in India
-
-- **France, 2004.** Law 2004-228 of March 15, 2004, effective that September, barred
-  conspicuous religious symbols in public primary and secondary schools, framed as an
-  application of *laïcité*. It applies to large crosses and *kippot* as well as headscarves,
-  and Sikh students were also affected, but the debate was overwhelmingly about Muslim girls
-- **France, 2010.** A law of October 2010 prohibited concealing the face in public space,
-  directed in practice at the *niqab* and *burqa*
-- **Strasbourg, 2014.** In *S.A.S. v. France*, decided July 1, 2014, the Grand Chamber of the
-  European Court of Human Rights upheld the face-covering ban. The Court accepted that the
-  prohibition interfered with freedom of religion and private life, but held France entitled
-  to impose it to protect the rights and freedoms of others — the "living together"
-  rationale, which has drawn sustained academic criticism as an elastic ground
-- **India, 2022.** Karnataka's government order of Feb. 5, 2022, barred the hijab in state
-  educational institutions with prescribed dress codes. The Karnataka High Court upheld it on
-  March 15, 2022, holding that wearing the hijab is not an essential religious practice and
-  so attracts no constitutional protection. On Oct. 13, 2022, a two-judge bench of the
-  Supreme Court split: Justice Hemant Gupta dismissed the appeals, Justice Sudhanshu Dhulia
-  allowed them and would have set the High Court judgment aside. The matter went to the Chief
-  Justice for assignment to a larger bench, and the High Court ruling stands in the interim
-
-The doctrinal move in the Karnataka judgment is worth noting, because a secular court decided
-a question of Islamic law — whether the practice is essential to the religion — in order to
-decide a question of constitutional law. That is the same question Part Three examines, asked
-by a body with no standing in the tradition and every power over its adherents.
-
-## 7. What Survey Data Shows
-
-The best comparative data remains the University of Michigan Middle Eastern Values Survey,
-fielded 2011 to 2013 and published by the Pew Research Center in January 2014. Respondents in
-seven countries — Tunisia, Egypt, Iraq, Lebanon, Pakistan, Saudi Arabia, and Turkey — chose
-from a card showing six styles of women's head covering.
-
-Two findings, and they pull in different directions. In every country surveyed, the most
-chosen option was full hair and ear covering without face covering — the middle position
-described in Part Three, not either extreme. And substantial minorities to near-majorities
-said women should decide for themselves, highest in Tunisia at 56 percent, Turkey at 52
-percent, and Lebanon at 49 percent.
-
-The instrument drew methodological criticism at the time for asking about "appropriate"
-attire for women in a format that presumed the question was a public one. That criticism is
-itself a datum: whether a woman's clothing is a matter for collective judgment is the
-question underneath the whole debate, and a survey cannot ask it neutrally.
-
----
-
-# Part Six: Source Criticism — Genre Determines What a Citation Proves
+# Part Seven: Source Criticism — Genre Determines What a Citation Proves
 
 The works cited across this document are not interchangeable authorities. A verse, a screened
 hadith collection, a legal manual, a state fatwa, an ethnography, and a polemic support
@@ -1050,8 +1384,8 @@ though it were another.
 | Source type | Examples used here | What a citation to it establishes |
 | --- | --- | --- |
 | Quranic text | 24:30-31, 33:53, 33:59, 24:60 | The wording of the command and its stated purpose. Not the scope of application, which requires interpretation |
-| Classical *tafsir* | Reports from Ibn Abbas and Ibn Mas'ud on *illa ma zahara minha* | That early authorities disagreed, and how. Not a resolution — the disagreement is the finding |
-| Screened hadith collections | Bukhari, Sunan Abi Dawud on the compliance reports | That the report met the compiler's admission standard, and that the practice was understood as commanded in the community that transmitted it |
+| Classical *tafsir* | Reports from Ibn Abbas and Ibn Mas'ud on *illa ma zahara minha*; the *jayb* material in Part Two §2 | That early authorities disagreed, and how, and how they understood the circumstances a verse addressed. Not a resolution, and not independent attestation of seventh-century practice |
+| Screened hadith collections | Bukhari, Sunan Abi Dawud on the compliance reports; Bukhari 5999 and Muslim 1453 in Part Three §3 | That the report met the compiler's admission standard, and that the practice was understood as commanded in the community that transmitted it. A report whose subject is something else — a parable, a marriage impediment — attests dress only incidentally, and never by its silences |
 | *Fiqh* manuals and *usul* works | The *awrah* rulings of the four schools | What jurists held and on what reasoning. Not what ordinary Muslims wore |
 | State fatwa bodies | Dar al-Ifta, Al-Azhar | The current institutional position of a national authority. Authoritative for policy, not decisive as scholarship |
 | Advocacy research institutes | Yaqeen Institute papers | A carefully assembled statement of the mainstream case. It is advocacy, and says so |
@@ -1067,7 +1401,7 @@ Applying the distinction produces a finding against each side.
 
 **Against the traditionalist consensus argument.** The claim of unbroken agreement is a claim
 about *fiqh* manuals, and *fiqh* manuals record what jurists held, not what was practiced.
-Part Two's evidence that full veiling with seclusion was for most of Islamic history an urban
+Part Three's evidence that full veiling with seclusion was for most of Islamic history an urban
 elite practice — because seclusion required wealth, and because veiling tracked urbanization
 — comes from social history, and it does not contradict the juristic consensus so much as
 show what the consensus governed. The rule was agreed; the practice was uneven. Any argument
@@ -1094,6 +1428,14 @@ beyond her own camp. Her reconstruction of an interrupted egalitarian program ab
 Umar's pressure is a historical claim that reviewers have faulted for a narrow source base
 and sweeping unattributed assertions. Citing the book as a single authority conflates the two.
 
+**Against arguing from what a report does not say.** Part Three §3 sets out the two
+breastfeeding reports and the temptation each carries. That no one in Bukhari 5999 objects to a
+captive nursing in public is not evidence that her exposure was unremarkable, because the report
+is a parable about mercy and had no reason to record an objection. That the Sahla narration does
+not describe the mechanism is not evidence for either reading of it. Silence in a source whose
+subject is something else is the weakest material in this field and among the most frequently
+cited.
+
 **The usable rule.** Match the claim to the genre. A verse supports a claim about what was
 commanded. A hadith collection supports a claim about what was transmitted and received. A
 *fiqh* manual supports a claim about what jurists held. An ethnography supports a claim about
@@ -1106,8 +1448,9 @@ lives.
 
 # Sources Referenced
 
-Researched Aug. 22, 2026. Primary Arabic texts were not consulted directly; where a classical
-work is cited, the citation is to the secondary literature reporting it.
+Researched Aug. 22, 2026, and extended Aug. 26, 2026. Primary Arabic texts were not consulted
+directly; where a classical work is cited, the citation is to the secondary literature reporting
+it, or to an English translation of the hadith collection concerned.
 
 ## Quranic Text and Vocabulary
 
@@ -1134,6 +1477,20 @@ work is cited, the citation is to the secondary literature reporting it.
 - [Sahih Muslim 1428b](https://sunnah.com/muslim:1428b) and [Zaynab bint Jahsh](https://en.wikipedia.org/wiki/Zaynab_bint_Jahsh) — Anas ibn Malik on the occasion of 33:53
 - ["The words of Anas regarding the slave women of 'Umar: 'They used to serve us bare-headed'"](https://islamqa.info/en/answers/198645) and ["'But the Ruling Was Different for Slave Women'"](https://rameezabid.substack.com/p/but-the-ruling-was-different-for) — the free and enslaved distinction, stated and defended from within the tradition
 - Kecia Ali, *Sexual Ethics and Islam* (2006) and *Marriage and Slavery in Early Islam* (2010) — [faculty page](https://www.bu.edu/religion/faculty/kecia-ali); the juristic disagreement over enslaved women's *awrah*
+- Musannaf Ibn Abi Shayba 6382-6383, via ["Umar, the Slave and the Veil"](https://philhoraia.wixsite.com/website/post/umar-the-slave-and-the-veil) and ["Why Is the Legal Level of Nakedness Different for a Slave Girl as It Is for a Free Woman?"](https://seekersguidance.org/answers/slavery-answers/why-is-the-legal-level-of-nakedness-different-for-a-slave-girl-as-it-is-for-a-free-woman/) — the reports that Umar struck an enslaved woman for wearing a *jilbab*, their grading, and the traditional explanation
+
+## What Women Wore, and the Breastfeeding Reports
+
+- [Tafsirs for Qur'an 24:31](https://quranx.com/tafsirs/24.31) and [*Ma'arif al-Qur'an* on 24:31](https://quran.com/an-nur/31/tafsirs/168) — the *jayb* as a wide front opening, the *khimar* worn behind the back, and the gloss ascribed to Sa'id ibn Jubayr
+- Muhammad Asad, *The Message of the Qur'an*, note on 24:31 — the statement that the *khimar* was worn as an ornament let down over the back and that the tunic's wide front opening left the chest bare
+- [Sahih al-Bukhari 5999](https://sunnah.com/bukhari:5999) and ["Allah is more merciful to His servants than this is to her child"](https://hadeethenc.com/en/browse/hadith/10095) — the captive who nursed the children; parallel at Sahih Muslim 2754
+- ["Allah Ta'ala Has More Mercy Over His Servants Than a Mother Over Her Child"](https://hadithanswers.com/allah-taala-has-more-mercy-over-his-servants-than-a-mother-over-her-child/) — the traditional framing of the same report
+- [Sahih Muslim 1453a-e, The Book of Suckling](https://sunnah.com/muslim/17/33-38) and [*Muwatta* Malik, Book 30](https://sunnah.com/malik/30/13) — Sahla bint Suhayl and Salim, the beard objection, and the refusal of the other wives
+- ["Clarification of Hadith about the Suckling of a Grown Man"](https://daruliftaa.com/sacred-knowledge/clarification-of-hadith-about-the-suckling-of-a-grown-man/) — al-Qurtubi on the *rukhsa*, Umm Salama's objection, and Aisha's contrary practice
+- ["Adult Breastfeeding in Islam: The Truth About Salim and Sahla"](https://icraa.org/on-the-question-of-adult-breastfeeding-in-islamic-tradition/) — the abolition-of-adoption context and Ibn Qutayba's expressed-milk reading; an apologetic source, and treated as one here
+- ["How should the Hadith concerning the breastfeeding of the adult be replied to?"](https://www.aliftaa.jo/QuestionEn.aspx?QuestionId=243), Jordan's Iftaa Department — the two-year rule and the statement that later suckling affects neither marriage nor *hijab*
+- [Salim Mawla Abi Hudhayfah](https://a2youth.com/ebooks/companions_of_the_prophet/salim_mawla_abi_hudhayfah/) and [Sahla bint Suhayl](https://en.wikipedia.org/wiki/Sahla_bint_Suhayl) — the household and the effect of 33:4-5 on Salim's status
+- ["Egyptian scholar retracts breastfeeding fatwa"](https://english.alarabiya.net/articles/2007/05/21/34683), Al Arabiya; ["Al-Azhar Lecturer Suspended after Issuing Controversial Fatwa"](https://www.memri.org/reports/al-azhar-lecturer-suspended-after-issuing-controversial-fatwa-recommending-breastfeeding-men), MEMRI; ["Supreme Administrative Court issues a final verdict with the return of Dr. Ezzat Attia"](https://afteegypt.org/en/advocacy-en/statements-en/2013/09/15/4917-afteegypt.html), AFTE Egypt — the 2007 fatwa, the suspension and retraction, and the reinstatement
 
 ## The Legal Rulings
 
