@@ -55,7 +55,63 @@ Under Umar's ten-year reign, the Rashidun Caliphate expanded at an unprecedented
 
 ---
 
-## 5. Governance & Administrative Innovations
+## 5. The Pact of Umar & the Rights of Non-Muslims
+
+As the empire expanded, millions of Christians, Jews, and Zoroastrians came under Muslim rule.
+The framework that governed the relationship between the state and its non-Muslim subjects is
+known as the **Pact of Umar** (*al-Shurut al-Umariyyah*), and it recognized them as *dhimmis*,
+protected citizens.
+
+A caveat belongs at the front. Several versions of the text survive, and the later ones add
+restrictions the earliest do not carry; medieval copyists were writing for their own
+circumstances. What follows separates the core provisions from the later accretions where the
+sources allow it.
+
+### Rights Granted
+
+* **Life and property.** The state was contractually obliged to protect non-Muslim citizens from
+  invasion and from crime. A Muslim who murdered a *dhimmi* was subject to *qisas*, capital
+  punishment, on the same footing as for murdering a Muslim.
+* **Religion.** Non-Muslims kept their faiths, their churches and synagogues, and their religious
+  hierarchies. The **Assurance of Umar** (*al-Uhdah al-Umariyyah*) given at Jerusalem in 637 CE
+  states explicitly that the churches would not be destroyed, confiscated, or converted into
+  mosques - see [section 4](#4-jerusalem--the-covenant-of-umar-637-ce).
+* **Legal autonomy.** Non-Muslim communities were not brought under Sharia for their internal
+  affairs. Rabbinical and ecclesiastical courts ruled on marriage, divorce, and inheritance for
+  their own populations.
+
+### The Jizya
+
+Non-Muslims were exempt from military service, which was obligatory for adult Muslim men, and
+from *zakat*, the wealth tax levied on Muslims. In return they paid the **jizya**, a protection
+tax. Umar set its terms narrowly.
+
+| Rule | Effect |
+| :--- | :--- |
+| **Exemptions** | Women, children, the elderly, the poor, the sick, and monks paid nothing. The tax fell only on able-bodied working-age men who could afford it. |
+| **The welfare clause** | Umar found an elderly Jewish man begging in Medina to pay his jizya and feed himself. He said, "By God, we have not done him justice if we consumed his youth and then abandoned him in his old age," waived the tax permanently, and put him on a lifetime pension from the *Bayt al-Mal*. |
+| **Refund on failure to protect** | If the army had to withdraw from a city and could no longer protect its non-Muslim residents, that year's jizya was returned in full. This happened under **Abu Ubaidah** in Syria before the Battle of Yarmouk. |
+
+### Restrictions, and the Context They Sat In
+
+The pact carried social and political limits designed to keep the public character of the state
+Muslim. *Dhimmis* were generally barred from proselytizing to Muslims, from building prominent
+new places of worship in Muslim-founded garrison towns, though existing churches were protected,
+and from large public displays such as raised crosses or loud communal prayer in the main
+squares.
+
+By any modern standard that is unequal treatment, and it should be named as such. The historical
+comparison is still worth making: in the same century, religious minorities under Byzantine and
+Sasanian rule faced state-sponsored massacre, forced conversion, and confiscation. Measured
+against its own period rather than against ours, the pact was an unusually durable settlement
+for a multi-religious empire.
+
+> **Primary sources:** *Kitab al-Kharaj* (The Book of Land Tax) by Abu Yusuf, d. 798 CE;
+> *Kitab al-Amwal* by Abu Ubayd, d. 838 CE; The History of al-Tabari, Vol. 12.
+
+---
+
+## 6. Governance & Administrative Innovations
 
 Umar is celebrated as a master administrator who institutionalized the early Islamic state. He was the first ruler to style himself *Amir al-Mu'minin* ("Commander of the Faithful").
 
@@ -76,7 +132,7 @@ Umar is celebrated as a master administrator who institutionalized the early Isl
 
 ---
 
-## 6. Personal Character & Legacy
+## 7. Personal Character & Legacy
 
 * **Justice:** Umar's commitment to justice (*Adl*) became proverbial in Islamic tradition; he would walk the streets of Medina at night, incognito, to check on the welfare of his subjects.
 * **Simplicity:** Despite ruling a vast empire, he lived frugally—owning as few as two garments, patching his own clothes, and remaining indistinguishable from his servants.
@@ -87,7 +143,7 @@ Umar is celebrated as a master administrator who institutionalized the early Isl
 
 ---
 
-## 7. Death & Succession (644 CE)
+## 8. Death & Succession (644 CE)
 
 * **Assassination:** On November 6, 644 CE (26 Dhu al-Hijjah, 23 AH), Umar was stabbed with a double-bladed dagger by **Abu Lu'lu'a Firuz** (also known as Piruz Nahavandi), a highly skilled Persian joiner and blacksmith, while he was leading the dawn (*Fajr*) prayer in the Prophet's Mosque in Medina.
 * **Motive:** A Persian slave of the governor al-Mughira ibn Shu'ba, Abu Lu'lu'a was forced to pay a daily *kharaj* tax; when he appealed to Umar to lift it and Umar refused, he sought revenge. Some accounts hold that he died immediately and others that he survived for three days.
@@ -108,3 +164,14 @@ Umar is celebrated as a master administrator who institutionalized the early Isl
 | Key Reforms | Bayt al-Mal, Diwan, Hijri calendar, provinces & independent judiciary, welfare state |
 | Assassin | Abu Lu'lu'a Firuz (Piruz Nahavandi), a Persian slave |
 | Successor | Uthman ibn Affan (elected by the six-member Shura) |
+
+---
+
+## Related Documents
+
+* [Life-of-Muhammad.md](Life-of-Muhammad.md) - the Prophet's life, including Umar's role at
+  Hudaibiya and at the Prophet's death
+* [Rashidun-Caliphate.md](Rashidun-Caliphate.md) - the succession at Saqifah, the compilation of
+  the Quran, and the caliphates of Uthman and Ali
+* [Slavery-in-Islam.md](Slavery-in-Islam.md) - Part Three, on Umar's legal interventions and the
+  effect of the conquests
