@@ -27,6 +27,8 @@
 
 **[The Map](#the-map)**
 
+**[The Photographs](#the-photographs)**
+
 **Part One: [Before Prophethood, c. 570-609 CE](#part-one-before-prophethood-c-570-609-ce)**
 
 - [1. Birth and Lineage](#1-birth-and-lineage)
@@ -182,6 +184,31 @@ Coastlines come from Natural Earth, which is public-domain data, and reflect the
 shoreline. The maps were drawn for this document; nothing on them is a historical map.
 
 ![Regional map of the Middle East and the Horn of Africa showing every place the document names, with an enlarged panel of the Hejaz](images/maps/00-the-world.png)
+
+---
+
+# The Photographs
+
+Five places in this document still exist and can be photographed: the two caves, the two mosques,
+and the burial chamber. Photographs of them are placed in the sections that describe them.
+
+**The caves are the only originals.** Ghar Hira and Ghar Thawr are natural clefts in granite, and
+the rock in the pictures is the rock the sources describe. Everything around them is new. Both
+mountains now sit inside a built-up Mecca, with graded paths, handrails and lighting on the climbs,
+and the modern city is visible from each summit.
+
+**Neither mosque is the building he built.** The Quba Mosque and the Prophet's Mosque were mud
+brick, palm trunks and beaten earth. Both were enlarged within a generation, and both have been
+rebuilt repeatedly since — the Prophet's Mosque most drastically in the Saudi expansions of the
+20th century, which took it from a walled Ottoman mosque to a complex covering most of central
+Medina. What survives is the site and the name, not the fabric. Where an early photograph exists,
+it appears beside the modern view so the difference is visible.
+
+**The burial chamber cannot be photographed inside.** The grave is closed, and the pictures show
+the Green Dome over it, built in 1818 and painted green in 1837 — twelve centuries after the
+burial.
+
+Sources and licenses for every photograph are in [images/CREDITS.md](images/CREDITS.md).
 
 ---
 
@@ -348,6 +375,17 @@ Approaching forty, troubled by the idolatry and the treatment of the weak in Mec
 began withdrawing for long stretches to **Ghar Hira**, a small cave on Jabal al-Nour, the
 Mountain of Light, about two miles from Mecca. He would stay for days at a time. Khadijah sent
 food and water up to him.
+
+![Jabal al-Nour seen from the road at its foot, with the graded pilgrim stairway climbing the ridge toward the summit](images/sites/01-jabal-al-nur.jpg)
+
+> Jabal al-Nour today. The cave is just below the summit on the left, roughly a thousand feet up.
+> The stairway, the retaining walls and the city at the base are all modern; the climb took the
+> better part of an hour before any of it was built, and Khadijah was sending food up it.
+
+![The mouth of Ghar Hira, a narrow gap under a leaning slab of granite, with pilgrims sitting at the entrance and one man going in](images/sites/02-ghar-hira.jpg)
+
+> The entrance to Ghar Hira. The cave is about twelve feet long and barely wide enough to lie
+> down in. The painted inscriptions on the rock are recent.
 
 In Ramadan of 610 CE, while he was in the cave, the angel **Jibril** appeared to him in human
 form and commanded: **"Iqra!"** Read. Recite.
@@ -653,6 +691,12 @@ We have put before them a barrier and behind them a barrier and covered them so 
 He met **Abu Bakr**, and the two went south, the wrong way for Medina, to break the trail. They
 hid in **Ghar Thawr**, the Cave of Thawr.
 
+![The mouth of Ghar Thawr, a low horizontal gap beneath a large boulder on the summit of Jabal Thawr, with Mecca and its tower blocks visible in the haze below](images/sites/03-ghar-thawr.jpg)
+
+> The mouth of Ghar Thawr, near the summit of Jabal Thawr south of Mecca. The opening is low
+> enough that entering means crawling, which is what makes the story of the trackers standing at
+> it work. Mecca is in the haze behind, a few miles off.
+
 The Quraysh put a bounty of a hundred camels on his head, and professional trackers followed the
 footprints to the mouth of the cave. From inside, Abu Bakr could see the trackers' feet and
 whispered that if any of them looked down, they would be seen.
@@ -675,6 +719,16 @@ outskirts of Yathrib. He stopped first at the village of **Quba**, traditionally
 al-Awwal, around late September 622 CE, and stayed several days. There he built the **Quba
 Mosque**, the first mosque built in Islam.
 
+![An early photograph of the Quba Mosque: a low rectangular wall with crenellations and a single tall minaret](images/sites/04-quba-mosque-before-rebuilding.jpg)
+
+> The Quba Mosque before the modern rebuilding. This is not the building of 622 CE either, but it
+> is close to the scale of it: a plain walled enclosure with one minaret added later.
+
+![The Quba Mosque at night, a white mosque with four minarets, ranks of domes and a paved plaza](images/sites/05-quba-mosque-today.jpg)
+
+> The same site today. The mosque was rebuilt in the 1980s to a design by Abdel-Wahed
+> El-Wakil, and expanded again after 2021. Nothing above ground is original.
+
 ## 5. Entering Medina and Building the Prophet's Mosque
 
 He entered the city itself a few days later, traditionally on a Friday. Yathrib was renamed
@@ -688,6 +742,19 @@ boys.
 He bought the plot and built his house and **Al-Masjid an-Nabawi**, the Prophet's Mosque, on it.
 The building was plain: unbaked mud brick, a roof of palm leaves on palm-trunk pillars, a floor
 of beaten earth. He carried bricks himself alongside the others.
+
+![A 1908 photograph of the Prophet's Mosque: the dark Green Dome and two minarets rising over the flat mud-brick roofs of old Medina](images/sites/06-masjid-an-nabawi-1908.jpg)
+
+> The Prophet's Mosque in 1908, at the end of Ottoman rule. The mosque is the block on the left
+> under the dome, and the town presses right up against its walls. This is the last stage before
+> the 20th-century expansions.
+
+![The Prophet's Mosque from above today: the Green Dome at the center, ranks of white domes and folded umbrellas over the courtyards, and minarets on every side](images/sites/07-masjid-an-nabawi-today.jpg)
+
+> The same mosque now. The Green Dome marks the burial chamber at the edge of the original plot;
+> the white domes and the courtyards around it are Saudi additions from 1955 onward, and the
+> mosque holds hundreds of thousands of people. Compare the 1908 photograph for the scale of the
+> change.
 
 > **Reference:** Sahih al-Bukhari, Book 63, Hadith 3932; Kitab al-Tabaqat al-Kabir by Ibn Sa'd.
 
@@ -981,7 +1048,20 @@ So if he was to die or be killed, would you turn back on your heels?" **(Quran 3
 
 Umar later said it was as though he had never heard the verse before. He dropped his sword.
 
-> **Reference:** Sahih al-Bukhari, Book 86, Hadith 21; Quran, Surah Ali 'Imran (3:144).
+He was buried where he died, in Aisha's room beside the mosque, on the authority of a report that
+prophets are buried on the spot where they die. Abu Bakr and Umar were later buried in the same
+chamber. The expansions of the mosque enclosed the room rather than moving it, so the grave now
+sits inside the Prophet's Mosque, under the Green Dome.
+
+![The Green Dome of the Prophet's Mosque, green ribbed lead over a stone drum, with a smaller white dome beside it](images/sites/08-green-dome.jpg)
+
+> The Green Dome, over the chamber that holds the grave. The dome was built in 1818 and first
+> painted green in 1837. The chamber itself is walled off and closed to visitors, and no
+> photograph of the graves exists.
+
+> **Reference:** Sahih al-Bukhari, Book 86, Hadith 21; Quran, Surah Ali 'Imran (3:144). The
+> report that a prophet is buried where he dies is in the funeral chapters of Sunan Ibn Majah and
+> Jami at-Tirmidhi; the numbering varies by edition, so no number is given here.
 
 ## 3. What Followed
 

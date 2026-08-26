@@ -11,6 +11,27 @@ the Artist and Source lines given here.
 (`ne_50m_land`), which is in the public domain and free of any use restriction. The
 drawing code and the place data are original to this repository.
 
+## The Places
+
+`images/sites/`, in the order they appear in
+[Life-of-Muhammad.md](Life-of-Muhammad.md). All eight are from Wikimedia Commons.
+
+| # | Subject | Date | License | Artist or holder | Source |
+| :-- | :--- | :--- | :--- | :--- | :--- |
+| 01 | Jabal al-Nour, with the pilgrim stairway | 2024 | CC BY-SA 4.0 | Kaliper1 | [Commons](https://commons.wikimedia.org/wiki/File:Jabbal_An-Nour_(2024).jpg) |
+| 02 | The mouth of Ghar Hira | 2018 | CC BY-SA 4.0 | saudipics | [Commons](https://commons.wikimedia.org/wiki/File:Hira_Cave.jpg) |
+| 03 | The mouth of Ghar Thawr | 2016 | CC BY-SA 4.0 | King Eliot | [Commons](https://commons.wikimedia.org/wiki/File:Jabl_e_Thawr.jpg) |
+| 04 | The Quba Mosque before the modern rebuilding | before 1900, doubtful | Public domain | Unknown | [Commons](https://commons.wikimedia.org/wiki/File:Qubaorig.jpg) |
+| 05 | The Quba Mosque today | 2025 | CC BY-SA 4.0 | Diego Delso | [Commons](https://commons.wikimedia.org/wiki/File:Mezquita_de_Quba,_Medina,_Arabia_Saudita,_2025-05-22,_DD_16-18_HDR.jpg) |
+| 06 | The Prophet's Mosque in 1908 | 1908 | Public domain | Ibrahim Basha | [Commons](https://commons.wikimedia.org/wiki/File:Old_Al-Masjid_Al-Nabawi_1908.jpg) |
+| 07 | The Prophet's Mosque today, from above | 2018 | CC0 | Konevi | [Commons](https://commons.wikimedia.org/wiki/File:Al-Masjid_An-Nabawi_(Bird%27s_Eye_View).jpg) |
+| 08 | The Green Dome | 2024 | CC0 | Bjelica | [Commons](https://commons.wikimedia.org/wiki/File:Green_Dome_in_2024.jpg) |
+
+Image 04 is tagged "before 1900" on Commons, but a motor vehicle is parked at the lower edge of
+the frame, so the photograph is almost certainly 20th-century and the public-domain tag may not
+hold. It is used here for the building it shows rather than for its date, and the caption in the
+document does not give it one.
+
 ## The Kaaba Through the Centuries
 
 `images/kaaba/`, in the order they appear in
@@ -48,7 +69,7 @@ drawing code and the place data are original to this repository.
 
 Wikimedia Commons license tags are contributed by uploaders and are not warranties.
 The pre-1900 material here is old enough that its public-domain status is not in
-serious doubt. Several of the 20th-century photographs — the 1937, 1965, 1967 and 1969
+serious doubt, with the exception of the Quba Mosque photograph noted above. Several of the 20th-century photographs — the 1937, 1965, 1967 and 1969
 images in particular — carry public-domain tags whose basis is thin, and the 1967 frame
 is credited to United Press International. Anyone republishing this document outside
 personal study should check those four again at the source before relying on them.
