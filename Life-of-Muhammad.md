@@ -8,9 +8,13 @@
 > sections follow the flowchart in the same order. Material that belongs to the era after
 > the Prophet's death was moved out and is listed under
 > [What Moved Out of This Document](#what-moved-out-of-this-document). Sources are cited
-> inline at the end of each section and described in [Sources](#sources). The account given
-> here is the traditional Muslim biography, drawn from hadith and *seerah* literature written
-> down between roughly 120 and 300 years after the events. Where a date or an episode is
+> inline at the end of each section and described in [Sources](#sources). Each section that
+> names a place carries a map of the region, described in [The Map](#the-map), and an
+> [appendix](#appendix-the-kaaba-through-the-centuries) collects pictures of the Kaaba in date
+> order. Image sources and licenses are listed in [images/CREDITS.md](images/CREDITS.md). The
+> account given here is the traditional Muslim biography, drawn from hadith and *seerah*
+> literature written down between roughly 120 and 300 years after the events. Where a date
+> or an episode is
 > disputed, that is stated rather than glossed. None of it substitutes for the primary texts.
 
 ## Contents
@@ -20,6 +24,8 @@
 **[A Note on Dates](#a-note-on-dates)**
 
 **[How to Read the Flowcharts](#how-to-read-the-flowcharts)**
+
+**[The Map](#the-map)**
 
 **Part One: [Before Prophethood, c. 570-609 CE](#part-one-before-prophethood-c-570-609-ce)**
 
@@ -62,6 +68,12 @@
 - [1. The Farewell Pilgrimage and Sermon, 632 CE](#1-the-farewell-pilgrimage-and-sermon-632-ce)
 - [2. The Death of the Prophet, 8 June 632 CE](#2-the-death-of-the-prophet-8-june-632-ce)
 - [3. What Followed](#3-what-followed)
+
+**[Appendix: The Kaaba Through the Centuries](#appendix-the-kaaba-through-the-centuries)**
+
+- [1. Before Photography, c. 1050-1857](#1-before-photography-c-1050-1857)
+- [2. The First Photographs, 1880-1900](#2-the-first-photographs-1880-1900)
+- [3. The Twentieth Century and After, 1907-2019](#3-the-twentieth-century-and-after-1907-2019)
 
 **[Sources](#sources)**
 
@@ -146,6 +158,33 @@ read without scrolling sideways.
 
 ---
 
+# The Map
+
+Sections that name a place open with a map of the same region, so the geography stays fixed
+from one section to the next. The frame runs from Egypt and Anatolia across to Persia, with the
+Horn of Africa at the lower left and the Persian Gulf at the right.
+
+Three things are worth knowing before reading them.
+
+**Red marks the places this section names.** Grey marks are there only for bearings. The card
+beside each map lists the red places with a line on why the section names them.
+
+**Some places are too close together to separate.** Mecca and the Cave of Hira are two miles
+apart, Medina and Uhud three, Mecca and Arafat thirteen. At the scale of a page these fall on
+the same dot, so a second panel enlarges the Hejaz where that helps, and the rest is handled in
+the card rather than by pretending the map can show it.
+
+**The routes are schematic.** A dashed arrow records that a journey happened between two places,
+not the road it took. The Meccan caravan road to Syria, the crossing to Abyssinia and the route
+of the Hijrah all wandered, and the sources do not fix them.
+
+Coastlines come from Natural Earth, which is public-domain data, and reflect the modern
+shoreline. The maps were drawn for this document; nothing on them is a historical map.
+
+![Regional map of the Middle East and the Horn of Africa showing every place the document names, with an enlarged panel of the Hejaz](images/maps/00-the-world.png)
+
+---
+
 # Part One: Before Prophethood, c. 570-609 CE
 
 ```
@@ -172,6 +211,8 @@ read without scrolling sideways.
 
 ## 1. Birth and Lineage
 
+![Regional map: Mecca highlighted in the Hejaz, with Yathrib, Jerusalem, Axum and Ctesiphon marked for bearings](images/maps/p1-birth.png)
+
 Muhammad was born in Mecca, in the Hejaz region of Arabia, around 570 CE. Islamic tradition
 dates the birth to the 12th of Rabi' al-Awwal and names the year *Am al-Fil*, the Year of the
 Elephant, after a failed Abyssinian expedition against the city.
@@ -194,6 +235,8 @@ followed the custom.
 
 ## 3. Orphanhood and Guardianship
 
+![Regional map: the road from Mecca north to Yathrib and back, with al-Abwa marked where Amina died](images/maps/p1-orphanhood.png)
+
 * **Age six.** Amina took him to Yathrib, later Medina, to visit his father's grave. She fell
   ill on the return journey and died at **al-Abwa**, leaving him a full orphan.
 * **Age eight.** His paternal grandfather **Abd al-Muttalib**, who had taken him in and treated
@@ -203,6 +246,8 @@ followed the custom.
   protector for the next four decades.
 
 ## 4. Shepherd, Then Merchant
+
+![Regional map: the caravan road from Mecca north to Bosra in Syria](images/maps/p1-merchant.png)
 
 * **Shepherding.** As a boy he tended sheep and goats for the people of Mecca for a wage. He
   later remarked that every prophet God sent had been a shepherd, a job that teaches patience,
@@ -251,6 +296,9 @@ the stone to the height of the wall. He then took it in his own hands and set it
 
 Every clan had a share in the honor, nobody lost face, and the war did not happen.
 
+For what the building has looked like since, see
+[Appendix: The Kaaba Through the Centuries](#appendix-the-kaaba-through-the-centuries).
+
 ---
 
 # Part Two: Mecca, 610-622 CE
@@ -293,6 +341,8 @@ Every clan had a share in the honor, nobody lost face, and the war did not happe
 > [Umar-ibn-al-Khattab.md](Umar-ibn-al-Khattab.md), section 2.
 
 ## 1. The Cave of Hira and the First Revelation, 610 CE
+
+![Regional map: Mecca highlighted, with a note that Ghar Hira lies about two miles outside the city](images/maps/p2-hira.png)
 
 Approaching forty, troubled by the idolatry and the treatment of the weak in Meccan society, he
 began withdrawing for long stretches to **Ghar Hira**, a small cave on Jabal al-Nour, the
@@ -383,6 +433,8 @@ them.
 
 ## 4. The First Migration to Abyssinia, 615 CE
 
+![Regional map: the crossing from Mecca to the port of Shuaiba, over the Red Sea to Adulis, and inland to Axum](images/maps/p2-abyssinia.png)
+
 **Why they left.** Five years after the first revelation, the pressure on the early Muslims in
 Mecca had passed what the community could absorb. Converts without clan protection took the
 worst of it. **Bilal ibn Rabah** was tortured as an enslaved man; **Sumayyah bint Khayyat** was
@@ -436,6 +488,8 @@ them, and granted the Muslims sanctuary and freedom of worship.
 > al-Tabari, Vol. 6.
 
 ## 5. The Year of Sorrow and the Journey to Ta'if, 619 CE
+
+![Regional map: Mecca and Ta'if highlighted, sixty miles apart in the Hejaz](images/maps/p2-taif.png)
 
 **The two deaths.** By 619 CE the Prophet had lost both of the people who made his position in
 Mecca survivable: **Khadijah**, who had backed him emotionally and financially for twenty-five
@@ -512,6 +566,8 @@ asked him to release the prisoners of Badr, he would have released them for his 
 
 ## 7. The Night Journey and the Ascension, c. 621 CE
 
+![Regional map: Mecca and Jerusalem highlighted, with the route of al-Isra drawn between them](images/maps/p2-night-journey.png)
+
 Not long after Ta'if and the Year of Sorrow came the journey the sources treat as the answer to
 that year. The date is not fixed; tradition places it in Rajab, in the tenth or eleventh year of
 prophethood, which is roughly 620 or 621 CE.
@@ -563,6 +619,8 @@ truth.
 │Camel picks the site│   │  mosque is built   │   │unused desert routes│   │ at the cave mouth  │
 └────────────────────┘   └────────────────────┘   └────────────────────┘   └────────────────────┘
 ```
+
+![Regional map: the route of the Hijrah, south from Mecca to break the trail and then north to Yathrib](images/maps/p3-hijrah.png)
 
 ## 1. The Plot at Dar al-Nadwa
 
@@ -682,6 +740,8 @@ earliest written constitutional frameworks anywhere.
 
 ## 2. The Change of the Qibla, 624 CE
 
+![Regional map: Medina highlighted, with lines running north to Jerusalem and south to Mecca](images/maps/p4-qibla.png)
+
 For the first sixteen or seventeen months in Medina, the Muslims prayed facing north toward
 Jerusalem, **Bayt al-Maqdis**. In Rajab of 2 A.H., during a congregational prayer, the revelation
 came to turn toward the **Kaaba** in Mecca. The Prophet turned mid-prayer and the congregation
@@ -693,6 +753,8 @@ monotheisms of the city.
 > **Reference:** Quran, Surah al-Baqarah (2:144); Sahih al-Bukhari, Book 8, Hadith 40.
 
 ## 3. The Three Great Battles, 624-627 CE
+
+![Regional map: Medina and Badr highlighted in the Hejaz, with Uhud noted three miles north of Medina](images/maps/p4-battles.png)
 
 Moving from a persecuted minority in Mecca to a governing community in Medina brought the
 Quraysh conflict into the open.
@@ -706,6 +768,8 @@ Quraysh conflict into the open.
 > **Reference:** Sahih al-Bukhari, Book 64, the Book of Military Expeditions; Sirat Ibn Hisham.
 
 ## 4. The Treaty of Hudaibiya, 628 CE
+
+![Regional map: the route from Medina toward Mecca, stopped at al-Hudaibiya just outside the city](images/maps/p4-hudaibiya.png)
 
 Six years after the Hijrah, the Prophet dreamed that he and his companions were performing
 *umrah* at the Kaaba. In March 628 CE he set out for Mecca with 1,400 unarmed men in pilgrim
@@ -732,6 +796,8 @@ in 630 CE could be carried out almost without fighting.
 > **Reference:** Quran, Surah al-Fath (48:1); Sahih al-Bukhari, Book 54, Hadith 19.
 
 ## 5. The Letters to the Rulers of the World, 628 CE
+
+![Regional map: six routes fanning out from Medina to Constantinople, Ctesiphon, Damascus, Alexandria, Axum and Bahrain](images/maps/p4-letters.png)
 
 The truce with the Quraysh freed the Prophet to look outward. In late 628 CE, 7 A.H., he sent
 companions as envoys carrying letters to the rulers of the surrounding powers, inviting them to
@@ -798,6 +864,8 @@ and bore his son **Ibrahim**, who died in infancy.
 
 ## 6. The Conquest of Mecca, 630 CE
 
+![Regional map: the march from Medina south to Mecca](images/maps/p4-conquest.png)
+
 ```
 ┌──────────────────────────┐   ┌──────────────────────────┐   ┌──────────────────────────┐
 │          8 A.H.          │   │          8 A.H.          │   │      Ramadan 8 A.H.      │
@@ -833,6 +901,9 @@ that chose to fight, and a few deaths. Otherwise the city changed hands without 
 idols around the sanctuary with his staff, reciting: "Truth has come, and falsehood has vanished.
 Indeed, falsehood is bound to vanish" **(Quran 17:81)**.
 
+> A Persian painting of this scene, made about 950 years later, is in
+> [the appendix](#appendix-the-kaaba-through-the-centuries).
+
 **The amnesty.** He then gathered the Meccans who had spent twenty years persecuting, torturing,
 boycotting, and making war on him, and asked: "O Quraysh! What do you think I am going to do with
 you today?"
@@ -852,6 +923,8 @@ and conversions followed across the peninsula.
 # Part Five: The Final Years, 630-632 CE
 
 ## 1. The Farewell Pilgrimage and Sermon, 632 CE
+
+![Regional map: the pilgrimage from Medina to Mecca, with Arafat noted thirteen miles east of the city](images/maps/p5-farewell.png)
 
 In March 632 CE, 10 A.H., the Prophet performed his first and only full Hajj, the
 **Hajjat al-Wada**. On the plain of **Arafat** he addressed an audience the sources put at over
@@ -921,6 +994,219 @@ That is where this document stops. The succession, the caliphates of Abu Bakr, U
 Ali, and the compilation of the Quran into a single codex are covered in
 [Rashidun-Caliphate.md](Rashidun-Caliphate.md) and
 [Umar-ibn-al-Khattab.md](Umar-ibn-al-Khattab.md).
+
+
+---
+
+# Appendix: The Kaaba Through the Centuries
+
+Twenty-five pictures of the Kaaba in date order, from an 11th-century carving to a photograph
+taken in 2019.
+
+**None of them shows the building the Prophet knew.** The Kaaba described in
+[The Rebuilding of the Kaaba](#6-the-rebuilding-of-the-kaaba-c-605-ce) was taken down and
+rebuilt by Abdullah ibn al-Zubayr in 683 CE and rebuilt again by al-Hajjaj in 692 CE. The oldest
+image below postdates that by roughly 350 years, and the oldest photograph by twelve centuries.
+
+**What changes in the sequence is the sanctuary, not the Kaaba.** The building itself holds its
+shape and proportions from the earliest picture to the most recent. The Haram around it goes
+from an open courtyard hemmed in by houses, to an Ottoman arcade, to a structure covering more
+ground than the whole of old Mecca. Watching the arcade behind the Kaaba is the way to read the
+series.
+
+Sources and licenses for every image are in [images/CREDITS.md](images/CREDITS.md). Dates before
+1880 are the dates Wikimedia Commons gives, and several are approximate.
+
+## 1. Before Photography, c. 1050-1857
+
+No photograph of Mecca exists before 1880, and no drawing of it by an eyewitness before the
+19th century. Everything in this group was made by someone working from a description, from an
+older picture, or from memory of a pilgrimage. Read them as diagrams of an arrangement rather
+than as views of a place.
+
+**c. 1050 — Carved stone panel showing the Kaaba inside the Haram**
+
+![Carved stone panel showing the Kaaba inside the Haram, c. 1050](images/kaaba/01-c1050-carved-stone-panel-showing-the-kaaba-inside-th.jpg)
+
+> The oldest image here, and already more than four hundred years later than the events in this
+> document. The Kaaba is the dark rectangle at the center, the arcade around it drawn as a ring
+> of arches.
+
+**c. 1349 — Ibn al-Wardi diagrams the Kaaba and the sanctuary**
+
+![Ibn al-Wardi diagrams the Kaaba and the sanctuary, c. 1349](images/kaaba/02-c1349-ibn-al-wardi-diagrams-the-kaaba-and-the-sanctu.jpg)
+
+> A diagram rather than a view. Ibn al-Wardi is showing the layout, not the look of the place.
+
+**c. 1526 — Muhyi al-Din Lari, Futuh al-Haramayn**
+
+![Muhyi al-Din Lari, Futuh al-Haramayn, c. 1526](images/kaaba/03-c1526-muhyi-al-din-lari-futuh-al-haramayn.jpg)
+
+> From a pilgrimage manual, copied and recopied for three centuries. The seven minarets and the
+> ring of arcades are the Ottoman sanctuary.
+
+**c. 1590 — A Persian miniature of the idols being cleared from the Kaaba**
+
+![A Persian miniature of the idols being cleared from the Kaaba, c. 1590](images/kaaba/04-c1590-a-persian-miniature-of-the-idols-being-cleared.jpg)
+
+> The scene from the conquest of 630 CE, painted in Iran nine hundred years afterward. Compare
+> [The Conquest of Mecca](#6-the-conquest-of-mecca-630-ce).
+
+**c. 1645 — An Iznik tile of the Kaaba and the sacred enclosure**
+
+![An Iznik tile of the Kaaba and the sacred enclosure, c. 1645](images/kaaba/05-c1645-an-iznik-tile-of-the-kaaba-and-the-sacred-encl.jpg)
+
+> The same sanctuary rendered as a tile pattern for a mosque wall. Pictures of Mecca were
+> furnishing as often as they were reporting.
+
+**1709 — A manuscript view of the Haram**
+
+![A manuscript view of the Haram, 1709](images/kaaba/06-1709-a-manuscript-view-of-the-haram.jpg)
+
+> Drawn about eighty years after the Ottoman rebuilding of 1630, which is the sanctuary most of
+> the older images show.
+
+**1845 — A Chinese hajj scroll**
+
+![A Chinese hajj scroll, 1845](images/kaaba/07-1845-a-chinese-hajj-scroll.jpg)
+
+> A Chinese pilgrim brings back the same arrangement recorded in the Persian and Ottoman
+> manuscripts, in a different hand.
+
+**1857 — Richard Burton measures and plans the Haram**
+
+![Richard Burton measures and plans the Haram, 1857](images/kaaba/08-1857-richard-burton-measures-and-plans-the-haram.jpg)
+
+> Richard Burton reached Mecca in 1853 in disguise and paced the sanctuary out. This is the first
+> measured plan by a European.
+
+
+## 2. The First Photographs, 1880-1900
+
+Photography reached Mecca in 1880. Within a decade the sanctuary had been recorded well enough
+that the earlier manuscript views can be checked against it, and they hold up: the arcade, the
+minarets and the small structures in the courtyard are where the manuscripts put them.
+
+**c. 1880 — Muhammad Sadiq Bey: the earliest known photograph of the Kaaba**
+
+![Muhammad Sadiq Bey: the earliest known photograph of the Kaaba, c. 1880](images/kaaba/09-c1880-muhammad-sadiq-bey-the-earliest-known-photogra.jpg)
+
+> The earliest known photograph of the Kaaba, taken by an Egyptian army engineer who traveled
+> with the pilgrimage caravan. His signature and the date 1297 A.H. are at the lower right.
+
+**1880 — The Kaaba and the courtyard around it**
+
+![The Kaaba and the courtyard around it, 1880](images/kaaba/10-1880-the-kaaba-and-the-courtyard-around-it.jpg)
+
+> The kiswah, the black cloth, is replaced every year, so it is the one element in these pictures
+> that is always new.
+
+**1885-88 — Christiaan Snouck Hurgronje, from the courtyard**
+
+![Christiaan Snouck Hurgronje, from the courtyard, 1885-88](images/kaaba/11-188588-christiaan-snouck-hurgronje-from-the-courtyard.jpg)
+
+> Snouck Hurgronje was a Dutch scholar who spent six months in Mecca in 1884 and 1885 and had
+> local assistants photograph what he could not.
+
+**1886 — The Kaaba during the hajj**
+
+![The Kaaba during the hajj, 1886](images/kaaba/12-1886-the-kaaba-during-the-hajj.jpg)
+
+> The crowd gives the scale. The courtyard is still the Ottoman one, and it is full.
+
+**1889 — A plate from Snouck Hurgronje, Bilder aus Mekka**
+
+![A plate from Snouck Hurgronje, Bilder aus Mekka, 1889](images/kaaba/13-1889-a-plate-from-snouck-hurgronje-bilder-aus-mekka.jpg)
+
+> From the plate album Snouck Hurgronje published in Leiden, the first substantial photographic
+> record of the city.
+
+**late 19th c. — A photographic panorama of the Haram and the city**
+
+![A photographic panorama of the Haram and the city, late 19th c.](images/kaaba/14-late19thc-a-photographic-panorama-of-the-haram-and-the-c.jpg)
+
+> The city presses right up to the arcade on every side. This is what the first Saudi expansion
+> would clear.
+
+**1897 — Hubert Sattler paints the panorama of Mecca**
+
+![Hubert Sattler paints the panorama of Mecca, 1897](images/kaaba/15-1897-hubert-sattler-paints-the-panorama-of-mecca.jpg)
+
+> A painted panorama, made for a touring exhibition in Europe from photographs and sketches
+> rather than from life.
+
+
+## 3. The Twentieth Century and After, 1907-2019
+
+The Ottoman sanctuary survived intact until the mid-1950s. What follows is the fastest and
+largest change in the whole sequence, and it happens to the courtyard and the colonnade, not to
+the Kaaba.
+
+**1907 — The Kaaba and the Ottoman colonnade**
+
+![The Kaaba and the Ottoman colonnade, 1907](images/kaaba/16-1907-the-kaaba-and-the-ottoman-colonnade.jpg)
+
+> The Ottoman colonnade in its final decades. Compare the same view in 1969 below.
+
+**c. 1910 — American Colony, Jerusalem: a glass-plate negative**
+
+![American Colony, Jerusalem: a glass-plate negative, c. 1910](images/kaaba/17-c1910-american-colony-jerusalem-a-glass-plate-negati.jpg)
+
+> Taken with a glass-plate camera by the American Colony photographers in Jerusalem, who supplied
+> much of the Western press.
+
+**1917 — The Kaaba in the year of the Arab Revolt**
+
+![The Kaaba in the year of the Arab Revolt, 1917](images/kaaba/18-1917-the-kaaba-in-the-year-of-the-arab-revolt.jpg)
+
+> The year Mecca changed hands in the Arab Revolt. The sanctuary itself is untouched.
+
+**1927 — The cover of the Istanbul magazine Servet-i Funun**
+
+![The cover of the Istanbul magazine Servet-i Funun, 1927](images/kaaba/19-1927-the-cover-of-the-istanbul-magazine-servet-i-fu.jpg)
+
+> Printed on the cover of an Istanbul weekly three years after the caliphate was abolished, and
+> two years after the Saudi conquest of the Hejaz.
+
+**1937 — The Haram under the early Saudi state**
+
+![The Haram under the early Saudi state, 1937](images/kaaba/20-1937-the-haram-under-the-early-saudi-state.jpg)
+
+> Still the Ottoman arcade. Nothing structural has changed since the 1709 manuscript.
+
+**1965 — The first Saudi expansion under way**
+
+![The first Saudi expansion under way, 1965](images/kaaba/21-1965-the-first-saudi-expansion-under-way.jpg)
+
+> The first Saudi expansion, begun in 1955, doubled the sanctuary and demolished the Ottoman
+> arcade on three sides.
+
+**1967 — The rebuilt colonnade and the widened courtyard**
+
+![The rebuilt colonnade and the widened courtyard, 1967](images/kaaba/22-1967-the-rebuilt-colonnade-and-the-widened-courtyar.jpg)
+
+> The new colonnade is in place and the courtyard is several times its former size.
+
+**1969 — The Haram after the first Saudi expansion**
+
+![The Haram after the first Saudi expansion, 1969](images/kaaba/23-1969-the-haram-after-the-first-saudi-expansion.jpg)
+
+> Set beside the 1907 photograph, this is the largest single change in the sequence.
+
+**1971 — Peter Sanders: the Kaaba at prayer**
+
+![Peter Sanders: the Kaaba at prayer, 1971](images/kaaba/24-1971-peter-sanders-the-kaaba-at-prayer.jpg)
+
+> The Kaaba itself is the one thing that has not changed. Its form has been essentially constant
+> since the rebuilding of 692 CE.
+
+**2019 — The Haram today, after the Fahd and Abdullah expansions**
+
+![The Haram today, after the Fahd and Abdullah expansions, 2019](images/kaaba/25-2019-the-haram-today-after-the-fahd-and-abdullah-ex.jpg)
+
+> The Fahd expansion of the 1980s and the Abdullah expansion after 2011 enlarged the sanctuary
+> again by an order of magnitude.
+
 
 ---
 

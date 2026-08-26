@@ -17,10 +17,11 @@
 > work belongs to and what a citation to it can support.
 >
 > Researched Aug. 22, 2026, and extended Aug. 26, 2026, from academic and confessional
-> secondary literature. Primary Arabic texts were not consulted directly; the *tafsir*
-> material in Part Two §2 and the hadith texts in Part Three §3 were read in English
-> translation and through the secondary literature reporting them, and claims are attributed
-> to the scholars and studies that make them. None of it substitutes for the primary texts.
+> secondary literature. Primary Arabic texts were not consulted directly, with one exception:
+> the wording of Umm Salama's report is given in Arabic in Part Two §3 because the gloss on it
+> turns on that wording. The *tafsir* material in Part Two §2 and the hadith texts in Part
+> Three §3 were read in English translation and through the secondary literature reporting
+> them, and claims are attributed to the scholars and studies that make them. None of it substitutes for the primary texts.
 
 ## Contents
 
@@ -438,8 +439,10 @@ altered something rather than ratifying existing practice, and it comes from the
 reports treated in the next section. Women who already wore their *khumur* across the chest
 would have had nothing to do when the verse came down. Instead Aisha is reported to have
 described the emigrant women cutting up their sheets to veil themselves with them, and Umm
-Salama the women of the Ansar emerging "as if they had crows over their heads." Whatever those
-reports have gathered in transmission, they describe a community doing something new.
+Salama the women of the Ansar emerging "as if they had crows over their heads" — a simile of
+color, glossed in §3, which also sets out the pressure that report puts on the reading in this
+section. Whatever those reports have gathered in transmission, they describe a community doing
+something new.
 
 **On objection: who complained, and about what.** The record here is asymmetrical, and the
 asymmetry is routinely missed in both directions.
@@ -492,13 +495,49 @@ after the *jilbab* verse the women of the Ansar came out "as if they had crows o
 heads." Aisha is also reported to have lowered her *jilbab* over her face when riders passed
 during *ihram*.
 
+**What "crows over their heads" means.** The phrase is quoted constantly and glossed
+rarely, and the English invites a misreading, so it is worth setting out. The report is Umm
+Salama's, at Sunan Abi Dawud 4101, graded sound:
+
+> لَمَّا نَزَلَتْ: {يُدْنِينَ عَلَيْهِنَّ مِنْ جَلَابِيبِهِنَّ}، خَرَجَ نِسَاءُ الْأَنْصَارِ كَأَنَّ عَلَى رُؤُوسِهِنَّ الْغِرْبَانَ مِنَ الأَكْسِيَةِ
+>
+> When "let them draw their cloaks over themselves" was revealed, the women of the Ansar went
+> out as though there were crows on their heads — from the wraps.
+
+- **The comparison is blackness, not shape.** *Ghirban*, the plural of *ghurab*, is the
+  standard Arabic byword for black, and the commentators are explicit that the likeness is one
+  of color: the wraps the women put over their heads were dark, so a group of them in the
+  street read at a glance as black birds. It is the figure English makes with jet or coal.
+  Nothing in it concerns posture or hunching, and the ominous freight crows carry in English is
+  absent from the Arabic — the report is admiring, not critical
+- ***Min al-aksiya* is the operative phrase.** *Aksiya* is the plural of *kisa'*, a wrap or
+  mantle — one of the garments Part One §1 notes that classical literature actually names, as
+  against *hijab*, which it does not. It identifies what produced the effect: not a distinct
+  headpiece but the outer wrap pulled up over the head, which is why the report attaches to
+  33:59 rather than to 24:31
+- **The wording is "on their heads," and that matters.** Several English renderings give "the
+  women of the Ansar came out as if they were crows," dropping the heads. The Arabic has على
+  رؤوسهن. The difference is not cosmetic: the shorter version reads as a remark about the women,
+  and the text is a remark about what was on them
+- **It does not reach the face.** Some commentary extends the image that far. The wording does
+  not, and al-Albani's *Radd al-Mufhim* argues from inside the tradition that face covering is
+  not obligatory, addressing this material among the rest
+
+**What that does to the argument in §2.** This is the traditionalist case's best single piece
+of reception evidence for the head specifically, and it presses on the reformist claim that the
+operative change the verses command sits at the chest. A community that answered 33:59 by
+covering their heads with dark wraps understood something about the head to be at stake. The
+honest reading of the pair is that the *khimar* verse locates its change at the *juyub* while
+the *jilbab* verse's reception describes the head, and neither side takes a clean win from it.
+
 **How to weigh these.** They appear in Bukhari and in Sunan Abi Dawud, so they carry real
 weight in Sunni argument, and the Yaqeen Institute paper cited below leans on them heavily.
 They are also *akhbar* about how a verse was received, and the "crows" image is the kind of
-vivid literary detail that comparative work on hadith transmission treats as susceptible to
-growth. What they support securely is that head covering was normal among the women of the
-Prophet's community and was understood by them as commanded. What they cannot establish on
-their own is a determinate garment specification for all times.
+vivid literary detail — a one-line simile, easily improved in the telling — that comparative
+work on hadith transmission treats as susceptible to growth. What they support securely is
+that head covering was normal among the women of the Prophet's community and was understood by
+them as commanded. What they cannot establish on their own is a determinate garment
+specification for all times.
 
 ## 4. What the Verses Settle, and What They Leave Open
 
@@ -1483,6 +1522,8 @@ it, or to an English translation of the hadith collection concerned.
 
 - [Tafsirs for Qur'an 24:31](https://quranx.com/tafsirs/24.31) and [*Ma'arif al-Qur'an* on 24:31](https://quran.com/an-nur/31/tafsirs/168) — the *jayb* as a wide front opening, the *khimar* worn behind the back, and the gloss ascribed to Sa'id ibn Jubayr
 - Muhammad Asad, *The Message of the Qur'an*, note on 24:31 — the statement that the *khimar* was worn as an ornament let down over the back and that the tunic's wide front opening left the chest bare
+- [Sunan Abi Dawud 4101](https://sunnah.com/abudawud:4101) and [Hadith 66063](https://hadeethenc.com/ar/browse/hadith/66063), Encyclopedia of Prophetic Hadith — the Arabic text of Umm Salama's report, its grading, and the explanation of the crows simile and of *min al-aksiya*
+- ["معنى كأن على رؤسهن الغربان"](https://www.islamweb.net/ar/fatwa/230338/), IslamWeb fatwa 230338, and [*Sharh Sunan Abi Dawud*](https://shamela.ws/book/37052/13858) of al-Abbad — the reading of the simile as one of color rather than shape, and the place of al-Albani's *Radd al-Mufhim* in the face-veil dispute
 - [Sahih al-Bukhari 5999](https://sunnah.com/bukhari:5999) and ["Allah is more merciful to His servants than this is to her child"](https://hadeethenc.com/en/browse/hadith/10095) — the captive who nursed the children; parallel at Sahih Muslim 2754
 - ["Allah Ta'ala Has More Mercy Over His Servants Than a Mother Over Her Child"](https://hadithanswers.com/allah-taala-has-more-mercy-over-his-servants-than-a-mother-over-her-child/) — the traditional framing of the same report
 - [Sahih Muslim 1453a-e, The Book of Suckling](https://sunnah.com/muslim/17/33-38) and [*Muwatta* Malik, Book 30](https://sunnah.com/malik/30/13) — Sahla bint Suhayl and Salim, the beard objection, and the refusal of the other wives
