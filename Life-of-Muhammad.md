@@ -71,6 +71,18 @@
 - [2. The Death of the Prophet, 8 June 632 CE](#2-the-death-of-the-prophet-8-june-632-ce)
 - [3. What Followed](#3-what-followed)
 
+**[Appendix: The Campaigns, 624-630 CE](#appendix-the-campaigns-624-630-ce)**
+
+- [1. What Counts as a Campaign](#1-what-counts-as-a-campaign)
+- [2. The Sixteen in Order](#2-the-sixteen-in-order)
+- [3. What the Chart Leaves Out](#3-what-the-chart-leaves-out)
+
+**[Appendix: The Life in Events and Marriages](#appendix-the-life-in-events-and-marriages)**
+
+- [1. How to Read It](#1-how-to-read-it)
+- [2. The Marriages](#2-the-marriages)
+- [3. Where the Sources Disagree](#3-where-the-sources-disagree)
+
 **[Appendix: The Kaaba Through the Centuries](#appendix-the-kaaba-through-the-centuries)**
 
 - [1. Before Photography, c. 1050-1857](#1-before-photography-c-1050-1857)
@@ -153,10 +165,12 @@ campaigns were recorded close to the time.
 
 # How to Read the Flowcharts
 
-Each part opens with a flowchart of its period. The charts **snake**: the top row runs left to
-right, then the flow drops down and the next row runs **right to left**, then drops again and
-runs left to right. Follow the arrowheads. Wrapping this way keeps every chart narrow enough to
-read without scrolling sideways.
+Each part opens with a flowchart of its period, and two of the appendices chart the whole span:
+[the campaigns](#appendix-the-campaigns-624-630-ce) and
+[the life in events and marriages](#appendix-the-life-in-events-and-marriages). The charts
+**snake**: the top row runs left to right, then the flow drops down and the next row runs **right
+to left**, then drops again and runs left to right. Follow the arrowheads. Wrapping this way keeps
+every chart narrow enough to read without scrolling sideways.
 
 ---
 
@@ -299,6 +313,8 @@ to propose marriage on her behalf.
 He accepted after consulting Abu Talib. He was twenty-five. Khadijah is widely reported to have
 been forty, though the sources vary on this and some give a considerably younger figure. The
 marriage lasted twenty-five years, until her death, and he took no other wife while she lived.
+The ten marriages after her death are listed in
+[Appendix: The Life in Events and Marriages](#appendix-the-life-in-events-and-marriages).
 
 ## 6. The Rebuilding of the Kaaba, c. 605 CE
 
@@ -824,7 +840,8 @@ monotheisms of the city.
 ![Regional map: Medina and Badr highlighted in the Hejaz, with Uhud noted three miles north of Medina](images/maps/p4-battles.png)
 
 Moving from a persecuted minority in Mecca to a governing community in Medina brought the
-Quraysh conflict into the open.
+Quraysh conflict into the open. Three battles decided it. The other thirteen expeditions he led
+are charted and dated in [Appendix: The Campaigns](#appendix-the-campaigns-624-630-ce).
 
 | Battle | Date | Outcome |
 | :--- | :--- | :--- |
@@ -1074,6 +1091,230 @@ That is where this document stops. The succession, the caliphates of Abu Bakr, U
 Ali, and the compilation of the Quran into a single codex are covered in
 [Rashidun-Caliphate.md](Rashidun-Caliphate.md) and
 [Umar-ibn-al-Khattab.md](Umar-ibn-al-Khattab.md).
+
+
+---
+
+# Appendix: The Campaigns, 624-630 CE
+
+The sixteen expeditions the Prophet led in person, in date order. The chart snakes the same way
+as the part charts: top row left to right, then down and right to left.
+
+```
+┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐
+│  624 CE / 2 A.H.   │   │  624 CE / 2 A.H.   │   │  625 CE / 3 A.H.   │   │  625 CE / 4 A.H.   │
+│   Battle of Badr   │──►│    Banu Qaynuqa    │──►│   Battle of Uhud   │──►│     Banu Nadir     │
+│  313 defeat 1,000  │   │ Besieged, expelled │   │  Hamza is killed   │   │ Besieged, expelled │
+└────────────────────┘   └────────────────────┘   └────────────────────┘   └────────────────────┘
+                                                                                      │
+                                                                                      ▼
+┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐
+│  627 CE / 5 A.H.   │   │  627 CE / 5 A.H.   │   │  626 CE / 5 A.H.   │   │  626 CE / 4 A.H.   │
+│    Banu Qurayza    │◄──│Battle of the Trench│◄──│  Dumat al-Jandal   │◄──│   Badr al-Maw'id   │
+│Besieged, men killed│   │Coalition of 10,000 │   │  March, no battle  │   │  No enemy appears  │
+└────────────────────┘   └────────────────────┘   └────────────────────┘   └────────────────────┘
+           │
+           ▼
+┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐
+│  627 CE / 6 A.H.   │   │  627 CE / 6 A.H.   │   │  628 CE / 6 A.H.   │   │  628 CE / 7 A.H.   │
+│    Banu Lihyan     │──►│  Banu al-Mustaliq  │──►│Treaty of Hudaibiya │──►│  Siege of Khaybar  │
+│ Reprisal for Raji' │   │   At al-Muraysi'   │   │   Ten-year truce   │   │ Forts taken, terms │
+└────────────────────┘   └────────────────────┘   └────────────────────┘   └────────────────────┘
+                                                                                      │
+                                                                                      ▼
+┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐
+│  630 CE / 9 A.H.   │   │  630 CE / 8 A.H.   │   │  630 CE / 8 A.H.   │   │  630 CE / 8 A.H.   │
+│Expedition to Tabuk │◄──│   Siege of Ta'if   │◄──│  Battle of Hunayn  │◄──│ Conquest of Mecca  │
+│  The last he led   │   │ Lifted, uncaptured │   │ Rout, then victory │   │  General amnesty   │
+└────────────────────┘   └────────────────────┘   └────────────────────┘   └────────────────────┘
+```
+
+## 1. What Counts as a Campaign
+
+The Arabic sources separate two things. A *ghazwah* is an expedition the Prophet led in person. A
+*sariyyah* is a detachment he dispatched under someone else while he stayed in Medina. Only the
+*ghazawat* are charted here.
+
+Counts of the *ghazawat* run from about nineteen to twenty-seven, depending on how many small
+movements a compiler treats as separate. The sixteen here are the ones the biography turns on.
+
+**Most of them were not battles.** Six ended with no fighting at all, because the enemy failed to
+appear, withdrew, or agreed terms: Badr al-Maw'id, Dumat al-Jandal, Banu Lihyan, Hudaibiya,
+Tabuk, and the conquest of Mecca. Four were sieges of a fortified settlement that ended in
+surrender: Banu Qaynuqa, Banu Nadir, Banu Qurayza, and Khaybar. That leaves open fighting at
+Badr, Uhud, Hunayn, and al-Muraysi', the trench works and skirmishing at Medina, and the failed
+siege of Ta'if.
+
+## 2. The Sixteen in Order
+
+| Campaign | Date | What happened |
+| :--- | :--- | :--- |
+| **Badr** | 624 CE / 2 A.H. | An ill-equipped force of 313 defeated a Meccan army of about 1,000, and Medina became a regional power. The first open battle |
+| **Banu Qaynuqa** | 624 CE / 2 A.H. | A fifteen-day siege of the tribe's quarter after Badr, ending in surrender and expulsion from Medina |
+| **Uhud** | 625 CE / 3 A.H. | A defeat. Archers left their assigned hill for the spoils, the Meccan cavalry came round the flank, the Prophet was wounded, and his uncle **Hamza** was killed |
+| **Banu Nadir** | 625 CE / 4 A.H. | A siege of the tribe's fortified date groves, ending in surrender and expulsion to Khaybar and Syria |
+| **Badr al-Maw'id** | 626 CE / 4 A.H. | The rematch Abu Sufyan had promised after Uhud. The Muslims marched to Badr and waited; the Meccan army turned back short of it |
+| **Dumat al-Jandal** | 626 CE / 5 A.H. | A march of about 1,000 to the Syrian frontier against raiders on the Medina caravan road. The tribes dispersed before contact |
+| **The Trench** | 627 CE / 5 A.H. | A Meccan-led coalition of 10,000 besieged Medina. On the advice of the Persian companion **Salman al-Farsi** the Muslims dug a trench across the open approaches, and the coalition broke up under bad weather and internal disagreement |
+| **Banu Qurayza** | 627 CE / 5 A.H. | A siege of about twenty-five days immediately after the Trench, ending in surrender. The men were killed and the women and children enslaved, on the judgment of **Sa'd ibn Mu'adh** |
+| **Banu Lihyan** | 627 CE / 6 A.H. | A reprisal for the killing of a teaching party at **al-Raji'**. The tribe withdrew into the hills and was not brought to battle |
+| **Banu al-Mustaliq** | 627 CE / 6 A.H. | A short action at the wells of **al-Muraysi'** against a tribe massing to attack Medina. Ten men were killed and the rest taken |
+| **Hudaibiya** | 628 CE / 6 A.H. | An unarmed pilgrimage of about 1,400, stopped outside Mecca and settled by a ten-year truce that read as a concession and worked as a victory |
+| **Khaybar** | 628 CE / 7 A.H. | A siege of the fortified oasis, taken fort by fort over about a month and left in place under terms of tribute rather than expelled |
+| **The Conquest of Mecca** | 630 CE / 8 A.H. | An army of 10,000 entered the city with almost no fighting after the truce collapsed, and a general amnesty followed |
+| **Hunayn** | 630 CE / 8 A.H. | An ambush by the Hawazin and Thaqif in a narrow valley broke the Muslim line of about 12,000, which re-formed and won. The heaviest fighting after Uhud |
+| **Ta'if** | 630 CE / 8 A.H. | A siege of the walled city the Hawazin had retreated to, using catapults for the first time. It was lifted after two or three weeks without taking the place |
+| **Tabuk** | 630 CE / 9 A.H. | A march of some 30,000 to the northern frontier against a reported Byzantine concentration that did not materialize. The last expedition he led in person |
+
+## 3. What the Chart Leaves Out
+
+**Mu'ta, 629 CE / 8 A.H., is missing on purpose.** It is often listed among his battles, but he
+did not go. He sent 3,000 men into Byzantine territory under **Zayd ibn Haritha**, and Zayd,
+**Ja'far ibn Abi Talib**, and **Abdullah ibn Rawaha** were all killed in succession before
+**Khalid ibn al-Walid** brought the force out. The same applies to the several dozen other
+*sariyyah* detachments, none of which are charted here.
+
+**One entry carries a real dating dispute.** Banu al-Mustaliq is placed in 6 A.H. by Ibn Hisham
+and earlier, in 5 or even 4 A.H., by other compilers. The argument is not settled, and the chart
+follows Ibn Hisham.
+
+**The rest of the A.H. and CE pairings only look inconsistent.** Two campaigns in the same A.H.
+year can fall in different CE years, and two in the same CE year in different A.H. years, because
+the lunar year is eleven days shorter and slides against the solar one. See
+[A Note on Dates](#a-note-on-dates).
+
+**Banu Qurayza is the most disputed episode in the biography.** The killing of the men after the
+surrender is reported in the earliest sources and is not in question as an event; what is argued
+over is the number, the legal basis, and whether the account as transmitted is reliable. This
+document records it and does not adjudicate it.
+
+> **Reference:** Sahih al-Bukhari, Book 64, the Book of Military Expeditions; Sirat Ibn Hisham;
+> Kitab al-Maghazi by al-Waqidi; Kitab al-Tabaqat al-Kabir by Ibn Sa'd.
+
+
+---
+
+# Appendix: The Life in Events and Marriages
+
+One chart for the whole life, from birth to death, with the marriages set among the events rather
+than in a list of their own. **Marriages are in capitals** so the two kinds of entry can be told
+apart at a glance.
+
+```
+┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐
+│     c. 570 CE      │   │   c. 576-578 CE    │   │     c. 582 CE      │   │     c. 595 CE      │
+│   Born in Mecca    │──►│  Amina, then Abd   │──►│  Caravan to Syria  │──►│  MARRIES KHADIJAH  │
+│Father already dead │   │  al-Muttalib, die  │   │   Bahira. Age 12   │   │He is 25, she is 40 │
+└────────────────────┘   └────────────────────┘   └────────────────────┘   └────────────────────┘
+                                                                                      │
+                                                                                      ▼
+┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐
+│       615 CE       │   │       613 CE       │   │       610 CE       │   │     c. 605 CE      │
+│  First migration   │◄──│  The public call   │◄──│  First revelation  │◄──│   Kaaba rebuilt    │
+│    to Abyssinia    │   │     Mount Safa     │   │    Cave of Hira    │   │Black Stone carried │
+└────────────────────┘   └────────────────────┘   └────────────────────┘   └────────────────────┘
+           │
+           ▼
+┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐
+│       619 CE       │   │     c. 620 CE      │   │     c. 620 CE      │   │     c. 621 CE      │
+│   Year of Sorrow   │──►│   MARRIES SAWDA    │──►│ BETROTHED TO AISHA │──►│   Night Journey    │
+│Khadijah, Abu Talib │   │     bint Zam'a     │   │ Married in Medina  │   │   and Ascension    │
+└────────────────────┘   └────────────────────┘   └────────────────────┘   └────────────────────┘
+                                                                                      │
+                                                                                      ▼
+┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐
+│  625 CE / 3 A.H.   │   │  624 CE / 2 A.H.   │   │  622 CE / 1 A.H.   │   │  622 CE / 1 A.H.   │
+│   MARRIES HAFSA    │◄──│Qibla turns to Mecca│◄──│  Prophet's Mosque  │◄──│ Hijrah to Yathrib  │
+│     bint Umar      │   │   Battle of Badr   │   │Constitution drafted│   │  Ghar Thawr, Quba  │
+└────────────────────┘   └────────────────────┘   └────────────────────┘   └────────────────────┘
+           │
+           ▼
+┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐
+│  625 CE / 3 A.H.   │   │  625 CE / 4 A.H.   │   │  626 CE / 4 A.H.   │   │  627 CE / 5 A.H.   │
+│   Battle of Uhud   │──►│   MARRIES ZAYNAB   │──►│ MARRIES UMM SALAMA │──►│   MARRIES ZAYNAB   │
+│  Hamza is killed   │   │   bint Khuzayma    │   │  Hind bint Umayya  │   │     bint Jahsh     │
+└────────────────────┘   └────────────────────┘   └────────────────────┘   └────────────────────┘
+                                                                                      │
+                                                                                      ▼
+┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐
+│  628 CE / 7 A.H.   │   │  628 CE / 6 A.H.   │   │  628 CE / 6 A.H.   │   │  627 CE / 5 A.H.   │
+│  Siege of Khaybar  │◄──│Treaty of Hudaibiya │◄──│ MARRIES JUWAYRIYA  │◄──│Battle of the Trench│
+│    Forts taken     │   │   Ten-year truce   │   │   bint al-Harith   │   │   Siege repelled   │
+└────────────────────┘   └────────────────────┘   └────────────────────┘   └────────────────────┘
+           │
+           ▼
+┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐
+│  628 CE / 7 A.H.   │   │  629 CE / 7 A.H.   │   │  630 CE / 8 A.H.   │   │  632 CE / 10 A.H.  │
+│ MARRIES UMM HABIBA │──►│  MARRIES MAYMUNA   │──►│ Conquest of Mecca  │──►│Farewell Pilgrimage │
+│    and SAFIYYA     │   │ The last marriage  │   │  General amnesty   │   │  Sermon at Arafat  │
+└────────────────────┘   └────────────────────┘   └────────────────────┘   └────────────────────┘
+                                                                                      │
+                                                                                      ▼
+                                                                           ┌────────────────────┐
+                                                                           │   8 June 632 CE    │
+                                                                           │  The Prophet dies  │
+                                                                           │  in Aisha's room   │
+                                                                           └────────────────────┘
+```
+
+## 1. How to Read It
+
+**The marriages cluster.** Ten of the eleven fall in the last twelve years of his life, and
+eight of those fall after the Hijrah, in the nine years at Medina. For the twenty-five years of
+the marriage to Khadijah there is one entry, because there was one wife.
+
+**Several marriages track the politics of the chart directly.** Hafsa is Umar's daughter and
+Aisha is Abu Bakr's, tying him to his two closest allies. Umm Habiba is the daughter of Abu
+Sufyan, who was leading the war against him at the time. Juwayriya and Safiyya both entered the
+household as captives, from Banu al-Mustaliq and from Khaybar, the latter in the box immediately
+before hers. Reading the marriage boxes against the campaign boxes is the point of putting both
+kinds of entry in one chart.
+
+**Dates in the 620s are the firm ones.** The A.H. year of a Medinan marriage is usually recorded;
+the CE dates before the Hijrah are reconstructions, which is why the early boxes read "c."
+
+## 2. The Marriages
+
+| Wife | Married | Note |
+| :--- | :--- | :--- |
+| **Khadijah bint Khuwaylid** | c. 595 CE | The Meccan merchant who employed him and proposed. The only wife while she lived, for twenty-five years, until her death in 619 CE |
+| **Sawda bint Zam'a** | c. 620 CE | A widow of the Abyssinia migration, and the first marriage after Khadijah |
+| **Aisha bint Abi Bakr** | betrothed c. 620 CE, married at Medina | Daughter of **Abu Bakr**. She narrated a large body of hadith and outlived him by more than forty years. Her age at the marriage is disputed; see below |
+| **Hafsa bint Umar** | 625 CE / 3 A.H. | Daughter of **Umar ibn al-Khattab**, widowed when her husband died of wounds from Badr |
+| **Zaynab bint Khuzayma** | 625 CE / 4 A.H. | Known as *Umm al-Masakin*, Mother of the Poor. She died within a few months of the marriage |
+| **Umm Salama** | 626 CE / 4 A.H. | Hind bint Abi Umayya, widowed when her husband died of a wound from Uhud. A migrant to Abyssinia, and a narrator of hadith |
+| **Zaynab bint Jahsh** | 627 CE / 5 A.H. | His cousin, previously married to **Zayd ibn Haritha**, the freed slave he had adopted as a son. The marriage after her divorce was objected to at the time and is addressed in **Quran 33:37** |
+| **Juwayriya bint al-Harith** | 628 CE / 6 A.H. | Daughter of the chief of Banu al-Mustaliq, taken captive in that campaign. Her people were released on the marriage |
+| **Umm Habiba** | 628 CE / 7 A.H. | Ramla bint Abi Sufyan, daughter of the leader of the Meccan opposition. An early convert who had migrated to Abyssinia against her father, and was married by proxy before the Negus while still there |
+| **Safiyya bint Huyayy** | 628 CE / 7 A.H. | Daughter of the chief of Banu Nadir, taken captive at Khaybar |
+| **Maymuna bint al-Harith** | 629 CE / 7 A.H. | Married at Sarif outside Mecca, on the pilgrimage the truce of Hudaibiya had made possible. The last marriage |
+
+Two more women lived in the household without a marriage the sources agree on. **Mariya
+al-Qibtiyya**, sent from Egypt by al-Muqawqis, bore his son **Ibrahim**, who died in infancy;
+**Rayhana bint Zayd** came from Banu Nadir. Whether either was a wife or a concubine is argued
+both ways in the early material, and lists of "the wives of the Prophet" run to eleven, thirteen,
+or nine depending on which question the compiler is answering. Nine wives were living when he
+died.
+
+## 3. Where the Sources Disagree
+
+**Aisha's age at the marriage is the most contested fact in this appendix.** The reports in Sahih
+al-Bukhari and Sahih Muslim give her age as six at the betrothal and nine when the marriage began.
+Other early material pulls the other way: her recorded age relative to her sister **Asma**, her
+listing among the early Meccan converts, and reports placing her at Uhud all point to a figure in
+the mid to late teens. Neither set of reports can be dismissed on its own terms, no birth
+record exists, and every number in circulation is a reconstruction from other dates. This
+document reports the dispute and does not settle it.
+
+**Khadijah's age is disputed in the same way.** Forty is the usual figure and the one this
+document uses in Part One, but the sources vary and some give considerably younger.
+
+**Marriage years move by a year in different compilers**, because a Medinan marriage is normally
+placed by its A.H. year and the events either side of it, not by a date. Where the tables above
+give a single year, take it as the year most sources settle on rather than a fixed one.
+
+> **Reference:** Kitab al-Tabaqat al-Kabir by Ibn Sa'd, the volume on the wives; Sirat Ibn Hisham;
+> Sahih al-Bukhari, Book 67, the Book of Marriage; Quran, Surah al-Ahzab (33:37, 33:50-52).
 
 
 ---
@@ -1360,13 +1601,18 @@ The following belong to the Prophet's life and are not treated here:
 
 * **The pledges of al-Aqabah**, 621 and 622 CE, the agreements with the men of Yathrib that made
   the Hijrah possible in the first place
-* **His household**, beyond Khadijah and Mariya al-Qibtiyya: his other wives, his daughters, and
-  his sons who died in infancy
+* **His children**: his daughters, and his sons who died in infancy. The wives are listed in
+  [Appendix: The Life in Events and Marriages](#appendix-the-life-in-events-and-marriages), but
+  none of those marriages gets a narrative section here
 * **The Jewish tribes of Medina**: Banu Qaynuqa, Banu Nadir, and the killing of the men of Banu
   Qurayza after the Battle of the Trench, which is among the most disputed episodes in the
-  biography
+  biography. All three campaigns are in
+  [Appendix: The Campaigns](#appendix-the-campaigns-624-630-ce), a row to a line, with no more
+  than that
 * **The later campaigns**: Khaybar in 628 CE, Mu'tah in 629 CE, Hunayn and the siege of Ta'if in
-  630 CE, and Tabuk in 631 CE
+  630 CE, and Tabuk in 630 CE. These are dated and summarized in
+  [Appendix: The Campaigns](#appendix-the-campaigns-624-630-ce) and not narrated anywhere in the
+  parts
 * **The Year of Delegations**, 630-631 CE, when the tribes of Arabia sent representatives to
   Medina
 * **His appearance, habits, and daily conduct**, the subject of the *shama'il* literature
