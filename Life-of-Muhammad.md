@@ -44,10 +44,11 @@
 - [2. Khadijah and Waraqah ibn Nawfal](#2-khadijah-and-waraqah-ibn-nawfal)
 - [3. The Public Call at Mount Safa, 613 CE](#3-the-public-call-at-mount-safa-613-ce)
 - [4. The First Migration to Abyssinia, 615 CE](#4-the-first-migration-to-abyssinia-615-ce)
-- [5. The Year of Sorrow and the Journey to Ta'if, 619 CE](#5-the-year-of-sorrow-and-the-journey-to-taif-619-ce)
-- [6. Re-entering Mecca Under Mut'im ibn Adi](#6-re-entering-mecca-under-mutim-ibn-adi)
-- [7. The Night Journey and the Ascension, c. 621 CE](#7-the-night-journey-and-the-ascension-c-621-ce)
-- [8. The Pilgrimage Seasons and the Pledges of al-Aqabah, 620-622 CE](#8-the-pilgrimage-seasons-and-the-pledges-of-al-aqabah-620-622-ce)
+- [5. Hamza Accepts Islam, c. 616 CE](#5-hamza-accepts-islam-c-616-ce)
+- [6. The Year of Sorrow and the Journey to Ta'if, 619 CE](#6-the-year-of-sorrow-and-the-journey-to-taif-619-ce)
+- [7. Re-entering Mecca Under Mut'im ibn Adi](#7-re-entering-mecca-under-mutim-ibn-adi)
+- [8. The Night Journey and the Ascension, c. 621 CE](#8-the-night-journey-and-the-ascension-c-621-ce)
+- [9. The Pilgrimage Seasons and the Pledges of al-Aqabah, 620-622 CE](#9-the-pilgrimage-seasons-and-the-pledges-of-al-aqabah-620-622-ce)
 
 **Part Three: [The Hijrah, 622 CE](#part-three-the-hijrah-622-ce)**
 
@@ -374,9 +375,9 @@ For what the building has looked like since, see
                                                                                       │
                                                                                       ▼
 ┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐
-│     c. 616 CE      │   │       615 CE       │   │       615 CE       │   │     613-615 CE     │
-│Umar ibn al-Khattab │◄──│  Negus refuses to  │◄──│  First migration   │◄──│ Persecution of the │
-│   accepts Islam    │   │   hand them back   │   │    to Abyssinia    │   │ weak and enslaved  │
+│     c. 616 CE      │   │     c. 616 CE      │   │       615 CE       │   │     613-615 CE     │
+│Umar ibn al-Khattab │◄──│Hamza accepts Islam │◄──│Refuge in Abyssinia │◄──│ Persecution of the │
+│   accepts Islam    │   │  Strikes Abu Jahl  │   │ The Negus refuses  │   │ weak and enslaved  │
 └────────────────────┘   └────────────────────┘   └────────────────────┘   └────────────────────┘
            │
            ▼
@@ -567,7 +568,64 @@ them, and granted the Muslims sanctuary and freedom of worship.
 > **Reference:** Sirat Rasul Allah by Ibn Ishaq; Musnad Ahmad, Hadith 1740; The History of
 > al-Tabari, Vol. 6.
 
-## 5. The Year of Sorrow and the Journey to Ta'if, 619 CE
+## 5. Hamza Accepts Islam, c. 616 CE
+
+**Hamza ibn Abd al-Muttalib** was the Prophet's paternal uncle, but the word understates the
+relationship. The sources put two to four years between them, so they had grown up as near
+contemporaries, and both had been suckled by **Thuwaybah** — the same wet nurse named in
+[Part One](#2-the-wet-nurses-and-the-desert) — which made them milk brothers as well as kin. She
+was a freedwoman of **Abu Lahab**, so the one nurse ties the Prophet to the uncle who defended him
+hardest and to the uncle who opposed him hardest. Hamza was a hunter and a fighter with a name for
+physical strength, and he had not accepted Islam.
+
+One day **Abu Jahl** came on the Prophet near **al-Safa** and abused him at length. Some accounts
+have him going further and striking the Prophet's head with a stone until it bled. The Prophet
+answered nothing, and Abu Jahl went off to sit with the Quraysh in the courtyard of the Kaaba.
+
+A woman of **Abdullah ibn Jud'an**'s household had watched the whole thing. When Hamza came back
+from hunting, still carrying his bow, she told him what had been done to his nephew. He went
+straight to the sanctuary, stood over Abu Jahl, struck him with the bow hard enough to open his
+head, and said:
+
+> "Will you insult him, when I follow his religion and say what he says? Hit me back if you can."
+
+Men of **Banu Makhzum**, Abu Jahl's clan, got up to take his part. Abu Jahl waved them off:
+
+> "Let Abu Umara alone. By God, I insulted his nephew deeply."
+
+He knew what a clan fight would cost, and he was in the wrong by the code they all shared. Hamza
+went from the courtyard to the house of **al-Arqam** and became a Muslim.
+
+### What the Sources Say About His Motive
+
+**They do not pretend it began as conviction.** The accounts are explicit that Hamza's first
+declaration came out of family anger — the reflex of a man whose kinsman had been humiliated in
+public. Some versions add that he was troubled about it afterwards, uncertain whether he had
+spoken out of God or out of pride, and prayed until the matter settled.
+
+This is worth noticing because it is the kind of detail a tidied biography would remove. What the
+sources record is that the motive was mixed at the start and did not stay that way. Hamza held to
+it for the next nine years and died for it at Uhud.
+
+### Why It Mattered
+
+Ibn Ishaq gives the practical result plainly: when Hamza became a Muslim, the Quraysh understood
+that the Prophet now had a protector who would fight, and they eased off some of their harassment.
+
+Nothing had changed doctrinally. What had changed was the arithmetic of retaliation. Persecuting
+the weak and the enslaved, which is what the previous years had mostly consisted of, carried no
+cost. Touching a man with Hamza behind him did. **Umar ibn al-Khattab** accepted Islam within
+months, and between them the small community in Mecca acquired two men nobody wanted to fight.
+
+He is called *Asad Allah*, the Lion of God, and after Uhud the Prophet called him
+*Sayyid al-Shuhada*, master of the martyrs. He was killed there in 625 CE; see
+[The Three Great Battles](#3-the-three-great-battles-624-627-ce).
+
+> **Reference:** Sirat Ibn Hisham and Sirat Rasul Allah by Ibn Ishaq, the chapter on the Islam of
+> Hamza; Kitab al-Tabaqat al-Kabir by Ibn Sa'd. The episode is *seerah* rather than hadith, and it
+> is not in Bukhari or Muslim.
+
+## 6. The Year of Sorrow and the Journey to Ta'if, 619 CE
 
 ![Regional map: Mecca and Ta'if highlighted, sixty miles apart in the Hejaz](images/maps/p2-taif.png)
 
@@ -630,7 +688,7 @@ Ta'if accepted Islam some years later and went on to produce a line of Muslim sc
 > 112 (Hadith 1795); Sirat Rasul Allah by Ibn Ishaq, which preserves the full text of the prayer
 > and the account of Addas.
 
-## 6. Re-entering Mecca Under Mut'im ibn Adi
+## 7. Re-entering Mecca Under Mut'im ibn Adi
 
 He could not simply walk back into Mecca. Abu Talib was dead, and the new head of Banu Hashim,
 **Abu Lahab**, had withdrawn clan protection. A man without a protector could be killed with no
@@ -644,7 +702,7 @@ asked him to release the prisoners of Badr, he would have released them for his 
 
 > **Reference:** Sahih al-Bukhari, Book 60, Hadith 23; Sirat Ibn Hisham.
 
-## 7. The Night Journey and the Ascension, c. 621 CE
+## 8. The Night Journey and the Ascension, c. 621 CE
 
 ![Regional map: Mecca and Jerusalem highlighted, with the route of al-Isra drawn between them](images/maps/p2-night-journey.png)
 
@@ -681,7 +739,7 @@ truth.
 > **Reference:** Quran, Surah al-Isra (17:1) and Surah an-Najm (53:13-18); Sahih al-Bukhari,
 > Book 59, Hadith 18.
 
-## 8. The Pilgrimage Seasons and the Pledges of al-Aqabah, 620-622 CE
+## 9. The Pilgrimage Seasons and the Pledges of al-Aqabah, 620-622 CE
 
 ![Regional map: Mecca and Yathrib highlighted, with the pilgrim route drawn south from Yathrib, and al-Aqabah and Ukaz noted as too close to Mecca to separate](images/maps/p2-aqabah.png)
 
@@ -797,7 +855,7 @@ plot at Dar al-Nadwa in the next part is the Quraysh reacting to the news of tha
 
 By 622 CE the Quraysh had decided that exile and boycott had failed, and they now had a reason to
 hurry: word had reached them of
-[the pledge taken at al-Aqabah](#8-the-pilgrimage-seasons-and-the-pledges-of-al-aqabah-620-622-ce),
+[the pledge taken at al-Aqabah](#9-the-pilgrimage-seasons-and-the-pledges-of-al-aqabah-620-622-ce),
 and of the Muslims already slipping north to Yathrib in ones and twos. Their leaders met at **Dar
 al-Nadwa**, the council hall, and settled on assassination. To keep Banu Hashim from taking
 blood vengeance on any single clan, they agreed that one young man from every Meccan clan would
@@ -1835,6 +1893,7 @@ actually support, see [History-of-Hadith.md](History-of-Hadith.md), Part Four.
 | First revelation, Khadijah, Waraqah | Sahih al-Bukhari 1:3; Sahih Muslim 1:310; Quran 96:1-5 |
 | The call at Mount Safa | Sahih al-Bukhari 65:4960 and 65:4770; Sahih Muslim 1:418; Quran 111 |
 | Migration to Abyssinia | Sirat Rasul Allah by Ibn Ishaq; Musnad Ahmad 1740; al-Tabari, Vol. 6 |
+| The Islam of Hamza | Sirat Ibn Hisham; Sirat Rasul Allah by Ibn Ishaq; Ibn Sa'd. Not in Bukhari or Muslim |
 | Ta'if and the Angel of the Mountains | Sahih al-Bukhari 59:46; Sahih Muslim 32:112; Sirat Ibn Hisham |
 | Re-entry under Mut'im ibn Adi | Sahih al-Bukhari 60:23; Sirat Ibn Hisham |
 | The Night Journey and Ascension | Quran 17:1 and 53:13-18; Sahih al-Bukhari 59:18 |
