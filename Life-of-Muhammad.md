@@ -93,6 +93,14 @@
 - [4. What Muhammad Did About It](#4-what-muhammad-did-about-it)
 - [5. Popular but Not Sound](#5-popular-but-not-sound)
 
+**[Appendix: Where the Quran Answers an Incident](#appendix-where-the-quran-answers-an-incident)**
+
+- [1. Verses That Correct the Prophet](#1-verses-that-correct-the-prophet)
+- [2. Verses About the Household](#2-verses-about-the-household)
+- [3. Verses Answering an Opponent](#3-verses-answering-an-opponent)
+- [4. Verses Answering Someone Who Came to Him](#4-verses-answering-someone-who-came-to-him)
+- [5. A Caution on Occasions of Revelation](#5-a-caution-on-occasions-of-revelation)
+
 **[Appendix: The Kaaba Through the Centuries](#appendix-the-kaaba-through-the-centuries)**
 
 - [1. Before Photography, c. 1050-1857](#1-before-photography-c-1050-1857)
@@ -1647,6 +1655,108 @@ sermon's other clauses quoted in
 
 ---
 
+# Appendix: Where the Quran Answers an Incident
+
+Some passages of the Quran read as general instruction. Others answer a specific thing that had
+just happened, and cannot be read properly without it. This appendix indexes the second kind for
+the incidents in this document, and says which of them the parts narrate and which they do not.
+
+**The study of these occasions has a name.** *Asbab al-nuzul*, the occasions of revelation, is a
+whole genre of Muslim scholarship, and al-Wahidi's collection is its best-known handbook. It is
+also later material and it disagrees with itself, which is dealt with in section 5.
+
+**The category worth noticing first is the one where the Quran corrects him.** A book compiled by
+followers to promote a leader does not usually preserve the leader being told he was wrong, by
+name, in the text his followers recite. This one does, more than once.
+
+## 1. Verses That Correct the Prophet
+
+| Verse | The occasion | In this document |
+| :--- | :--- | :--- |
+| **80:1-10**, *'Abasa* | He was pressing the case for Islam on the chiefs of the Quraysh when **Abdullah ibn Umm Maktum**, blind and of no standing, broke in asking to be taught. He frowned and turned away. The surah opens on him in the third person — "He frowned and turned away, because the blind man came to him" — then turns to address him directly. He is reported afterwards to have greeted Ibn Umm Maktum with "Welcome to the man for whose sake my Lord rebuked me" | Not narrated |
+| **8:67-69**, *al-Anfal* | After **Badr** he took the advice to ransom the prisoners rather than fight on. "It is not for a prophet to have captives until he has made slaughter in the land." Umar had argued for execution and Abu Bakr for ransom; the verse came down against the course actually taken, and verse 69 then permits the ransom already collected | [Badr](#3-the-three-great-battles-624-627-ce), without the verse |
+| **9:43**, *at-Tawba* | Before **Tabuk** he excused men who asked to stay behind on pretexts. "May God pardon you — why did you give them leave before it became clear to you who spoke the truth and who lied?" The pardon comes before the reproach | Not narrated |
+| **9:84**, *at-Tawba* | **Abdullah ibn Ubayy**, the leader of the Medinan hypocrites, died, and he gave his own shirt for the shroud and stood to lead the funeral prayer. Umar took hold of his robe to stop him. "And never pray over any of them who dies" | Not narrated |
+| **66:1**, *at-Tahrim* | He swore off something lawful to end a quarrel among his wives. "O Prophet, why do you forbid what God has made lawful to you, seeking to please your wives?" See section 2 | Not narrated |
+| **33:37**, *al-Ahzab* | On the marriage to **Zaynab bint Jahsh**: "you concealed within yourself what God was to disclose, and you feared the people, while God has more right that you fear Him" | [The Marriages](#2-the-marriages) |
+| **4:105-113**, *an-Nisa* | **Tu'ma ibn Ubayriq** of the Ansar stole a neighbor's coat of mail, hid it in the house of a Jewish man named **Zayd ibn al-Samin**, and had his clan press the case against him. The evidence pointed at the Jew and the Prophet was inclined to rule that way. The passage stops him: judge "by what God has shown you, and do not be an advocate for the treacherous" | Not narrated |
+
+**On 80:1-10, who frowned is disputed.** The Sunni commentators take the subject to be the
+Prophet, and the report about his later greeting to Ibn Umm Maktum assumes it. A body of Shia
+scholarship reads the third-person opening as describing someone else present, on the argument
+that frowning at a poor man is not conduct the text elsewhere attributes to him. The verses do not
+name the subject either way.
+
+**On 8:67**, note what the rebuke is and is not about. It concerns taking prisoners for ransom
+instead of pressing the fight, at that particular battle. It is not a general statement on
+captivity or on slavery, and the wider question belongs to
+[Slavery-in-Islam.md](Slavery-in-Islam.md), which does not currently cite this passage.
+
+## 2. Verses About the Household
+
+| Verse | The occasion | In this document |
+| :--- | :--- | :--- |
+| **66:1-5**, *at-Tahrim* | The honey. He used to stay a while with **Zaynab bint Jahsh** and drink honey there. **Aisha** and **Hafsa** agreed that whichever he came to next would tell him she smelled *maghafir* on him, a foul-smelling gum. He said he had taken honey at Zaynab's and would not do it again — and the Quran told him not to make lawful things unlawful to keep peace at home. Verses 3-5 go on to the secret he told one wife which she passed to another | Not narrated |
+| **24:11-20**, *an-Nur* | The *ifk*, the slander. **Aisha** was left behind by the column after going back for a lost necklace and was brought in by **Safwan ibn al-Mu'attal**. **Abdullah ibn Ubayy** pushed the rumor. The Prophet said nothing for about a month, and the verses cleared her and set four eyewitnesses as the standard for the accusation | Not narrated |
+| **33:28-29**, *al-Ahzab* | The verse of choice. After the wives pressed for a better standard of living, he was told to offer each of them the choice between the world, with a settlement and release, or God and his household as it was. All of them chose to stay | Not narrated |
+| **33:53**, *al-Ahzab* | At the wedding feast for **Zaynab bint Jahsh**, guests stayed on talking in very small quarters. The verse sets rules for entering his houses, for speaking to his wives from behind a screen, and forbids anyone marrying them after him | [History-of-Hijab.md](History-of-Hijab.md) |
+| **33:50-52**, *al-Ahzab* | The terms and limits of his own marriages, distinct from the general rules | [The Marriages](#2-the-marriages) |
+
+**The honey account is the sound one.** A second version, in which the thing he swore off was
+**Mariya al-Qibtiyya** rather than honey, circulates widely and is attached to these verses in
+many retellings. Al-Nasa'i's verdict is that Aisha's honey report is sound and that the Mariya
+version is not found in any authentic report. The honey version is the one in Bukhari.
+
+## 3. Verses Answering an Opponent
+
+| Verse | The occasion | In this document |
+| :--- | :--- | :--- |
+| **111**, *al-Masad* | **Abu Lahab** answering the call at Mount Safa with "May you perish — is this what you gathered us for?" | [The Public Call at Mount Safa](#3-the-public-call-at-mount-safa-613-ce) |
+| **96:9-19**, *al-Alaq* | **Abu Jahl** forbidding him to pray at the Kaaba and swearing he would tread on his neck if he prostrated. "Have you seen the one who forbids a servant when he prays?" The same surah whose first five verses are the first revelation; these last verses came years later | [The Cave of Hira](#1-the-cave-of-hira-and-the-first-revelation-610-ce) gives 96:1-5 only |
+| **108**, *al-Kawthar* | The taunt that he was *abtar*, cut off, a man with no surviving son and so no future. The surah turns the word back on the man who used it | Not narrated |
+| **68:2**, *al-Qalam* | The charge that he was possessed. "You are not, by the favor of your Lord, mad" | Not narrated |
+
+**One to treat carefully.** Verses 44:43-49, ending "Taste! You are the mighty, the honorable,"
+are often read as answering **Abu Jahl**'s boast that he was the mightiest man between Mecca's two
+mountains. Qatadah says so, but the identification is a commentator's reading rather than a firm
+occasion, and Ibn Kathir treats Abu Jahl as included in the verse rather than as its subject.
+
+## 4. Verses Answering Someone Who Came to Him
+
+| Verse | The occasion | In this document |
+| :--- | :--- | :--- |
+| **58:1-4**, *al-Mujadila* | **Khawla bint Tha'laba** came to complain that her husband **Aws ibn al-Samit** had pronounced *zihar* on her — the pre-Islamic formula that left a wife neither married nor free. She argued with the Prophet, who had no ruling to give her. The passage came down settling it in her favor. Aisha, in the next room, said she could hear some of what Khawla said and not the rest, and that blessed is the One whose hearing takes in everything | Not narrated |
+
+**Read this one against section 1.** The surah is named for her — *al-Mujadila*, the woman who
+disputes — and it records a woman arguing with the Prophet, getting no satisfaction from him, and
+being answered over his head. The corrections in section 1 come to him unprompted; this one comes
+because a complainant would not let the matter drop.
+
+## 5. A Caution on Occasions of Revelation
+
+**The occasions are later than the text.** They come from the *tafsir* and *seerah* literature,
+written down generations after the events, and they were collected precisely because the
+connection was not obvious from the verse alone. A verse is not less clear without its occasion,
+but it is often read differently with one.
+
+**They conflict.** More than one occasion is reported for many passages, and compilers sometimes
+resolve the conflict by proposing that a verse came down twice. Where this document names an
+occasion it names the best-attested one, and section 2 shows what a widely repeated but unsound
+alternative looks like.
+
+**Some are inferences dressed as reports.** The Abu Jahl reading of 44:49 in section 3 is an
+example: a commentator's identification, repeated until it reads like a transmitted occasion.
+
+**None of the incidents in sections 1 to 4 is narrated in the parts of this document unless the
+right-hand column says so.** The table is an index, not a substitute.
+
+> **Reference:** Asbab al-Nuzul by al-Wahidi; Tafsir Ibn Kathir; Sahih al-Bukhari, the Book of
+> Tafsir, especially 65:4750 on the *ifk* and 65:4912 on the honey; Sahih Muslim, Book 32, on the
+> prisoners of Badr; Sunan an-Nasa'i on the honey report.
+
+
+---
+
 # Appendix: The Kaaba Through the Centuries
 
 Twenty-five pictures of the Kaaba in date order, from an 11th-century carving to a photograph
@@ -1894,6 +2004,7 @@ actually support, see [History-of-Hadith.md](History-of-Hadith.md), Part Four.
 | The call at Mount Safa | Sahih al-Bukhari 65:4960 and 65:4770; Sahih Muslim 1:418; Quran 111 |
 | Migration to Abyssinia | Sirat Rasul Allah by Ibn Ishaq; Musnad Ahmad 1740; al-Tabari, Vol. 6 |
 | The Islam of Hamza | Sirat Ibn Hisham; Sirat Rasul Allah by Ibn Ishaq; Ibn Sa'd. Not in Bukhari or Muslim |
+| Occasions of revelation | Asbab al-Nuzul by al-Wahidi; Tafsir Ibn Kathir; Sahih al-Bukhari, the Book of Tafsir |
 | Ta'if and the Angel of the Mountains | Sahih al-Bukhari 59:46; Sahih Muslim 32:112; Sirat Ibn Hisham |
 | Re-entry under Mut'im ibn Adi | Sahih al-Bukhari 60:23; Sirat Ibn Hisham |
 | The Night Journey and Ascension | Quran 17:1 and 53:13-18; Sahih al-Bukhari 59:18 |
@@ -1945,6 +2056,12 @@ The following belong to the Prophet's life and are not treated here:
   630 CE, and Tabuk in 630 CE. These are dated and summarized in
   [Appendix: The Campaigns](#appendix-the-campaigns-624-630-ce) and not narrated anywhere in the
   parts
+* **The episodes that a Quranic passage answers**, other than the ones the parts already tell:
+  the blind man of Surah 'Abasa, the prisoners of Badr, the slander against Aisha, the honey and
+  the quarrel among the wives, the case of Tu'ma ibn Ubayriq, and Khawla the disputing woman. All
+  are dated and set out in
+  [Appendix: Where the Quran Answers an Incident](#appendix-where-the-quran-answers-an-incident),
+  which indexes them and does not narrate them
 * **The Year of Delegations**, 630-631 CE, when the tribes of Arabia sent representatives to
   Medina
 * **His appearance, habits, and daily conduct**, the subject of the *shama'il* literature
