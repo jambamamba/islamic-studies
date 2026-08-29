@@ -7,15 +7,16 @@ the Artist and Source lines given here.
 
 ## Maps
 
-`images/maps/*.png` — drawn for this document, sixteen of them, one per section that names a
-place. Coastlines are from **Natural Earth**
+`images/maps/*.png` — drawn for this document, seventeen of them, one per section that names a
+place. Most enlarge the Hejaz in a second panel; the maps for the Cave of Hira, the Cave of Thawr
+and the Treaty of Hudaibiya enlarge Mecca and its surroundings instead. Coastlines are from **Natural Earth**
 (`ne_50m_land`), which is in the public domain and free of any use restriction. The
 drawing code and the place data are original to this repository.
 
 ## The Places
 
 `images/sites/`, in the order they appear in
-[Life-of-Muhammad.md](Life-of-Muhammad.md). All eight are from Wikimedia Commons.
+[Life-of-Muhammad.md](Life-of-Muhammad.md). All ten are from Wikimedia Commons.
 
 | # | Subject | Date | License | Artist or holder | Source |
 | :-- | :--- | :--- | :--- | :--- | :--- |
@@ -27,6 +28,8 @@ drawing code and the place data are original to this repository.
 | 06 | The Prophet's Mosque in 1908 | 1908 | Public domain | Ibrahim Basha | [Commons](https://commons.wikimedia.org/wiki/File:Old_Al-Masjid_Al-Nabawi_1908.jpg) |
 | 07 | The Prophet's Mosque today, from above | 2018 | CC0 | Konevi | [Commons](https://commons.wikimedia.org/wiki/File:Al-Masjid_An-Nabawi_(Bird%27s_Eye_View).jpg) |
 | 08 | The Green Dome | 2024 | CC0 | Bjelica | [Commons](https://commons.wikimedia.org/wiki/File:Green_Dome_in_2024.jpg) |
+| 09 | The ruins of the old Hudaibiya mosque | 2015 | CC BY-SA 3.0 | GusJuned | [Commons](https://commons.wikimedia.org/wiki/File:Old_Hubaidiyah_Mosque_-_panoramio_(1).jpg) |
+| 10 | The Hudaibiya mosque today, at al-Shumaisi | 2015 | CC BY-SA 3.0 | GusJuned | [Commons](https://commons.wikimedia.org/wiki/File:Hudaibiyah_Mosque_-_panoramio.jpg) |
 
 Image 04 is tagged "before 1900" on Commons, but a motor vehicle is parked at the lower edge of
 the frame, so the photograph is almost certainly 20th-century and the public-domain tag may not

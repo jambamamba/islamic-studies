@@ -195,9 +195,14 @@ Three things are worth knowing before reading them.
 beside each map lists the red places with a line on why the section names them.
 
 **Some places are too close together to separate.** Mecca and the Cave of Hira are two miles
-apart, Medina and Uhud three, Mecca and Arafat thirteen. At the scale of a page these fall on
-the same dot, so a second panel enlarges the Hejaz where that helps, and the rest is handled in
-the card rather than by pretending the map can show it.
+apart, Medina and Uhud three, Mecca and Arafat thirteen. At the scale of a page these fall on the
+same dot, so a second panel enlarges the ground. Most maps enlarge **the Hejaz**. Three of them —
+[the Cave of Hira](#1-the-cave-of-hira-and-the-first-revelation-610-ce),
+[the Cave of Thawr](#3-the-cave-of-thawr) and
+[the Treaty of Hudaibiya](#4-the-treaty-of-hudaibiya-628-ce) — enlarge **Mecca and its
+surroundings** instead, at ten miles to the inch, because at that scale the two caves and the
+treaty ground do separate from the city and from each other. What still will not separate is
+handled in the card rather than by pretending the map can show it.
 
 **The routes are schematic.** A dashed arrow records that a journey happened between two places,
 not the road it took. The Meccan caravan road to Syria, the crossing to Abyssinia and the route
@@ -212,8 +217,9 @@ shoreline. The maps were drawn for this document; nothing on them is a historica
 
 # The Photographs
 
-Five places in this document still exist and can be photographed: the two caves, the two mosques,
-and the burial chamber. Photographs of them are placed in the sections that describe them.
+Six places in this document still exist and can be photographed: the two caves, the two mosques,
+the burial chamber, and the ground at al-Hudaibiya. Photographs of them are placed in the sections
+that describe them.
 
 **The caves are the only originals.** Ghar Hira and Ghar Thawr are natural clefts in granite, and
 the rock in the pictures is the rock the sources describe. Everything around them is new. Both
@@ -230,6 +236,10 @@ it appears beside the modern view so the difference is visible.
 **The burial chamber cannot be photographed inside.** The grave is closed, and the pictures show
 the Green Dome over it, built in 1818 and painted green in 1837 — twelve centuries after the
 burial.
+
+**Al-Hudaibiya is a site rather than a building.** The treaty was signed at a well in open ground.
+What stands there now is a ruined later mosque built to mark the spot, and a working mosque beside
+it; the pictures show both, and neither is contemporary with the event.
 
 Sources and licenses for every photograph are in [images/CREDITS.md](images/CREDITS.md).
 
@@ -401,7 +411,7 @@ For what the building has looked like since, see
 
 ## 1. The Cave of Hira and the First Revelation, 610 CE
 
-![Regional map: Mecca highlighted, with a note that Ghar Hira lies about two miles outside the city](images/maps/p2-hira.png)
+![Map: Mecca highlighted in the Hejaz, with an enlarged panel of Mecca and its surroundings showing Ghar Hira on Jabal al-Nour about two miles northeast of the city](images/maps/p2-hira.png)
 
 Approaching forty, troubled by the idolatry and the treatment of the weak in Meccan society, he
 began withdrawing for long stretches to **Ghar Hira**, a small cave on Jabal al-Nour, the
@@ -814,6 +824,8 @@ We have put before them a barrier and behind them a barrier and covered them so 
 
 ## 3. The Cave of Thawr
 
+![Map: Medina and Mecca highlighted, with an enlarged panel of Mecca and its surroundings showing Ghar Thawr about four miles south of the city, in the opposite direction to Medina](images/maps/p3-thawr.png)
+
 He met **Abu Bakr**, and the two went south, the wrong way for Medina, to break the trail. They
 hid in **Ghar Thawr**, the Cave of Thawr.
 
@@ -963,7 +975,7 @@ are charted and dated in [Appendix: The Campaigns](#appendix-the-campaigns-624-6
 
 ## 4. The Treaty of Hudaibiya, 628 CE
 
-![Regional map: the route from Medina toward Mecca, stopped at al-Hudaibiya just outside the city](images/maps/p4-hudaibiya.png)
+![Map: the march from Medina stopped short of Mecca, with an enlarged panel of Mecca and its surroundings showing al-Hudaibiya about fifteen miles west of the city, beyond At-Tan'im](images/maps/p4-hudaibiya.png)
 
 Six years after the Hijrah, the Prophet dreamed that he and his companions were performing
 *umrah* at the Kaaba. In March 628 CE he set out for Mecca with 1,400 unarmed men in pilgrim
@@ -986,6 +998,26 @@ The reason became visible within two years. Peace meant that Muslims and pagans 
 trade, and argue about religion without a state of war between them. More people accepted Islam
 in the two years after Hudaibiya than in the previous fifteen, which is why the conquest of Mecca
 in 630 CE could be carried out almost without fighting.
+
+### The Place
+
+Al-Hudaibiya was a well and a stretch of valley on the old road to Jeddah, about fifteen miles
+west of Mecca, on the edge of the sacred territory — the sources put part of the ground inside the
+boundary and part outside it, which is why the place matters in law as well as in the story. The
+modern name for it is **al-Shumaisi**.
+
+![The ruins of the old Hudaibiya mosque: rubble-stone walls a few feet thick with one surviving arch, visitors standing among them, and the minaret of the modern mosque behind](images/sites/09-hudaibiya-old-mosque-ruin.jpg)
+
+> What is left of the old mosque built on the site, standing in the open beside the new one. The
+> walls are undressed local stone laid in mortar. The dark writing over them is visitors' names.
+> Nothing here dates from 628 CE; the ruin is of a later mosque marking the spot.
+
+![The modern Hudaibiya mosque at dusk: a low white building with a single tall minaret, pilgrims in ihram gathered outside, cars and a shop at the roadside](images/sites/10-hudaibiya-mosque-today.jpg)
+
+> The mosque that replaced it, and the reason the men outside are in pilgrim dress. The place
+> where a pilgrimage was stopped is now a *miqat*, one of the points at which pilgrims already
+> inside the sanctuary boundary enter the state of *ihram* to begin one. The road behind is the
+> old Jeddah road.
 
 > **Reference:** Quran, Surah al-Fath (48:1); Sahih al-Bukhari, Book 54, Hadith 19.
 
