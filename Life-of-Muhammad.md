@@ -47,6 +47,7 @@
 - [5. The Year of Sorrow and the Journey to Ta'if, 619 CE](#5-the-year-of-sorrow-and-the-journey-to-taif-619-ce)
 - [6. Re-entering Mecca Under Mut'im ibn Adi](#6-re-entering-mecca-under-mutim-ibn-adi)
 - [7. The Night Journey and the Ascension, c. 621 CE](#7-the-night-journey-and-the-ascension-c-621-ce)
+- [8. The Pilgrimage Seasons and the Pledges of al-Aqabah, 620-622 CE](#8-the-pilgrimage-seasons-and-the-pledges-of-al-aqabah-620-622-ce)
 
 **Part Three: [The Hijrah, 622 CE](#part-three-the-hijrah-622-ce)**
 
@@ -82,6 +83,14 @@
 - [1. How to Read It](#1-how-to-read-it)
 - [2. The Marriages](#2-the-marriages)
 - [3. Where the Sources Disagree](#3-where-the-sources-disagree)
+
+**[Appendix: Bilal ibn Rabah](#appendix-bilal-ibn-rabah)**
+
+- [1. The Torture and the Manumission](#1-the-torture-and-the-manumission)
+- [2. Why He Was Made Muezzin](#2-why-he-was-made-muezzin)
+- [3. The Contempt, and Who It Came From](#3-the-contempt-and-who-it-came-from)
+- [4. What Muhammad Did About It](#4-what-muhammad-did-about-it)
+- [5. Popular but Not Sound](#5-popular-but-not-sound)
 
 **[Appendix: The Kaaba Through the Centuries](#appendix-the-kaaba-through-the-centuries)**
 
@@ -368,11 +377,18 @@ For what the building has looked like since, see
 └────────────────────┘   └────────────────────┘   └────────────────────┘   └────────────────────┘
                                                                                       │
                                                                                       ▼
-                         ┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐
-                         │       622 CE       │   │       622 CE       │   │     c. 621 CE      │
-                         │ Hijrah to Yathrib  │◄──│Plot to kill him at │◄──│ Night Journey and  │
-                         │ Year 1 A.H. begins │   │    Dar al-Nadwa    │   │     Ascension      │
-                         └────────────────────┘   └────────────────────┘   └────────────────────┘
+┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐
+│       621 CE       │   │     c. 621 CE      │   │       620 CE       │   │     619-621 CE     │
+│    First Pledge    │◄──│ Night Journey and  │◄──│  Six Khazraj men   │◄──│ Offers himself to  │
+│ Twelve men, no war │   │     Ascension      │   │ meet him at Aqabah │   │ tribes at the hajj │
+└────────────────────┘   └────────────────────┘   └────────────────────┘   └────────────────────┘
+           │
+           ▼
+┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐   ┌────────────────────┐
+│     621-622 CE     │   │       622 CE       │   │       622 CE       │   │       622 CE       │
+│  Mus'ab ibn Umayr  │──►│   Second Pledge    │──►│Plot to kill him at │──►│ Hijrah to Yathrib  │
+│ teaches at Yathrib │   │ 73 pledge to fight │   │    Dar al-Nadwa    │   │ Year 1 A.H. begins │
+└────────────────────┘   └────────────────────┘   └────────────────────┘   └────────────────────┘
 ```
 
 > **Two events in the chart above are not given their own section here, because the transcript
@@ -655,6 +671,97 @@ truth.
 > **Reference:** Quran, Surah al-Isra (17:1) and Surah an-Najm (53:13-18); Sahih al-Bukhari,
 > Book 59, Hadith 18.
 
+## 8. The Pilgrimage Seasons and the Pledges of al-Aqabah, 620-622 CE
+
+![Regional map: Mecca and Yathrib highlighted, with the pilgrim route drawn south from Yathrib, and al-Aqabah and Ukaz noted as too close to Mecca to separate](images/maps/p2-aqabah.png)
+
+Ta'if had shown that no neighboring town would take him. Mecca itself was closed. What was left
+was the hajj, the one season in the year when the rest of Arabia came to him.
+
+During the sacred months, at Mina and at the market fairs of **Ukaz**, **Majanna**, and **Dhu
+al-Majaz**, he went from camp to camp offering himself to tribes by name. Ibn Ishaq lists Banu
+Kalb, Banu Hanifa, Banu Amir ibn Sa'sa'a, Kinda, and Banu Bakr ibn Wa'il among them. **Abu
+Lahab** followed him from camp to camp contradicting him to each.
+
+**The exchange with Banu Amir is the one that explains the rest.** A man of theirs, **Bayhara ibn
+Firas**, worked out what backing him would cost and asked the obvious question: if we pledge to
+you, and God gives you victory over your opponents, do we hold the authority after you?
+
+> "This matter belongs to God. He puts it where He wills."
+
+Bayhara refused. They were not going to make war on the whole of Arabia for a man who would not
+promise them the succession. Every tribe turned him down on some version of those grounds. The
+terms Banu Amir rejected are exactly the terms the men of Yathrib later accepted.
+
+### Why Yathrib Was Different
+
+Two conditions held there and nowhere else.
+
+**The city had fought itself to a standstill.** The **Battle of Bu'ath**, around 617 CE, was the
+last and worst engagement of a long war between the **Aws** and the **Khazraj**. Neither side
+could win it, both were exhausted, and no arbiter inside the city was neutral enough to be
+accepted by the other tribe. They were looking for an outsider.
+
+**Their Jewish neighbors had been describing an expected prophet to them for years.** In the
+ordinary friction between the Arab and Jewish tribes of Yathrib, the Arabs had heard that a
+prophet was due, and that when he came the Jews would follow him and finish their opponents off.
+When the Khazraj men heard Muhammad at al-Aqabah, they are reported to have said to each other
+that this was the man the Jews had been threatening them with, and that they had better reach him
+first. A warning meant to intimidate worked as an introduction.
+
+### 620 CE: Six Men of the Khazraj
+
+At al-Aqabah, a defile near Mina, he met six men of the Khazraj at the pilgrimage. **As'ad ibn
+Zurarah** was among them. They accepted Islam, went home, and talked. Within a year there was
+hardly a household in Yathrib that had not heard of him.
+
+### 621 CE: The First Pledge
+
+Twelve men came the next season, ten of the Khazraj and two of the Aws, and pledged:
+
+* Not to associate anything with God
+* Not to steal
+* Not to commit adultery
+* Not to kill their children
+* Not to bring a slander of their own devising
+* Not to disobey him in what is right
+
+**There is no clause about fighting.** Ibn Hisham calls this *bay'at al-nisa*, the Pledge of the
+Women, because the terms are the ones later taken from women at the conquest of Mecca, the wording
+of **Quran 60:12**. It was a religious undertaking, not a treaty.
+
+### 621-622 CE: Mus'ab ibn Umayr
+
+He sent **Mus'ab ibn Umayr** back with them to recite the Quran and teach, and this is the hinge
+of the whole sequence. Mus'ab converted **Usayd ibn Hudayr** and **Sa'd ibn Mu'adh**, the chiefs
+of the Aws, and Sa'd's clan, **Banu Abd al-Ashhal**, came over behind him almost entire. That
+turned a Khazraj foothold into something spanning both tribes, and made the following year
+possible. Sa'd ibn Mu'adh is the same man who gave the judgment on Banu Qurayza five years later.
+
+### 622 CE: The Second Pledge
+
+Seventy-three men and two women came the next season and met him at night at al-Aqabah. The women
+were **Nusayba bint Ka'b**, later called Umm Umara, and **Asma bint Amr**. His uncle **al-Abbas**,
+still not a Muslim, came with him and spoke first, to make sure they understood the size of what
+they were taking on.
+
+This time the terms were military. They pledged to listen and obey in ease and in hardship, to
+spend in plenty and in scarcity, to enjoin good and forbid evil, and to protect him as they
+protected their own women and children. It is remembered as *bay'at al-harb*, the Pledge of War.
+
+He then had them name twelve *naqibs*, deputies answerable for their own people keeping the
+pledge: nine of the Khazraj, three of the Aws, in proportion to their numbers.
+
+**So the welcome at the other end of the Hijrah was not hospitality.** It was a community two
+years old with an appointed leadership, built by a missionary he had sent ahead, bound by an
+explicit undertaking to fight for him, negotiated across three consecutive pilgrimage seasons. The
+plot at Dar al-Nadwa in the next part is the Quraysh reacting to the news of that pledge.
+
+> **Reference:** Sirat Ibn Hisham, the chapters on the offering to the tribes and the two pledges;
+> Sirat Rasul Allah by Ibn Ishaq; Musnad Ahmad 15798 for the second pledge; Quran, Surah
+> al-Mumtahanah (60:12) for the terms of the first. The dates of the pilgrimage-season preaching
+> overlap the Night Journey in section 7, which is why this section runs back to 619 CE.
+
 ---
 
 # Part Three: The Hijrah, 622 CE
@@ -678,7 +785,10 @@ truth.
 
 ## 1. The Plot at Dar al-Nadwa
 
-By 622 CE the Quraysh had decided that exile and boycott had failed. Their leaders met at **Dar
+By 622 CE the Quraysh had decided that exile and boycott had failed, and they now had a reason to
+hurry: word had reached them of
+[the pledge taken at al-Aqabah](#8-the-pilgrimage-seasons-and-the-pledges-of-al-aqabah-620-622-ce),
+and of the Muslims already slipping north to Yathrib in ones and twos. Their leaders met at **Dar
 al-Nadwa**, the council hall, and settled on assassination. To keep Banu Hashim from taking
 blood vengeance on any single clan, they agreed that one young man from every Meccan clan would
 strike at the same moment, so that the guilt, and the liability, would be shared by all of them
@@ -1319,6 +1429,134 @@ give a single year, take it as the year most sources settle on rather than a fix
 
 ---
 
+# Appendix: Bilal ibn Rabah
+
+Bilal runs through the whole of this document without ever getting a section, because his life
+crosses every part of it: tortured at Mecca in Part Two, calling the prayer at Medina in Part
+Three, standing on the Kaaba in Part Four. This appendix pulls the thread together, and separates
+what the sound collections carry from what has grown around it.
+
+## 1. The Torture and the Manumission
+
+Bilal ibn Rabah was born at Mecca to **Hamama**, an Abyssinian woman. His father Rabah's origin is
+disputed in the sources. He belonged to **Umayya ibn Khalaf** of Banu Jumah, and when he accepted
+Islam his owner made a public example of him: pinned on the hot sand under a boulder, dragged
+through the streets for the children to jeer at. He is reported to have answered with one word,
+repeated: **"Ahad, ahad"** — one, one.
+
+**Abu Bakr bought him and freed him.** Reports of the price vary, seven *uqiyas* of silver being
+the usual figure, and Umayya is said to have remarked that he would have sold for one, with Abu
+Bakr answering that he would have paid a hundred. Bilal was one of a group Abu Bakr bought out of
+torture, among them **Amir ibn Fuhayra**, **Zinnira**, **Umm Ubays**, and **Nahdiya** and her
+daughter. Commentators including Ibn Kathir attach Surah al-Layl (92:5-21) to this.
+
+Umar's summary of it, decades later:
+
+> "Abu Bakr is our master, and he freed our master."
+
+## 2. Why He Was Made Muezzin
+
+The call to prayer was settled at Medina in 1 A.H. **Abdullah ibn Zayd** saw the wording of it in
+a dream and brought it to the Prophet; Umar reported having seen the same thing.
+
+**The man who received it was not the man told to perform it.** The Prophet had Ibn Zayd teach the
+words to Bilal and had Bilal make the call, on a stated ground: Bilal's voice carried further. The
+most public office in the new city, five times a day, went to a freed Abyssinian slave on a
+technical qualification, in front of Arabs of standing who wanted it.
+
+He also handled the *bayt al-mal*, paying out to widows, orphans, and travelers.
+
+The regard was personal as well as official. In a report in Bukhari, the Prophet told Bilal he had
+heard the sound of his sandals ahead of him in Paradise, and asked what deed he was counting on.
+Bilal said he had never performed the ablution at any hour without praying whatever was appointed
+for him to pray.
+
+## 3. The Contempt, and Who It Came From
+
+Two episodes are usually run together. They are not the same, and they did not come from the same
+people.
+
+**At the conquest of Mecca, 630 CE.** Bilal gave the call to prayer from the roof of the Kaaba.
+Among the Quraysh watching, **Attab ibn Asid** said he thanked God his father had died before
+seeing this black man raised above them. **Al-Harith ibn Hisham** said that if he thought this man
+were on the truth he would follow him — which is a statement of unbelief, not of Muslim opinion.
+**Abu Sufyan** said he would say nothing, because the stones would carry it back. The Prophet came
+to them and repeated each remark word for word, and al-Harith took the shahada on the spot.
+
+Read who is speaking. These are the defeated Meccan aristocracy on the day of their defeat, most
+of them not yet believers, watching a man they had owned and tortured stand on their sanctuary.
+The resentment is about the reversal as much as the color. Note also where the account comes
+from: this is *seerah*, carried by Ibn Ishaq and al-Waqidi, not a report in Bukhari or Muslim, and
+it is told as a proof of prophecy rather than as a record of who said what.
+
+**The incident inside the community is the Abu Dharr report**, and it is the graver of the two
+precisely because the man was a Companion of long standing. It is also the better attested, in
+Bukhari and Muslim both. In the text as those two carry it, Abu Dharr insulted *a man* by his
+mother — Bilal is not named, and the phrase everyone quotes is not there. See
+[Popular but Not Sound](#5-popular-but-not-sound). The rebuke:
+
+> "Did you abuse him by his mother? You are a man in whom there is *jahiliyya*. Your brothers are
+> your servants, whom God has placed under your hand. Whoever has his brother under his hand, let
+> him feed him from what he eats and clothe him from what he wears, and not burden him beyond his
+> capacity — and if he does, let him help him."
+
+## 4. What Muhammad Did About It
+
+Four things, in descending order of how well each is attested.
+
+**He gave Bilal the job.** The answer that mattered was structural, not rhetorical: the most
+audible office in Medina, at its highest point, and later the roof of the Kaaba itself. Position
+settles a question that argument does not.
+
+**He named the fault and converted it into a duty.** The Abu Dharr rebuke does two things in one
+breath. It diagnoses — this is *jahiliyya*, the thing you all left — and then it turns immediately
+to food, clothing, and workload. The correction lands as an obligation, not a sentiment.
+
+**He backed Bilal socially where it cost something.** When Bilal proposed marriage to an Arab
+family, introducing himself as a former Abyssinian slave and leaving them the choice, the family
+came to ask what the Prophet thought. He recommended Bilal to them, and repeated it. The sourcing
+here is secondary — al-Baladhuri and others — and the family's identity varies between accounts.
+
+**He stated the principle.** Quran 49:13, that the nations and tribes exist "that you may know one
+another," and the noblest is the most God-fearing. And the line in the Farewell Sermon that no
+Arab is above a non-Arab and no white above a black except in piety. **On the sourcing of that
+line, see below.**
+
+## 5. Popular but Not Sound
+
+Three of the best-known items in Bilal's story do not survive checking, and a fourth is sound but
+routinely over-sourced.
+
+**"O son of the black woman."** The version in Sahih al-Bukhari and Sahih Muslim says only that
+Abu Dharr abused *a man* by his mother. It does not name Bilal and it does not use the phrase. The
+identification with Bilal comes from the commentators, chiefly **Ibn Hajar in Fath al-Bari**,
+reasoning from Hamama's name. It is a reasonable inference and it is not the text.
+
+**Abu Dharr laying his cheek in the dirt** and refusing to lift it until Bilal stepped on it is a
+later addition, absent from the two Sahihs and rejected by hadith critics; it is catalogued among
+the reports that are famous and do not hold up.
+
+**"The *sin* of Bilal is *shin* before God"** — the story that he could not pronounce *ashhadu*
+and was accepted anyway — **is fabricated**. Ibn al-Jawzi, al-Sakhawi, al-Mizzi, Ibn Kathir and
+Ibn Taymiyya all rejected it, and Ibn Kathir noted that Bilal was in fact known for clear speech.
+Al-Mizzi's remark is that it spread among ordinary people and is in no reliable book. It appears
+in popular accounts constantly.
+
+**One caveat on a sound point.** The "no Arab above a non-Arab, no white above a black" passage is
+in **Musnad Ahmad**, not in the Farewell Sermon as Sahih Muslim records it. The sentiment is
+firmly Quranic either way, at 49:13 and 30:22; the sermon wording has a thinner chain than the
+sermon's other clauses quoted in
+[The Farewell Pilgrimage and Sermon](#1-the-farewell-pilgrimage-and-sermon-632-ce).
+
+> **Reference:** Sahih al-Bukhari, Book 62, Hadith 3754 (Umar on Abu Bakr and Bilal) and Book 2,
+> Hadith 30 (the rebuke to Abu Dharr); Sahih Muslim, the Book of Oaths, for the same report; Sunan
+> Abi Dawud, Hadith 499 (the dream of the adhan and Bilal's voice); Sahih al-Bukhari, Book 19,
+> Hadith 1149 (his sandals in Paradise); Sirat Ibn Hisham and Kitab al-Maghazi by al-Waqidi for
+> the conquest; Quran, Surah al-Hujurat (49:13) and Surah ar-Rum (30:22).
+
+
+---
+
 # Appendix: The Kaaba Through the Centuries
 
 Twenty-five pictures of the Kaaba in date order, from an 11th-century carving to a photograph
@@ -1568,6 +1806,7 @@ actually support, see [History-of-Hadith.md](History-of-Hadith.md), Part Four.
 | Ta'if and the Angel of the Mountains | Sahih al-Bukhari 59:46; Sahih Muslim 32:112; Sirat Ibn Hisham |
 | Re-entry under Mut'im ibn Adi | Sahih al-Bukhari 60:23; Sirat Ibn Hisham |
 | The Night Journey and Ascension | Quran 17:1 and 53:13-18; Sahih al-Bukhari 59:18 |
+| The pilgrimage seasons and the two pledges | Sirat Ibn Hisham; Sirat Rasul Allah by Ibn Ishaq; Musnad Ahmad 15798; Quran 60:12 |
 | The plot and Ali in the bed | Sirat Ibn Hisham; al-Tabari, Vol. 6; Quran 36:9 |
 | The Cave of Thawr | Quran 9:40; Sahih al-Bukhari 65:4663 |
 | Arrival at Medina, the mosque | Sahih al-Bukhari 63:3932; Ibn Sa'd |
@@ -1582,6 +1821,7 @@ actually support, see [History-of-Hadith.md](History-of-Hadith.md), Part Four.
 | The conquest of Mecca | Sahih al-Bukhari 64:4280; Sahih Muslim 32:1780 |
 | The Farewell Sermon | Sahih Muslim 15:159; Musnad Ahmad 22978; Sirat Ibn Hisham |
 | His death and Abu Bakr's address | Sahih al-Bukhari 86:21; Quran 3:144 |
+| Bilal: manumission, the adhan, Abu Dharr | Sahih al-Bukhari 62:3754 and 2:30; Sunan Abi Dawud 499; Sirat Ibn Hisham |
 
 ## 3. A Caution on Citation Numbers
 
@@ -1599,8 +1839,9 @@ words.
 The conversation this document came from moved through the well-known episodes and left gaps.
 The following belong to the Prophet's life and are not treated here:
 
-* **The pledges of al-Aqabah**, 621 and 622 CE, the agreements with the men of Yathrib that made
-  the Hijrah possible in the first place
+* **The persecution of the weak and enslaved** at Mecca as a subject in its own right. One case,
+  Bilal, has [an appendix](#appendix-bilal-ibn-rabah); the others named in the Part Two chart do
+  not
 * **His children**: his daughters, and his sons who died in infancy. The wives are listed in
   [Appendix: The Life in Events and Marriages](#appendix-the-life-in-events-and-marriages), but
   none of those marriages gets a narrative section here

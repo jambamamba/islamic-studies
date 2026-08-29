@@ -7,7 +7,8 @@ the Artist and Source lines given here.
 
 ## Maps
 
-`images/maps/*.png` — drawn for this document. Coastlines are from **Natural Earth**
+`images/maps/*.png` — drawn for this document, sixteen of them, one per section that names a
+place. Coastlines are from **Natural Earth**
 (`ne_50m_land`), which is in the public domain and free of any use restriction. The
 drawing code and the place data are original to this repository.
 
